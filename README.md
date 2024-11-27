@@ -15,11 +15,12 @@ This is an active repository, you can watch for following the latest advances. I
 ## Overview
 
   - [Object Pose Estimation](#object-pose-estimation)
-  - [SLAM](#slam)
+  - [Perception](#perception)
   - [Manipulation/RL](#manipulationrl)
   - [Object Reconstruction](#object-reconstruction)
   - [Physics](#physics)
   - [Planning/Navigation](#planningnavigation)
+  - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
 
 ---
 ## Object Pose Estimation
@@ -71,111 +72,9 @@ This is an active repository, you can watch for following the latest advances. I
 * **One-step NeRF**: "Marrying NeRF with Feature Matching for One-step Pose Estimation", *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.00891)] [[Short Video](https://www.youtube.com/watch?v=70fgUobOFWo)] [[Website&Code] Coming]
 
 ---
-## SLAM
+## Perception
 * **iSDF**: "Real-Time Neural Signed Distance Fields for Robot Perception", *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
 
-* **LENS**: "LENS: Localization enhanced by NeRF synthesis", *CORL, 2021*. [[Paper](https://arxiv.org/abs/2110.06558)]
-
-* **NICE-SLAM**: "Neural Implicit Scalable Encoding for SLAM", *CVPR, 2021*. [[Paper](https://arxiv.org/abs/2112.12130)] [Pytorch Code](https://github.com/cvg/nice-slam)] [[Website](https://pengsongyou.github.io/nice-slam?utm_source=catalyzex.com)]
-
-* **iMAP**: "Implicit Mapping and Positioning in Real-Time", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2103.12352)] [[Website](https://edgarsucar.github.io/iMAP/)]
-
-* **BNV-Fusion**: "BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion", *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2204.01139.pdf)] [Pytorch Code](https://github.com/likojack/bnv_fusion)]
-
-* **NeRF-SLAM**: "Real-Time Dense Monocular SLAM with Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/pdf/2210.13641.pdf)]
-
-* **NICER-SLAM**: "Neural Implicit Scene Encoding for RGB SLAM", *arXiv*. [[Paper](https://arxiv.org/pdf/2302.03594.pdf)] [[Video](https://youtu.be/tUXzqEZWg2w)]
-
-* **Nerfels**: "Renderable Neural Codes for Improved Camera Pose Estimation", *CVPR 2022 Workshop*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/IMW/papers/Avraham_Nerfels_Renderable_Neural_Codes_for_Improved_Camera_Pose_Estimation_CVPRW_2022_paper.pdf)]
-
-* **GO-Surf**: "A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping", *3DV, 2022*. [[Paper](https://arxiv.org/pdf/2206.14735.pdf)] [[Website(https://jingwenwang95.github.io/go_surf/)] [[Pytorch Code](https://github.com/JingwenWang95/go-surf)]
-
-* **Orbeez-SLAM**: "Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction", *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2209.13274.pdf)]
-
-* **ESLAM**: "Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields", *arXiv,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)]
-
-* **Panoptic Multi-TSDFs**: "a Flexible Representation for Online Multi-resolution Volumetric Mapping and Long-term Dynamic Scene Consistency", *ICRA,  2022*. [[Paper](https://arxiv.org/pdf/2211.11704.pdf)] [[Pytorch Code](https://github.com/ethz-asl/panoptic_mapping)]
-
-* **SHINE-Mapping**: "Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
-
-* "SDF-based RGB-D Camera Tracking in Neural Scene Representations", *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
-
-* **Loc-NeRF**: "Monte Carlo Localization using Neural Radiance Fields", *ICRA,  2023*. [[Paper](https://arxiv.org/abs/2209.09050)] [[Code](https://github.com/MIT-SPARK/Loc-NeRF)] [[Video](https://www.youtube.com/watch?v=yIgl3kbpbXY)]
-
-* **Vox-Fusion**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *ISMAR,  2022*. [[Paper](https://arxiv.org/pdf/2210.15858.pdf)] [[Website](https://yangxingrui.com/vox-fusion/)] [[Pytorch Code](https://github.com/zju3dv/Vox-Fusion)] [[Video](https://www.youtube.com/watch?v=Prp28y1b2Qs)]
-
-* **NodeSLAM**: "Dense Tracking and Mapping with Voxel-based Neural Implicit Representation", *3DV, 2020*. [[Paper](https://arxiv.org/pdf/2004.04485.pdf)] 
-
-* **iLabel**: "Revealing Objects in Neural Fields", *RA-L, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9996585)] 
-
-* **Nerf–**: "Neural radiance fields without known camera parameters", *arXiv*. [[Paper](https://arxiv.org/pdf/2102.07064.pdf)] 
-
-* **L2G-NeRF**: "Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2211.11505.pdf)] [[Website](https://rover-xingyu.github.io/L2G-NeRF/)] [[code](https://github.com/rover-xingyu/L2G-NeRF)]
-
-* **H2-Mapping**: "Real-time Dense Mapping Using Hierarchical Hybrid Representation", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2306.03207.pdf)] [[code](https://github.com/SYSU-STAR/H2-Mapping)]
-
-* **Continual Neural Mapping**: "Learning An Implicit Scene Representation from Sequential Observations", *ICCV,  2021*. [[Paper](https://arxiv.org/pdf/2108.05851.pdf)]
-
-* **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
-
-* "Dense RGB SLAM with neural implicit maps", *ICLR,  2023*. [[Paper](https://arxiv.org/pdf/2301.08930.pdf)]
-
-* **NOCaL**: Calibration-free semi-supervised learning of odometry and camera intrinsics, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2210.07435.pdf)] [[Website](https://roboticimaging.org/Projects/NOCaL/)]
-
-- **IRMCL**: Implicit Representation-based Online Global Localization, *arXiv*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Code](https://github.com/PRBonn/ir-mcl)]
-
-- Efficient Implicit Neural Reconstruction Using LiDAR, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2302.14363.pdf)] [[Website](http://starydy.xyz/EINRUL/)] [[Pytorch Code](https://github.com/StarRealMan/EINRUL)] [[Video](https://www.youtube.com/watch?v=wUp2I-X-IdI)]
-
-* **vMAP**: "Vectorised Object Mapping for Neural Field SLAM", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2302.01838.pdf)] [[Website](https://kxhit.github.io/vMAP)]
-
-* "An Algorithm for the SE(3)-Transformation on Neural Implicit Maps for Remapping Functions", *RA-L, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9804847)]
-
-* "Implicit Object Reconstruction With Noisy Data", *RSS Workshop, 2021*. [[Paper](https://arxiv.org/pdf/2204.10516.pdf)]
-
-* **NeuSE**: "Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects", *arXiv*. [[Paper](https://arxiv.org/pdf/2303.07308.pdf)] [[Website](https://neuse-slam.github.io/neuse/)]
-
-* **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
-
-* **NDF_Change**: "Robust Change Detection Based on Neural Descriptor Fields", *IROS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981246)]
-
-* **LNDF**: "Local Neural Descriptor Fields: Locally Conditioned Object Representations for Manipulation", *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2302.03573)] [[Webpage](https://elchun.github.io/lndf/)]
-
-- **NeRF-LOAM**: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2303.10709.pdf)] [[Code](https://github.com/JunyuanDeng/NeRF-LOAM)]
-
-* **NeuralBlox**: "Real-Time Neural Representation Fusion for Robust Volumetric Mapping", *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665902)] [[Code](https://github.com/ethz-asl/neuralblox)]
-
-- **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] [[Pytorch Code](https://github.com/huangjh-pub/di-fusion)] 
-
-* **CROSSFIRE**: "Camera Relocalization On Self-Supervised Features from an Implicit Representation", *arXiv*. [[Paper](https://arxiv.org/abs/2303.04869)]
-
-* **SDF-Loc**: "Signed Distance Field based 2D Relocalization and Map Update in Dynamic Environments", *ACC, 2019*. [[Paper](https://hitcm.github.io/data/papers/ACC19_sdf_loc.pdf)]
-
-* **iDF-SLAM**: "End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking", *arXiv*. [[Paper](https://arxiv.org/pdf/2209.07919.pdf)]
-
-* "Implicit Map Augmentation for Relocalization", *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
-
-* "Visual-Inertial Odometry Priors for Bundle-Adjusting Neural Radiance Fields", *ICCAS, 2022*. [[Paper](http://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Kim.pdf)]
-
-* "Towards Open World NeRF-Based SLAM", *arXiv, 2023*.  [[Paper](https://arxiv.org/pdf/2301.03102.pdf)]
-
-*  **Uni-Fusion**: Universal Continuous Mapping, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.12678.pdf)] [[Website](https://jarrome.github.io/Uni-Fusion/)]
-
-*  **NEWTON**: Neural View-Centric Mapping for On-the-Fly Large-Scale SLAM, *arXiv, 2023*.[[Paper](https://arxiv.org/pdf/2303.13654v1.pdf)]
-
-*  **Point-SLAM**: Dense Neural Point Cloud-based SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.04278.pdf)] [[Code](https://github.com/tfy14esa/Point-SLAM)]
-
-* "ActiveRMAP: Radiance Field for Active Mapping And Planning", *arXiv, 2022". [[Paper](https://arxiv.org/pdf/2211.12656.pdf)]
-
-* **NF-Atlas**: Multi-Volume Neural Feature Fields for Large Scale LiDAR Mapping, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.04624.pdf)]
-
-*  **RO-MAP**: Real-Time Multi-Object Mapping with Neural Radiance Fields, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.05735.pdf)] [[Code](https://github.com/XiaoHan-Git/RO-MAP)] [[Video](https://www.youtube.com/watch?v=sFrLXPw40wU)]
-
-*  **Co-SLAM**: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2304.14377.pdf)] [[Website](https://hengyiwang.github.io/projects/CoSLAM)]
-*  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
-
-* **2D-SDF-SLAM**: "A Signed Distance Function based SLAM Frontend for Laser Scanners", *IROS, 2015*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353633)]
-
-* **LONER**: "LiDAR Only Neural Representations for Real-Time SLAM", *RA-L, 2023*. [[paper](https://arxiv.org/abs/2309.04937)] [[code](https://github.com/umautobots/loner)] [[website](https://umautobots.github.io/loner)]
 ---
 ## Manipulation/RL
 
@@ -385,5 +284,11 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 
 * "Efficient View Path Planning for Autonomous Implicit Reconstruction", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05129)]
 
-* "Multi-Object Navigation with dynamically learned neural implicit representations", *arxiv*. [[Paper](https://arxiv.org/pdf/2209.13159.pdf)] [[Website](https://small-zeng.github.io/EVPP/)
+* "Multi-Object Navigation with dynamically learned neural implicit representations", *arxiv*. [[Paper](https://arxiv.org/pdf/2209.13159.pdf)] [[Website](https://small-zeng.github.io/EVPP/)]
 
+## 3D Gaussian Splatting
+* **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
+* **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
+* **Physically Embodied Gaussian Splatting**: A Visually Learnt and Physically Grounded 3D Representation for Robotics, *CoRL, 2024*. [[Paper](https://openreview.net/forum?id=AEq0onGrN2)] [[Website](https://embodied-gaussians.github.io/)]
+* **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
+* **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
