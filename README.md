@@ -14,7 +14,7 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 ## Overview
 - [Spatial Intelligence](#Spatial-Intelligence)
-	- [3D Generation](#3D-Generation)
+	- [3D Imagination](#3D-Imagination)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
 - [Manipulation/RL](#manipulationrl)
@@ -26,7 +26,7 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 ## Spatial Intelligence
 
-### 3D Generation
+### 3D Imagination
 
 - **ReconFusion**: 3D Reconstruction with Diffusion Priors, *CVPR, 2024*. [[Paper](https://arxiv.org/abs/2312.02981)] [[Website](https://reconfusion.github.io/)] [[Code (unofficial)](https://github.com/maxgillett/tinysplat)]
 - **ZeroNVS**: Zero-Shot 360-Degree View Synthesis from a Single Real Image, *CVPR, 2024*. [[Paper](https://arxiv.org/abs/2310.17994)] [[Website](https://kylesargent.github.io/zeronvs/)] [[Code](https://github.com/kylesargent/zeronvs)]
