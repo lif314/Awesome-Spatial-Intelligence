@@ -1,8 +1,8 @@
-# Awesome-Spatial-Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) [!
+# Awesome-Spatial-Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 
 ## 🏠 About
-This repo contains a curative list of **Spatial Intelligence for Robotics**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  and [awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM)<br>
+This repo contains a curative list of **Spatial Intelligence for Robotics**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  and [awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM)
 
 For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204) and [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/pdf/2210.00379.pdf)), Blog post ([NeRF Explosion 2020](https://dellaert.github.io/NeRF/)) and Collection ([awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)).
 
@@ -13,14 +13,26 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 ## Overview
+- [Spatial Intelligence](#Spatial-Intelligence)
+	- [3D Generation](#3D-Generation)
+- [Object Pose Estimation](#object-pose-estimation)
+- [Perception](#perception)
+- [Manipulation/RL](#manipulationrl)
+- [Object Reconstruction](#object-reconstruction)
+- [Physics](#physics)
+- [Planning/Navigation](#planningnavigation)
+- [3D Gaussian Splatting](#3D-Gaussian-Splatting)
 
-  - [Object Pose Estimation](#object-pose-estimation)
-  - [Perception](#perception)
-  - [Manipulation/RL](#manipulationrl)
-  - [Object Reconstruction](#object-reconstruction)
-  - [Physics](#physics)
-  - [Planning/Navigation](#planningnavigation)
-  - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
+---
+## Spatial Intelligence
+
+### 3D Generation
+
+- **ReconFusion**: 3D Reconstruction with Diffusion Priors, *CVPR, 2024*. [[Paper](https://arxiv.org/abs/2312.02981)] [[Website](https://reconfusion.github.io/)] [[Code (unofficial)](https://github.com/maxgillett/tinysplat)]
+- **ZeroNVS**: Zero-Shot 360-Degree View Synthesis from a Single Real Image, *CVPR, 2024*. [[Paper](https://arxiv.org/abs/2310.17994)] [[Website](https://kylesargent.github.io/zeronvs/)] [[Code](https://github.com/kylesargent/zeronvs)]
+- **Text2Room**: Extracting Textured 3D Meshes from 2D Text-to-Image Models, *ICCV (oral), 2023*. [[Paper](https://arxiv.org/abs/2303.11989)] [[Website](https://lukashoel.github.io/text-to-room/)] [[Code](https://github.com/lukasHoel/text2room)]
+- **WonderJourney**: Going from Anywhere to Everywhere, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.03884)] [[Website](https://kovenyu.com/wonderjourney/)] [[Code](https://github.com/KovenYu/WonderJourney)]
+
 
 ---
 ## Object Pose Estimation
