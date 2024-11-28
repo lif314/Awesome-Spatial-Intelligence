@@ -34,6 +34,16 @@ This is an active repository, you can watch for following the latest advances. I
 - **WonderJourney**: Going from Anywhere to Everywhere, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.03884)] [[Website](https://kovenyu.com/wonderjourney/)] [[Code](https://github.com/KovenYu/WonderJourney)]
 
 
+
+### 3D Segmentation
+
+- **LERF**: Language Embedded Radiance Fields, *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2303.09553)] [[Website](https://www.lerf.io/)] [[Code](https://github.com/kerrj/lerf)]
+- **LEGS**: Incrementally Building Room-Scale Language-Embedded Gaussian Splats (LEGS) with a Mobile Robot, *IROS 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)] [[Code](https://github.com/BerkeleyAutomation/L3GS)]
+- **OpenGaussian**: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.02058)] [[Website](https://3d-aigc.github.io/OpenGaussian/)] [[Code](https://github.com/yanmin-wu/OpenGaussian)]
+- **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, * ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
+- 
+
+
 ---
 ## Object Pose Estimation
 
