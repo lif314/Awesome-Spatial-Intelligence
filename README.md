@@ -15,13 +15,15 @@ This is an active repository, you can watch for following the latest advances. I
 ## Overview
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
+	- [3D Segmentation](#3D-Segmentation)
+	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
+- [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
 - [Manipulation/RL](#manipulationrl)
 - [Object Reconstruction](#object-reconstruction)
 - [Physics](#physics)
 - [Planning/Navigation](#planningnavigation)
-- [3D Gaussian Splatting](#3D-Gaussian-Splatting)
 
 ---
 ## Spatial Intelligence
@@ -33,15 +35,65 @@ This is an active repository, you can watch for following the latest advances. I
 - **Text2Room**: Extracting Textured 3D Meshes from 2D Text-to-Image Models, *ICCV (oral), 2023*. [[Paper](https://arxiv.org/abs/2303.11989)] [[Website](https://lukashoel.github.io/text-to-room/)] [[Code](https://github.com/lukasHoel/text2room)]
 - **WonderJourney**: Going from Anywhere to Everywhere, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.03884)] [[Website](https://kovenyu.com/wonderjourney/)] [[Code](https://github.com/KovenYu/WonderJourney)]
 
-
+---
 
 ### 3D Segmentation
 
 - **LERF**: Language Embedded Radiance Fields, *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2303.09553)] [[Website](https://www.lerf.io/)] [[Code](https://github.com/kerrj/lerf)]
 - **LEGS**: Incrementally Building Room-Scale Language-Embedded Gaussian Splats (LEGS) with a Mobile Robot, *IROS 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)] [[Code](https://github.com/BerkeleyAutomation/L3GS)]
 - **OpenGaussian**: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.02058)] [[Website](https://3d-aigc.github.io/OpenGaussian/)] [[Code](https://github.com/yanmin-wu/OpenGaussian)]
-- **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, * ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
+- **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
+- :fire: Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.11681)] [[Website](https://jojijoseph.github.io/3dgs-segmentation/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
+- :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
 - 
+
+### Zero Shot 3D Reconstruction
+
+- **DUSt3R**: Geometric 3D Vision Made Easy, *CVPR 2024* [[Paper](https://arxiv.org/abs/2312.14132)] [[Website](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/)] [[Code](https://github.com/naver/dust3r)]
+- **Splatt3R**: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2408.13912)] [[Website](https://splatt3r.active.vision/)] [[Code](https://github.com/btsmart/splatt3r)]
+- **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.03825)] [[Website](https://monst3r-project.github.io/)] [[Code](https://github.com/Junyi42/monst3r)]
+- **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
+- **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
+- 
+
+---
+
+### Single View 3D Reconstruction
+
+- **Zero-1-to-3**: Zero-shot One Image to 3D Object, *ICCV 2023*. [[Paper](https://arxiv.org/abs/2303.11328)] [[Website](https://zero123.cs.columbia.edu/)] [[Code](https://github.com/cvlab-columbia/zero123)]
+
+- **ImageDream**: Image-Prompt Multi-view Diffusion for 3D Generation, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2312.02201)] [[Website](https://image-dream.github.io/)] [[Code](https://github.com/bytedance/ImageDream)]
+
+- **LRM**: Large Reconstruction Model for Single Image to 3D, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2311.04400)] [[Website](https://yiconghong.me/LRM/)] [[Code](https://github.com/3DTopia/OpenLRM)]
+
+- **DMV3D**: Denoising Multi-View Diffusion using 3D Large Reconstruction Model, *ICLR 2024 spotlight*. [[Paper](https://arxiv.org/abs/2311.09217)] [[Website](https://justimyhxu.github.io/projects/dmv3d/)]
+
+- **TripoSR**: Fast 3D Object Reconstruction from a Single Image , *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.02151)] [[Code](https://github.com/VAST-AI-Research/TripoSR)]
+
+- **Triplane Meets Gaussian Splatting**: Fast and Generalizable Single-View 3D Reconstruction with Transformers , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.09147)] [[Website](https://zouzx.github.io/TriplaneGaussian/)] [[Code](https://github.com/VAST-AI-Research/TriplaneGaussian)]
+
+- **AGG**: Amortized Generative 3D Gaussians for Single Image to 3D , *TMLR 2024*. [[Paper](https://arxiv.org/abs/2401.04099)] [[Website](https://ir1d.github.io/AGG/)]
+
+- **LN3Diff**: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation , *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2403.12019.pdf)] [[Website](https://nirvanalan.github.io/projects/ln3diff/)] [[Code](https://github.com/NIRVANALAN/LN3Diff)]
+
+- **NViST**: In the Wild New View Synthesis from a Single Image with Transformers , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.08568)] [[Website](https://wbjang.github.io/nvist_webpage/)] [[Code](https://github.com/wbjang/nvist_official)]
+
+- **Splatter Image**: Ultra-Fast Single-View 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.13150)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Code](https://github.com/szymanowiczs/splatter-image)]
+
+- **pixelSplat**: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.12337)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Code](https://github.com/dcharatan/pixelsplat)]
+
+- **SSR**: Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture, *3DV 2024*. [[Paper](http://arxiv.org/abs/2311.00457)] [[Website](https://dali-jack.github.io/SSR/)] [[Code](https://github.com/DaLi-Jack/SSR-code)]
+
+
+
+## 3DGS/NeRF Manipulation
+
+* **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
+* **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
+* **Physically Embodied Gaussian Splatting**: A Visually Learnt and Physically Grounded 3D Representation for Robotics, *CoRL, 2024*. [[Paper](https://openreview.net/forum?id=AEq0onGrN2)] [[Website](https://embodied-gaussians.github.io/)]
+* **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
+* **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
+* 
 
 
 ---
@@ -307,10 +359,3 @@ https://arxiv.org/pdf/1901.05103.pdf)] [[Pytorch Code](https://github.com/facebo
 * "Efficient View Path Planning for Autonomous Implicit Reconstruction", *arxiv*. [[Paper](https://arxiv.org/abs/2210.05129)]
 
 * "Multi-Object Navigation with dynamically learned neural implicit representations", *arxiv*. [[Paper](https://arxiv.org/pdf/2209.13159.pdf)] [[Website](https://small-zeng.github.io/EVPP/)]
-
-## 3D Gaussian Splatting
-* **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
-* **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
-* **Physically Embodied Gaussian Splatting**: A Visually Learnt and Physically Grounded 3D Representation for Robotics, *CoRL, 2024*. [[Paper](https://openreview.net/forum?id=AEq0onGrN2)] [[Website](https://embodied-gaussians.github.io/)]
-* **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
-* **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
