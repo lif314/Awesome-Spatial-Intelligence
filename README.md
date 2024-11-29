@@ -16,6 +16,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
 	- [3D Segmentation](#3D-Segmentation)
+	- [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
 - [Object Pose Estimation](#object-pose-estimation)
@@ -51,6 +52,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **DUSt3R**: Geometric 3D Vision Made Easy, *CVPR 2024* [[Paper](https://arxiv.org/abs/2312.14132)] [[Website](https://europe.naverlabs.com/research/publications/dust3r-geometric-3d-vision-made-easy/)] [[Code](https://github.com/naver/dust3r)]
 - **Splatt3R**: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2408.13912)] [[Website](https://splatt3r.active.vision/)] [[Code](https://github.com/btsmart/splatt3r)]
+- **Spann3R**: 3D Reconstruction with Spatial Memory, *3DV 2025*. [[Paper](https://arxiv.org/abs/2408.16061)] [[Website](https://hengyiwang.github.io/projects/spanner)] [[Code](https://github.com/HengyiWang/spann3r)]
 - **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.03825)] [[Website](https://monst3r-project.github.io/)] [[Code](https://github.com/Junyi42/monst3r)]
 - **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
 - **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
