@@ -16,6 +16,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
 	- [3D Segmentation](#3D-Segmentation)
+	- [Task-Adaptive 3D Part Segmentation](Task-Adaptive-3D-Part-Segmentation)
 	- [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
@@ -46,7 +47,12 @@ This is an active repository, you can watch for following the latest advances. I
 - **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
 - :fire: Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.11681)] [[Website](https://jojijoseph.github.io/3dgs-segmentation/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
 - :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
-- 
+
+### Task-Adaptive 3D Part Segmentation
+
+- **PartSTAD**: 2D-to-3D Part Segmentation Task Adaptation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2401.05906)] [[Website](https://partstad.github.io/)] [[Code](https://github.com/KAIST-Visual-AI-Group/PartSTAD/)]
+- **SAMPart3D**: Segment Any Part in 3D Objects, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.07184v2)] [[Website](https://yhyang-myron.github.io/SAMPart3D-website/)] [[Code](https://github.com/Pointcept/SAMPart3D)]
+- :fire: **GARField**: Group Anything with Radiance Fields, *CVPR 2024*.  [[Paper](https://arxiv.org/abs/2401.09419)] [[Website](https://www.garfield.studio/)] [[Code](https://github.com/chungmin99/garfield)]
 
 ### Zero Shot 3D Reconstruction
 
@@ -56,7 +62,6 @@ This is an active repository, you can watch for following the latest advances. I
 - **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.03825)] [[Website](https://monst3r-project.github.io/)] [[Code](https://github.com/Junyi42/monst3r)]
 - **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
 - **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
-- 
 
 ---
 
@@ -95,7 +100,6 @@ This is an active repository, you can watch for following the latest advances. I
 * **Physically Embodied Gaussian Splatting**: A Visually Learnt and Physically Grounded 3D Representation for Robotics, *CoRL, 2024*. [[Paper](https://openreview.net/forum?id=AEq0onGrN2)] [[Website](https://embodied-gaussians.github.io/)]
 * **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
 * **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
-* 
 
 
 ---
