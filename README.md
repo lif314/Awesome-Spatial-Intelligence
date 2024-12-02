@@ -47,6 +47,7 @@ This is an active repository, you can watch for following the latest advances. I
 - **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
 - :fire: Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.11681)] [[Website](https://jojijoseph.github.io/3dgs-segmentation/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
 - :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
+- **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)]
 
 ### Task-Adaptive 3D Part Segmentation
 
@@ -100,6 +101,7 @@ This is an active repository, you can watch for following the latest advances. I
 * **Physically Embodied Gaussian Splatting**: A Visually Learnt and Physically Grounded 3D Representation for Robotics, *CoRL, 2024*. [[Paper](https://openreview.net/forum?id=AEq0onGrN2)] [[Website](https://embodied-gaussians.github.io/)]
 * **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
 * **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
+* **Splat-MOVER**: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.04378)] [[Website](https://splatmover.github.io/)] [[Code](https://github.com/StanfordMSL/Splat-MOVER)]
 
 
 ---
