@@ -15,7 +15,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## Overview
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
-	- [3D Segmentation](#3D-Segmentation)
+	- [3D Understanding](#3D-Understanding)
 	- [Task-Adaptive 3D Part Segmentation](Task-Adaptive-3D-Part-Segmentation)
 	- [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
@@ -39,7 +39,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 
-### 3D Segmentation
+### 3D Understanding
 
 - **LERF**: Language Embedded Radiance Fields, *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2303.09553)] [[Website](https://www.lerf.io/)] [[Code](https://github.com/kerrj/lerf)]
 - **LEGS**: Incrementally Building Room-Scale Language-Embedded Gaussian Splats (LEGS) with a Mobile Robot, *IROS 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18108)] [[Website](https://berkeleyautomation.github.io/LEGS/)] [[Code](https://github.com/BerkeleyAutomation/L3GS)]
@@ -47,13 +47,17 @@ This is an active repository, you can watch for following the latest advances. I
 - **FlashSplat**: 2D to 3D Gaussian Splatting Segmentation Solved Optimally, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.08270)] [[Code](https://github.com/florinshen/FlashSplat)]
 - :fire: Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.11681)] [[Website](https://jojijoseph.github.io/3dgs-segmentation/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
 - :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
+- :fire:**OOAL**: One-Shot Open Affordance Learning with Foundation Models, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2311.17776)] [[Website](https://reagan1311.github.io/ooal/)] [[Code](https://github.com/Reagan1311/OOAL)]
 - **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)]
+- **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2404.04242)] [[Website](https://ajzhai.github.io/NeRF2Physics/)] [[Code](https://github.com/ajzhai/NeRF2Physics)]
+- 
 
 ### Task-Adaptive 3D Part Segmentation
 
 - **PartSTAD**: 2D-to-3D Part Segmentation Task Adaptation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2401.05906)] [[Website](https://partstad.github.io/)] [[Code](https://github.com/KAIST-Visual-AI-Group/PartSTAD/)]
 - **SAMPart3D**: Segment Any Part in 3D Objects, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.07184v2)] [[Website](https://yhyang-myron.github.io/SAMPart3D-website/)] [[Code](https://github.com/Pointcept/SAMPart3D)]
 - :fire: **GARField**: Group Anything with Radiance Fields, *CVPR 2024*.  [[Paper](https://arxiv.org/abs/2401.09419)] [[Website](https://www.garfield.studio/)] [[Code](https://github.com/chungmin99/garfield)]
+- Open-Vocabulary Part-Based Grasping, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.05951)]
 
 ### Zero Shot 3D Reconstruction
 
@@ -63,6 +67,8 @@ This is an active repository, you can watch for following the latest advances. I
 - **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.03825)] [[Website](https://monst3r-project.github.io/)] [[Code](https://github.com/Junyi42/monst3r)]
 - **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
 - **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
+- **SelfSplat**: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.17190)] [[Website](https://gynjn.github.io/selfsplat/)] [[Code](https://github.com/Gynjn/selfsplat)]
+- 
 
 ---
 
@@ -92,9 +98,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **SSR**: Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture, *3DV 2024*. [[Paper](http://arxiv.org/abs/2311.00457)] [[Website](https://dali-jack.github.io/SSR/)] [[Code](https://github.com/DaLi-Jack/SSR-code)]
 
+- 
+
 
 
 ## 3DGS/NeRF Manipulation
+
+- **LERF-TOGO**: Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping, *CoRL 2023 (Best Paper Finalist)*. [[Paper](https://arxiv.org/abs/2309.07970)] [[Website](https://lerftogo.github.io/desktop.html)] [[Code](https://github.com/lerftogo/lerftogo)]
+- **F3RM**: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation, *[CoRL 2023 (Best Paper)](https://www.corl2023.org/)*. [[Paper](https://arxiv.org/abs/2308.07931)] [[Website](https://f3rm.github.io/)] [[Code](https://github.com/f3rm/f3rm)]
+- **SparseDFF**: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2310.16838)] [[Website](https://helloqxwang.github.io/SparseDFF/)] [[Code](https://github.com/helloqxwang/SparseDFF)]
+- Learning Generalizable Feature Fields for Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.07563)] [[Website](https://geff-b1.github.io/)]
+- **D$^3$Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement, *CoRL 2024 (Oral)*. [[Paper](https://openreview.net/forum?id=Uaaj4MaVIQ)] [[Website](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)]
 
 * **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
 * **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
@@ -102,6 +116,15 @@ This is an active repository, you can watch for following the latest advances. I
 * **RL-GSBridge**: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning, *submitted to ICRA, 2025*. [[Paper](https://arxiv.org/abs/2409.20291)]
 * **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, *RA-L, 2024*. [[Paper](https://arxiv.org/pdf/2403.09637)] [[Website](https://mrsecant.github.io/GaussianGrasper/)] [[Code](https://github.com/MrSecant/GaussianGrasper)]
 * **Splat-MOVER**: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.04378)] [[Website](https://splatmover.github.io/)] [[Code](https://github.com/StanfordMSL/Splat-MOVER)]
+* **GLOVER**: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.12286)] [[Website](https://teleema.github.io/projects/GLOVER/)]
+* **G3Flow**: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.18369)] [[Website](https://tianxingchen.github.io/G3Flow/)] [[Code](https://github.com/TianxingChen/G3Flow)]
+* **Click to Grasp**: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors, *IROS 2024*. [[Paper](https://arxiv.org/abs/2403.14526)] [[Website](https://tsagkas.github.io/click2grasp/)] [[Code](https://github.com/tsagkas/click2grasp)]
+* **MSGField**: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.15730)] [[Website](https://shengyu724.github.io/MSGField.github.io/)] [[Code](https://github.com/ShengYu724/MSGField)]
+* **ShapeGrasp**: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.18062)] [[Website](https://shapegrasp.github.io/)]
+* **Robo-ABC**: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2401.07487)] [[Website](https://tea-lab.github.io/Robo-ABC/)] [[Code](https://github.com/TEA-Lab/Robo-ABC)]
+* **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, *CoRL 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18121)] [[Website](https://robot-see-robot-do.github.io/)] [[Code](https://github.com/kerrj/rsrd)]
+* **NeuGraspNet**: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering, *RSS 2024*. [[Paper](https://arxiv.org/abs/2306.07392)] [[Website](https://sites.google.com/view/neugraspnet)] [[Code](https://github.com/pearl-robot-lab/neugraspnet)]
+* 
 
 
 ---
