@@ -20,6 +20,7 @@ This is an active repository, you can watch for following the latest advances. I
 	- [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
+- [Diffusion Policy](#Diffusion-Policy)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
 - [Manipulation/RL](#manipulationrl)
@@ -79,7 +80,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **ImageDream**: Image-Prompt Multi-view Diffusion for 3D Generation, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2312.02201)] [[Website](https://image-dream.github.io/)] [[Code](https://github.com/bytedance/ImageDream)]
 
-- **LRM**: Large Reconstruction Model for Single Image to 3D, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2311.04400)] [[Website](https://yiconghong.me/LRM/)] [[Code](https://github.com/3DTopia/OpenLRM)]
+- :+1:**LRM**: Large Reconstruction Model for Single Image to 3D, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2311.04400)] [[Website](https://yiconghong.me/LRM/)] [[Code](https://github.com/3DTopia/OpenLRM)]
 
 - **DMV3D**: Denoising Multi-View Diffusion using 3D Large Reconstruction Model, *ICLR 2024 spotlight*. [[Paper](https://arxiv.org/abs/2311.09217)] [[Website](https://justimyhxu.github.io/projects/dmv3d/)]
 
@@ -129,6 +130,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 ---
+## Diffusion Policy
+
+- **Diffusion Policy**: Visuomotor Policy Learning via Action Diffusion, *RSS 2023*. [[Paper](https://arxiv.org/abs/2303.04137v5)] [[Website](https://diffusion-policy.cs.columbia.edu/)] [[Code](https://github.com/real-stanford/diffusion_policy)]
+
+- **Scaling Up and Distilling Down**: Language-Guided Robot Skill Acquisition, *CoRL 2023*. [[Paper](https://openreview.net/forum?id=3uwj8QZROL)] [[Website](https://www.cs.columbia.edu/~huy/scalingup/)] [[Code](https://github.com/real-stanford/scalingup)]
+-  "Data Scaling Laws in Imitation Learning for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.18647)] [[Website](https://data-scaling-laws.github.io/)] [[Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws)] ``8 A100``
+
+
+
+---
+
 ## Object Pose Estimation
 
 * **BundleSDF**: "Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.14158.pdf)] [[Webpage](https://bundlesdf.github.io/)] 
