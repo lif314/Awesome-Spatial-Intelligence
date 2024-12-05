@@ -49,7 +49,6 @@ This is an active repository, you can watch for following the latest advances. I
 - :fire: Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.11681)] [[Website](https://jojijoseph.github.io/3dgs-segmentation/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-segmentation)]
 - :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
 - :fire:**OOAL**: One-Shot Open Affordance Learning with Foundation Models, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2311.17776)] [[Website](https://reagan1311.github.io/ooal/)] [[Code](https://github.com/Reagan1311/OOAL)]
-- **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)]
 - **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2404.04242)] [[Website](https://ajzhai.github.io/NeRF2Physics/)] [[Code](https://github.com/ajzhai/NeRF2Physics)]
 - 
 
@@ -70,17 +69,32 @@ This is an active repository, you can watch for following the latest advances. I
 - **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
 - **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
 - **SelfSplat**: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.17190)] [[Website](https://gynjn.github.io/selfsplat/)] [[Code](https://github.com/Gynjn/selfsplat)]
+- **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)]
+- **DiffusionGS**: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.14384v2)] [[Website](https://caiyuanhao1998.github.io/project/DiffusionGS/)] [[Code](https://github.com/caiyuanhao1998/Open-DiffusionGS)]
 - 
 
 ---
 
 ### Single View 3D Reconstruction
 
+- "Learning to Recover 3D Scene Shape from a Single Image", *CVPR 2021*. [[Paper](https://arxiv.org/abs/2012.09365)] [[Code](https://github.com/aim-uofa/AdelaiDepth)] 
+- **pixelNeRF**: Neural Radiance Fields from One or Few Images, *CVPR 2021*. [[Paper](https://arxiv.org/abs/2012.02190)] [[Website](https://alexyu.net/pixelnerf/)] [[Code](https://github.com/sxyu/pixel-nerf)]
+- **Behind the Scenes**: Density Fields for Single View Reconstruction, *CVPR 2023*. [[Paper](https://arxiv.org/abs/2301.07668)] [[Website](https://fwmb.github.io/bts/)] [[Code](https://github.com/Brummi/BehindTheScenes)]
+- **Know Your Neighbors**: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2404.03658)] [[Website](https://ruili3.github.io/kyn/)] [[Code](https://github.com/ruili3/Know-Your-Neighbors)]
+
 - **Zero-1-to-3**: Zero-shot One Image to 3D Object, *ICCV 2023*. [[Paper](https://arxiv.org/abs/2303.11328)] [[Website](https://zero123.cs.columbia.edu/)] [[Code](https://github.com/cvlab-columbia/zero123)]
+
+- **RealFusion**: 360° Reconstruction of Any Object from a Single Image, *CVPR 2023*. [[Paper](https://arxiv.org/abs/2302.10663)] [[Website](https://lukemelas.github.io/realfusion/)] [[Code](https://github.com/lukemelas/realfusion)]
+
+- **One-2-3-45**: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.16928)] [[Website](https://one-2-3-45.github.io/)] [[Code](https://github.com/One-2-3-45/One-2-3-45)] [[Demo](https://huggingface.co/spaces/One-2-3-45/One-2-3-45)]
+
+- **One-2-3-45++**: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2311.07885)] [[Website](https://sudo-ai-3d.github.io/One2345plus_page/)] [[Code](https://github.com/SUDO-AI-3D/One2345plus)] [[Demo](https://www.sudo.ai/3dgen)]
+
+- **Wonder3D**: Single Image to 3D using Cross-Domain Diffusion, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2310.15008)] [[Project](https://www.xxlong.site/Wonder3D/)] [[Code](https://github.com/xxlong0/Wonder3D)] [[Demo](https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo)]
 
 - **ImageDream**: Image-Prompt Multi-view Diffusion for 3D Generation, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2312.02201)] [[Website](https://image-dream.github.io/)] [[Code](https://github.com/bytedance/ImageDream)]
 
-- :+1:**LRM**: Large Reconstruction Model for Single Image to 3D, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2311.04400)] [[Website](https://yiconghong.me/LRM/)] [[Code](https://github.com/3DTopia/OpenLRM)]
+- :+1:**LRM**: Large Reconstruction Model for Single Image to 3D, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2311.04400)] [[Website](https://yiconghong.me/LRM/)] [[Code](https://github.com/3DTopia/OpenLRM)] [[Demo](https://huggingface.co/spaces/zxhezexin/OpenLRM)]
 
 - **DMV3D**: Denoising Multi-View Diffusion using 3D Large Reconstruction Model, *ICLR 2024 spotlight*. [[Paper](https://arxiv.org/abs/2311.09217)] [[Website](https://justimyhxu.github.io/projects/dmv3d/)]
 
@@ -100,7 +114,12 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **SSR**: Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture, *3DV 2024*. [[Paper](http://arxiv.org/abs/2311.00457)] [[Website](https://dali-jack.github.io/SSR/)] [[Code](https://github.com/DaLi-Jack/SSR-code)]
 
+- "Dynamic Scene Reconstruction from Single Landscape Image Using 4D Gaussian in the Wild", *arXiv 2024*. [[Paper](https://openreview.net/forum?id=HrwrydyPBD)] [[Website](https://cvsp-lab.github.io/3D_MRM_page/)]
+
+- **GRM**: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.14621)] [[Website](https://justimyhxu.github.io/projects/grm/)] [[Code](https://github.com/justimyhxu/grm)] [[Demo](https://huggingface.co/spaces/GRM-demo/GRM)]
+
 - 
+
 
 
 
