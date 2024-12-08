@@ -118,7 +118,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **GRM**: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.14621)] [[Website](https://justimyhxu.github.io/projects/grm/)] [[Code](https://github.com/justimyhxu/grm)] [[Demo](https://huggingface.co/spaces/GRM-demo/GRM)]
 
-- 
+- **LGM**: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation, *ECCV 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2402.05054)] [[Website](https://me.kiui.moe/lgm/)] [[Code](https://github.com/3DTopia/LGM)] [[Demo](https://huggingface.co/spaces/ashawkey/LGM)]
+
+- :fire: **TRELLIS**: Structured 3D Latents for Scalable and Versatile 3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.01506)] [[Website](https://trellis3d.github.io/)] [[Code](https://github.com/Microsoft/TRELLIS)] [[Demo](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)]
 
 
 
