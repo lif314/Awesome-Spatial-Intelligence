@@ -122,6 +122,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - :fire: **TRELLIS**: Structured 3D Latents for Scalable and Versatile 3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.01506)] [[Website](https://trellis3d.github.io/)] [[Code](https://github.com/Microsoft/TRELLIS)] [[Demo](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)]
 
+- **MIDI**: Multi-Instance Diffusion for Single Image to 3D Scene Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03558)] [[Website](https://huanngzh.github.io/MIDI-Page/)] [[Code](https://github.com/huanngzh/MIDI)]
+
+- 
+
 
 
 
