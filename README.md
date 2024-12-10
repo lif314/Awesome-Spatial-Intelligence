@@ -21,6 +21,7 @@ This is an active repository, you can watch for following the latest advances. I
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
 - [Diffusion Policy](#Diffusion-Policy)
+- [Scene Representation](Scene-Representation)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
 - [Manipulation/RL](#manipulationrl)
@@ -162,7 +163,11 @@ This is an active repository, you can watch for following the latest advances. I
 - **Scaling Up and Distilling Down**: Language-Guided Robot Skill Acquisition, *CoRL 2023*. [[Paper](https://openreview.net/forum?id=3uwj8QZROL)] [[Website](https://www.cs.columbia.edu/~huy/scalingup/)] [[Code](https://github.com/real-stanford/scalingup)]
 -  "Data Scaling Laws in Imitation Learning for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.18647)] [[Website](https://data-scaling-laws.github.io/)] [[Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws)] ``8 A100``
 
+## Scene Representation
 
+### 3D Gaussian Splatting
+
+- Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
 
 ---
 
