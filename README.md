@@ -14,7 +14,7 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 ## Overview
 
-- [Visual Language Action Models](#Visual-Language-Action-Models)
+- [Vision-Language-Action Models](#Vision-Language-Action-Models)
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
 	- [3D Understanding](#3D-Understanding)
@@ -32,7 +32,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 
-## Visual Language Action Models
+## Vision-Language-Action Models
 
 - **RT-1**: Robotics Transformer for Real-World Control at Scale, *arXiv 2022*. [[Paper](https://arxiv.org/abs/2212.06817)] [[Website](https://robotics-transformer1.github.io/)] [[Code](https://github.com/google-research/robotics_transformer)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)] [[Code](https://github.com/google-deepmind/open_x_embodiment)] [[Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0)] [[Google]]
