@@ -13,6 +13,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 ## Overview
+
+- [Visual Language Action Models](#Visual-Language-Action-Models)
 - [Spatial Intelligence](#Spatial-Intelligence)
 	- [3D Imagination](#3D-Imagination)
 	- [3D Understanding](#3D-Understanding)
@@ -20,7 +22,6 @@ This is an active repository, you can watch for following the latest advances. I
 	- [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
 	- [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [Diffusion Policy](#Diffusion-Policy)
 - [Scene Representation](Scene-Representation)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
@@ -30,6 +31,39 @@ This is an active repository, you can watch for following the latest advances. I
 - [Planning/Navigation](#planningnavigation)
 
 ---
+
+## Visual Language Action Models
+
+- **RT-1**: Robotics Transformer for Real-World Control at Scale, *arXiv 2022*. [[Paper](https://arxiv.org/abs/2212.06817)] [[Website](https://robotics-transformer1.github.io/)] [[Code](https://github.com/google-research/robotics_transformer)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
+- **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)] [[Code](https://github.com/google-deepmind/open_x_embodiment)] [[Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0)] [[Google]]
+- **PaLM-E**: An Embodied Multimodal Language Model, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io/)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
+- **VQ-BeT**: Behavior Generation with Latent Actions, *ICML 2024 Spotlight*. [[Paper](https://arxiv.org/abs/2403.03181)] [[Website](https://sjlee.cc/vq-bet/)] [[Code](https://github.com/jayLEE0301/vq_bet_official)]
+
+- **RT-2**: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)] [[Unofficial Code](https://github.com/kyegomez/RT-2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
+- **Diffusion Policy**: Visuomotor Policy Learning via Action Diffusion, *RSS 2023*. [[Paper](https://arxiv.org/abs/2303.04137)] [[Website](https://diffusion-policy.cs.columbia.edu/)] [[Code](https://github.com/real-stanford/diffusion_policy)] [[REAL-Stanford](https://github.com/real-stanford)]
+- **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Code](https://github.com/tonyzhaozh/aloha)] [[Website](https://tonyzhaozh.github.io/aloha/)]
+- **ACT**: Action Chunking with Transformers, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Code](https://github.com/tonyzhaozh/aloha)] [[Website](https://tonyzhaozh.github.io/aloha/)]
+- **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.03310)] [[Website](https://libero-project.github.io/main.html)] [[Code](https://github.com/Lifelong-Robot-Learning/LIBERO)]
+- **UniSim**: Learning Interactive Real-World Simulators, *ICLR 2024 (Outstanding Paper Award)*. [[Paper](https://arxiv.org/abs/2310.06114)] [[Website](https://universal-simulator.github.io/unisim/)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
+- **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Website](https://aloha-2.github.io/)]  [[Google DeepMind](https://deepmind.google/discover/blog/)]
+- **Octo**: An Open-Source Generalist Robot Policy, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.12213)] [[Website](https://octo-models.github.io/)] [[Code](https://github.com/octo-models/octo)] [UC Berkeley]
+- **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University]
+- **HPT**: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2409.20537)] [[Website](https://liruiw.github.io/hpt/)] [[Code](https://github.com/liruiw/HPT)] [[Kaiming He, MIT ](https://people.csail.mit.edu/kaiming/)]
+- **RDT-1B**: a Diffusion Foundation Model for Bimanual Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.07864)] [[Code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[Website](https://rdt-robotics.github.io/rdt-robotics/)] [[Jun Zhu, THU](https://scholar.google.com/citations?hl=en&user=axsP38wAAAAJ&view_op=list_works&sortby=pubdate)]
+- **GR-1**: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2312.13139)] [[Website](https://gr1-manipulation.github.io/)] [[Code](https://github.com/bytedance/GR-1)] [ByteDance Research]
+- **GR-2**: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.06158)] [[Website](https://gr2-manipulation.github.io/)] [Robotics Research Team, ByteDance Research]
+- **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.05941)] [[Website](https://simpler-env.github.io/)] [[Code](https://github.com/simpler-env/SimplerEnv)]
+- **π0**: A Vision-Language-Action Flow Model for General Robot Control, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24164)] [[Website](https://www.physicalintelligence.company/blog/pi0)] [[Physical Intelligence](https://www.physicalintelligence.company/)]
+- **Scaling Up and Distilling Down**: Language-Guided Robot Skill Acquisition, *CoRL 2023*. [[Paper](https://openreview.net/forum?id=3uwj8QZROL)] [[Website](https://www.cs.columbia.edu/~huy/scalingup/)] [[Code](https://github.com/real-stanford/scalingup)]
+- "Data Scaling Laws in Imitation Learning for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.18647)] [[Website](https://data-scaling-laws.github.io/)] [[Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws)] ``8 A100``
+- **3D-VLA**: A 3D Vision-Language-Action Generative World Model, *ICML 2024*. [[Paper](https://arxiv.org/abs/2403.09631)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] [[Website](https://vis-www.cs.umass.edu/3dvla/)] [[UMass Foundation Model](https://github.com/UMass-Foundation-Model)]
+- A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2302.12610)] [[Code](https://github.com/xukechun/Vision-Language-Grasping)]
+- **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.19650)] [[Website](https://cogact.github.io/)] [[Code](https://github.com/microsoft/CogACT)]
+- **BYOVLA**: Bring Your Own Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.01971)] [[Website](https://aasherh.github.io/byovla/)] [[Code](https://github.com/irom-princeton/byovla)]
+- todo: https://github.com/jmwang0117/Video4Robot
+
+---
+
 ## Spatial Intelligence
 
 ### 3D Imagination
@@ -125,11 +159,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **MIDI**: Multi-Instance Diffusion for Single Image to 3D Scene Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03558)] [[Website](https://huanngzh.github.io/MIDI-Page/)] [[Code](https://github.com/huanngzh/MIDI)]
 
-- 
-
-
-
-
+----
 ## 3DGS/NeRF Manipulation
 
 - **LERF-TOGO**: Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping, *CoRL 2023 (Best Paper Finalist)*. [[Paper](https://arxiv.org/abs/2309.07970)] [[Website](https://lerftogo.github.io/desktop.html)] [[Code](https://github.com/lerftogo/lerftogo)]
@@ -154,14 +184,7 @@ This is an active repository, you can watch for following the latest advances. I
 * **NeuGraspNet**: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering, *RSS 2024*. [[Paper](https://arxiv.org/abs/2306.07392)] [[Website](https://sites.google.com/view/neugraspnet)] [[Code](https://github.com/pearl-robot-lab/neugraspnet)]
 * 
 
-
 ---
-## Diffusion Policy
-
-- **Diffusion Policy**: Visuomotor Policy Learning via Action Diffusion, *RSS 2023*. [[Paper](https://arxiv.org/abs/2303.04137v5)] [[Website](https://diffusion-policy.cs.columbia.edu/)] [[Code](https://github.com/real-stanford/diffusion_policy)]
-
-- **Scaling Up and Distilling Down**: Language-Guided Robot Skill Acquisition, *CoRL 2023*. [[Paper](https://openreview.net/forum?id=3uwj8QZROL)] [[Website](https://www.cs.columbia.edu/~huy/scalingup/)] [[Code](https://github.com/real-stanford/scalingup)]
--  "Data Scaling Laws in Imitation Learning for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.18647)] [[Website](https://data-scaling-laws.github.io/)] [[Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws)] ``8 A100``
 
 ## Scene Representation
 
@@ -169,7 +192,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
 
----
+----
 
 ## Object Pose Estimation
 
