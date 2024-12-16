@@ -60,6 +60,9 @@ This is an active repository, you can watch for following the latest advances. I
 - A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2302.12610)] [[Code](https://github.com/xukechun/Vision-Language-Grasping)]
 - **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.19650)] [[Website](https://cogact.github.io/)] [[Code](https://github.com/microsoft/CogACT)]
 - **BYOVLA**: Bring Your Own Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.01971)] [[Website](https://aasherh.github.io/byovla/)] [[Code](https://github.com/irom-princeton/byovla)]
+- **VLMPC**: Vision-Language Model Predictive Control for Robotic Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2407.09829)] [[Code](https://github.com/PPjmchen/VLMPC)] [[Ran Song, Shandong University](https://faculty.sdu.edu.cn/songran/en/index/1023305/list/index.htm)]
+- **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.03954)] [[Website](https://3d-diffusion-policy.github.io/)] [[Code](https://github.com/YanjieZe/3D-Diffusion-Policy)]
+- **iDP3**: Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.10803)] [[Website](https://humanoid-manipulation.github.io/)] [[Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 - todo: https://github.com/jmwang0117/Video4Robot
 
 ---
