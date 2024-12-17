@@ -20,16 +20,16 @@ This is an active repository, you can watch for following the latest advances. I
 ## Overview
 
 - [Vision-Language-Action Models](#Vision-Language-Action-Models)
-  - [Video Generation For Robotics](Video-Generation-For-Robotics)
+  - [Video Generation For Robotics](#Video-Generation-For-Robotics)
 
 - [Spatial Intelligence](#Spatial-Intelligence)
   - [3D Imagination](#3D-Imagination)
   - [3D Understanding](#3D-Understanding)
-  - [Task-Adaptive 3D Part Segmentation](Task-Adaptive-3D-Part-Segmentation)
+  - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
   - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
   - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [Scene Representation](Scene-Representation)
+- [Scene Representation](#Scene-Representation)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Perception](#perception)
 - [Manipulation/RL](#manipulationrl)
