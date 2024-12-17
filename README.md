@@ -14,7 +14,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [[Awesome Video4Robot](https://github.com/jmwang0117/Video4Robot)] [[Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers)]
 - [[Awesome_Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)] [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)]
-- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
+- [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
+- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)]
 
 ---
 ## Overview
@@ -236,6 +237,10 @@ This is an active repository, you can watch for following the latest advances. I
 - **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Website](https://tonyzhaozh.github.io/aloha/)] [[ACT Code](https://github.com/tonyzhaozh/act)] [[ALOHA Code](https://github.com/tonyzhaozh/aloha)] [[Chelsea Finn, Stanford University](https://ai.stanford.edu/~cbfinn/)]
 - **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Website](https://aloha-2.github.io/)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.07788)] [[Website](https://dex-cap.github.io/)] [[Code](https://github.com/j96w/DexCap)] [[Hardware](https://docs.google.com/document/d/1ANxSA_PctkqFf3xqAkyktgBgDWEbrFK7b1OnJe54ltw/edit?tab=t.0#heading=h.yxlxo67jgfyx)] [[Li Fei-Fei, Stanford University](https://profiles.stanford.edu/fei-fei-li)]
+
+## Vision Tactile
+
+- **LeTac-MPC**: Learning Model Predictive Control for Tactile-reactive Grasping, *T-RO 2024*.  [[Paper](https://arxiv.org/abs/2403.04934)] [[Code](https://github.com/ZhengtongXu/LeTac-MPC)] [[Video](https://drive.google.com/file/d/1rDwg7dA3Wfhhb3rhry0cIfAxGli7WT7k/view)] [[Yu She, Purdue University](https://www.purduemars.com/)]
 
 ## Robot Grasping
 
