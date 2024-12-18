@@ -29,6 +29,7 @@ This is an active repository, you can watch for following the latest advances. I
   - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
   - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
   - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
+  - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
 - [Scene Representation](#Scene-Representation)
 - [Data Collection Hardware](#Data-Collection-Hardware)
@@ -198,6 +199,17 @@ This is an active repository, you can watch for following the latest advances. I
 - :fire: **TRELLIS**: Structured 3D Latents for Scalable and Versatile 3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.01506)] [[Website](https://trellis3d.github.io/)] [[Code](https://github.com/Microsoft/TRELLIS)] [[Demo](https://huggingface.co/spaces/JeffreyXiang/TRELLIS)]
 
 - **MIDI**: Multi-Instance Diffusion for Single Image to 3D Scene Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03558)] [[Website](https://huanngzh.github.io/MIDI-Page/)] [[Code](https://github.com/huanngzh/MIDI)]
+
+### Sparse View Reconstruction
+
+- **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03934)] [[Website](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
+- **XCube**: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.03806)] [[Website](https://research.nvidia.com/labs/toronto-ai/xcube/)] [[Code](https://github.com/nv-tlabs/XCube)] [[NVIDIA Toronto AI Lab](https://research.nvidia.com/labs/toronto-ai/)]
+- **fVDB**: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2407.01781)] [[Website](https://research.nvidia.com/labs/prl/publication/williams2024fvdb/)] [[NVIDIA Toronto AI Lab](https://research.nvidia.com/labs/toronto-ai/)]
+
+- **SCube**: Instant Large-Scale Scene Reconstruction using VoxSplats, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.20030)] [[Code](https://github.com/nv-tlabs/SCube)] [[Website](https://research.nvidia.com/labs/toronto-ai/scube/)]
+- **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, *ECCV2024*. [[Paper](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)] [[Website](https://donydchen.github.io/mvsplat/)]
+- **MVSGaussian**: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2405.12218)] [[Website](https://mvsgaussian.github.io/)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
+- 
 
 ----
 ## 3DGS/NeRF Manipulation
