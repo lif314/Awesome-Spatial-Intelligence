@@ -34,6 +34,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [Scene Representation](#Scene-Representation)
 - [Data Collection Hardware](#Data-Collection-Hardware)
 - [Robot Grasping](#Robot-Grasping)
+- [Vision Tactile](#Vision-Tactile)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Multimodal Perception](#Multimodal-Perception)
 - [Manipulation/RL](#manipulationrl)
