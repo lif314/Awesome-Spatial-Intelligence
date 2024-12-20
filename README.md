@@ -272,7 +272,7 @@ This is an active repository, you can watch for following the latest advances. I
 - **FeelAnyForce**: Estimating Contact Force Feedback from Tactile Sensation for Vision-Based Tactile Sensors, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.02048)] [[Website](https://prg.cs.umd.edu/FeelAnyForce)]
 - **iFEM2.0**: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors, *TRO 2024*.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10758225)]
 - :fire: **Octopi**: Object Property Reasoning with Large Tactile-Language Models, *RSS 2024*. [[Paper](https://arxiv.org/abs/2405.02794)] [[Code](https://github.com/clear-nus/octopi)]
-- 
+- **NeuralFeels with neural fields**: Visuotactile perception for in-hand manipulation, *Science Robotics 2024*. [[Paper](https://arxiv.org/abs/2312.13469)] [[Website](https://suddhu.github.io/neural-feels/)] [[Code](https://github.com/facebookresearch/neuralfeels)] [[CMU](https://www.ri.cmu.edu/)]
 
 ## Robot Grasping
 
