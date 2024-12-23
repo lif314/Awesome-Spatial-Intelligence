@@ -35,6 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [Data Collection Hardware](#Data-Collection-Hardware)
 - [Robot Grasping](#Robot-Grasping)
 - [Vision Tactile](#Vision-Tactile)
+- [Mobile Manipulation](#Mobile-Manipulation)
 - [Object Pose Estimation](#object-pose-estimation)
 - [Multimodal Perception](#Multimodal-Perception)
 - [Manipulation/RL](#manipulationrl)
@@ -285,6 +286,14 @@ This is an active repository, you can watch for following the latest advances. I
 - **GraspNet-1Billion**: A Large-Scale Benchmark for General Object Grasping, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)] [[Website](https://graspnet.net/)] [[Code](https://github.com/graspnet/graspnet-baseline)]
 - **Contact-GraspNet**: Efficient 6-DoF Grasp Generation in Cluttered Scenes, *ICRA 2021*. [[Paper](https://arxiv.org/abs/2103.14127)] [[Website](https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes)] [[Code](https://github.com/NVlabs/contact_graspnet)] [[Code (pytorch)](https://github.com/elchun/contact_graspnet_pytorch)]
 - **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)]
+
+## Mobile Manipulation
+
+- **HomeRobot**: Open-Vocabulary Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2306.11565)] [[Website](https://ovmm.github.io/)] [[Code](https://github.com/facebookresearch/home-robot)] 
+
+- Adaptive Mobile Manipulation for Articulated Objects In the Open World, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2401.14403)] [[Website](https://open-world-mobilemanip.github.io/)] [[Hardware](https://docs.google.com/document/d/1K-kaQOZlZo8KfSAbSQ2UT9FPeuhHLlUQbBx5N5LfN8Y/edit?tab=t.0)] [CMU]
+- **HarmonicMM**: Harmonic Mobile Manipulation, *IROS 2024 **Best Paper on Mobile Manipulation***. [[Paper](https://arxiv.org/abs/2312.06639)] [[Website](https://rchalyang.github.io/HarmonicMM/)] [[Code](https://github.com/RchalYang/harmonic_mobile_manipulation)]
+- 
 
 ## Object Pose Estimation
 
