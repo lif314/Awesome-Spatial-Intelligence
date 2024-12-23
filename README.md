@@ -265,7 +265,7 @@ This is an active repository, you can watch for following the latest advances. I
 - **Tactile DreamFusion**: Exploiting Tactile Sensing for 3D Generation, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2412.06785)] [[Website](https://ruihangao.github.io/TactileDreamFusion/)] [[Code](https://github.com/RuihanGao/TactileDreamFusion)]
 - **Touch2Touch**: Cross-Modal Tactile Generation for Object Manipulation, *arXiv 2024*. [[Paper](https://www.arxiv.org/abs/2409.08269)] [[Website](https://www.mmintlab.com/research/touch2touch/)] [[Code](https://github.com/MMintLab/touch2touch)]
 - **Binding Touch to Everything**: Learning Unified Multimodal Tactile Representations, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.18084)] [[Website](https://cfeng16.github.io/UniTouch/)] [[Code](https://github.com/cfeng16/UniTouch)]
-- **TVL**: Rethinking Patch Dependence for Masked Autoencoders, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2401.14391)] [[Website](https://tactile-vlm.github.io/)] [[Code](https://github.com/Max-Fu/tvl)]
+- **TVL**: Rethinking Patch Dependence for Masked Autoencoders, *ICML 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2401.14391)] [[Website](https://tactile-vlm.github.io/)] [[Code](https://github.com/Max-Fu/tvl)]
 - **CTTP**: Contrastive Touch-to-Touch Pretraining, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.11834)] [[Website](https://www.mmintlab.com/research/cttp/)] [[Code](https://github.com/MMintLab/CTTP)]
 - **T3**: Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.13640)] [[Website](https://t3.alanz.info/)] [[Code](https://github.com/alanzjl/t3)]
 - **UniT**: Unified Tactile Representation for Robot Learning, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2408.06481)] [[Website](https://zhengtongxu.github.io/unifiedtactile.github.io/)] [[Code](https://github.com/ZhengtongXu/UniT)]  [[Yu She, Purdue University](https://www.purduemars.com/)]
@@ -289,11 +289,21 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Mobile Manipulation
 
-- **HomeRobot**: Open-Vocabulary Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2306.11565)] [[Website](https://ovmm.github.io/)] [[Code](https://github.com/facebookresearch/home-robot)] 
+- A review of the challenges in mobile manipulation: systems design and RoboCup challenges, *e+i 2020*. [[Paper](https://link.springer.com/article/10.1007/s00502-020-00823-8)]
 
+- A Survey of Wheeled Mobile Manipulation: A Decision-Making Perspective, *JMR 2023*. [[Paper](https://par.nsf.gov/biblio/10393722-survey-wheeled-mobile-manipulation-decision-making-perspective)]
+- A Mini-Review on Mobile Manipulators with Variable Autonomy, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2408.10887v1)]
+- **TidyBot**: Personalized Robot Assistance with Large Language Models, *IROS 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Website](https://tidybot.cs.princeton.edu/)] [[Code](https://github.com/jimmyyhwu/tidybot)]
+
+- **HomeRobot**: Open-Vocabulary Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2306.11565)] [[Website](https://ovmm.github.io/)] [[Code](https://github.com/facebookresearch/home-robot)]
 - Adaptive Mobile Manipulation for Articulated Objects In the Open World, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2401.14403)] [[Website](https://open-world-mobilemanip.github.io/)] [[Hardware](https://docs.google.com/document/d/1K-kaQOZlZo8KfSAbSQ2UT9FPeuhHLlUQbBx5N5LfN8Y/edit?tab=t.0)] [CMU]
 - **HarmonicMM**: Harmonic Mobile Manipulation, *IROS 2024 **Best Paper on Mobile Manipulation***. [[Paper](https://arxiv.org/abs/2312.06639)] [[Website](https://rchalyang.github.io/HarmonicMM/)] [[Code](https://github.com/RchalYang/harmonic_mobile_manipulation)]
-- 
+- **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Code](https://github.com/tonyzhaozh/aloha)] [[Website](https://tonyzhaozh.github.io/aloha/)]
+- Demonstrating Mobile Manipulation in the Wild: A Metrics-Driven Approach, *RSS 2023 [Best Demo Paper Award]*. [[Paper](https://arxiv.org/abs/2401.01474)]
+- **UniTeam**: Open Vocabulary Mobile Manipulation Challenge, *arVix 2023*. [[Paper](https://arxiv.org/abs/2312.08611)]
+- **Dobb-E**: On Bringing Robots Home, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2311.16098)] [[Website](https://dobb-e.com/)] [[Code](https://github.com/notmahi/dobb-e)]
+- **SPOC**: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.02976)] [[Website](https://spoc-robot.github.io/)] [[Code](https://github.com/allenai/spoc-robot-training)]
+- :fire: TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2412.10447)] [[Website](https://tidybot2.github.io/)] [[Code](https://github.com/jimmyyhwu/tidybot2)]
 
 ## Object Pose Estimation
 
