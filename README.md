@@ -15,7 +15,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [[Awesome Video4Robot](https://github.com/jmwang0117/Video4Robot)] [[Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers)]
 - [[Awesome_Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)] [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)]
 - [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
-- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)]
+- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] [[Awesome-embodied-world-model-papers](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)]
 
 ---
 ## Overview
@@ -30,7 +30,9 @@ This is an active repository, you can watch for following the latest advances. I
   - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
   - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
   - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
+- [Point Cloud Completion](#Point-Cloud-Completion)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
+- [Transparent Grasping](#Transparent-Grasping)
 - [Scene Representation](#Scene-Representation)
 - [Data Collection Hardware](#Data-Collection-Hardware)
 - [Robot Grasping](#Robot-Grasping)
@@ -48,7 +50,6 @@ This is an active repository, you can watch for following the latest advances. I
 ## Vision-Language-Action Models
 
 - **RT-1**: Robotics Transformer for Real-World Control at Scale, *arXiv 2022*. [[Paper](https://arxiv.org/abs/2212.06817)] [[Website](https://robotics-transformer1.github.io/)] [[Code](https://github.com/google-research/robotics_transformer)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
-- **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)] [[Code](https://github.com/google-deepmind/open_x_embodiment)] [[Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0)] [[Google]]
 - **PaLM-E**: An Embodied Multimodal Language Model, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io/)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
 - **VQ-BeT**: Behavior Generation with Latent Actions, *ICML 2024 Spotlight*. [[Paper](https://arxiv.org/abs/2403.03181)] [[Website](https://sjlee.cc/vq-bet/)] [[Code](https://github.com/jayLEE0301/vq_bet_official)]
 - **RT-2**: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)] [[Unofficial Code](https://github.com/kyegomez/RT-2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
@@ -59,7 +60,7 @@ This is an active repository, you can watch for following the latest advances. I
 - **UniSim**: Learning Interactive Real-World Simulators, *ICLR 2024 (Outstanding Paper Award)*. [[Paper](https://arxiv.org/abs/2310.06114)] [[Website](https://universal-simulator.github.io/unisim/)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Website](https://aloha-2.github.io/)]  [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **Octo**: An Open-Source Generalist Robot Policy, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.12213)] [[Website](https://octo-models.github.io/)] [[Code](https://github.com/octo-models/octo)] [UC Berkeley]
-- **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University]
+- **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University] ``64 A100``
 - **HPT**: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2409.20537)] [[Website](https://liruiw.github.io/hpt/)] [[Code](https://github.com/liruiw/HPT)] [[Kaiming He, MIT ](https://people.csail.mit.edu/kaiming/)]
 - **RDT-1B**: a Diffusion Foundation Model for Bimanual Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.07864)] [[Code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[Website](https://rdt-robotics.github.io/rdt-robotics/)] [[Jun Zhu, THU](https://scholar.google.com/citations?hl=en&user=axsP38wAAAAJ&view_op=list_works&sortby=pubdate)]
 - **GR-1**: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2312.13139)] [[Website](https://gr1-manipulation.github.io/)] [[Code](https://github.com/bytedance/GR-1)] [ByteDance Research]
@@ -186,9 +187,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **NViST**: In the Wild New View Synthesis from a Single Image with Transformers , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.08568)] [[Website](https://wbjang.github.io/nvist_webpage/)] [[Code](https://github.com/wbjang/nvist_official)]
 
-- **Splatter Image**: Ultra-Fast Single-View 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.13150)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Code](https://github.com/szymanowiczs/splatter-image)]
+- **Splatter Image**: Ultra-Fast Single-View 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.13150)] [[Website](https://szymanowiczs.github.io/splatter-image.html)] [[Code](https://github.com/szymanowiczs/splatter-image)] ``1 V100``
 
-- **pixelSplat**: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.12337)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Code](https://github.com/dcharatan/pixelsplat)]
+- **pixelSplat**: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction , *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.12337)] [[Website](https://davidcharatan.com/pixelsplat/)] [[Code](https://github.com/dcharatan/pixelsplat)] ``1 A100``
 
 - **SSR**: Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture, *3DV 2024*. [[Paper](http://arxiv.org/abs/2311.00457)] [[Website](https://dali-jack.github.io/SSR/)] [[Code](https://github.com/DaLi-Jack/SSR-code)]
 
@@ -202,6 +203,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **MIDI**: Multi-Instance Diffusion for Single Image to 3D Scene Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03558)] [[Website](https://huanngzh.github.io/MIDI-Page/)] [[Code](https://github.com/huanngzh/MIDI)]
 
+- **DeepPriorAssembly**: Zero-Shot Scene Reconstruction from Single Images with Deep Prior Assembly, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.15971)] [[Website](https://junshengzhou.github.io/DeepPriorAssembly/)] [[Code](https://github.com/junshengzhou/DeepPriorAssembly)]
+
+- **DreamUp3D**: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer, *R-AL 2024*. [[Paper](https://arxiv.org/abs/2402.16308)]
+
 ### Sparse View Reconstruction
 
 - **InfiniCube**: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.03934)] [[Website](https://research.nvidia.com/labs/toronto-ai/infinicube/)]
@@ -209,8 +214,17 @@ This is an active repository, you can watch for following the latest advances. I
 - **fVDB**: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2407.01781)] [[Website](https://research.nvidia.com/labs/prl/publication/williams2024fvdb/)] [[NVIDIA Toronto AI Lab](https://research.nvidia.com/labs/toronto-ai/)]
 
 - **SCube**: Instant Large-Scale Scene Reconstruction using VoxSplats, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.20030)] [[Code](https://github.com/nv-tlabs/SCube)] [[Website](https://research.nvidia.com/labs/toronto-ai/scube/)]
-- **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, *ECCV2024*. [[Paper](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)] [[Website](https://donydchen.github.io/mvsplat/)]
+- **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, *ECCV2024*. [[Paper](https://arxiv.org/abs/2403.14627)] [[Code](https://github.com/donydchen/mvsplat)] [[Website](https://donydchen.github.io/mvsplat/)] ``1 A100``
 - **MVSGaussian**: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2405.12218)] [[Website](https://mvsgaussian.github.io/)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
+- **MVSplat360**: Feed-Forward 360 Scene Synthesis from Sparse Views, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2411.04924)] [[Website](https://donydchen.github.io/mvsplat360/)] [[Code](https://github.com/donydchen/mvsplat360)] ``8 A100``
+- **DepthSplat**: Connecting Gaussian Splatting and Depth, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.13862)] [[Website](https://haofeixu.github.io/depthsplat/)] [[Code](https://github.com/cvg/depthsplat)] ``8 A100``
+
+
+
+### Point Cloud Completion
+
+- **Implicit Depth**: RGB-D Local Implicit Function for Depth Completion of Transparent Objects, *CVPR 2021*. [[Paper](https://arxiv.org/abs/2104.00622)] [[Website](https://research.nvidia.com/publication/2021-03_rgb-d-local-implicit-function-depth-completion-transparent-objects)] [[Code](https://github.com/NVlabs/implicit_depth)]
+- **SDS**: Point-Cloud Completion with Pretrained Text-to-image Diffusion Models, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.10533)] [[Website](https://sds-complete.github.io/)] [[Code](https://github.com/NVlabs/sds-complete)]
 - 
 
 ----
@@ -239,11 +253,31 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 
+## Transparent Grasping
+
+- **Dex-NeRF**: Using a Neural Radiance field to Grasp Transparent Objects, *CoRL 2021*. [[Paper](https://arxiv.org/abs/2110.14217)] [[Website](https://sites.google.com/view/dex-nerf)] [[Datasets](https://github.com/BerkeleyAutomation/dex-nerf-datasets)] [[Code](https://github.com/BerkeleyAutomation/dex-nerf-datasets/releases/tag/corl2021)] [[Unofficial Code](https://github.com/salykova/instant-DexNerf)]
+- **GraspNeRF**: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2210.06575)] [[Website](https://pku-epic.github.io/GraspNeRF/)] [[Code](https://github.com/PKU-EPIC/GraspNeRF)]
+- **TDCNet**: Transparent Objects Depth Completion with CNN-Transformer Dual-Branch Parallel Network, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.14961)] [[Code](https://github.com/XianghuiFan/TDCNet)] [[Website](https://graspnet.net/transcg)] [[Cewu Lu](https://graspnet.net/index.html)]
+- **DRT**: Differentiable Refraction-Tracing for Mesh Reconstruction of Transparent Objects, *SIGGRAPH Asia 2020*. [[Paper](https://arxiv.org/abs/2009.09144)] [[Website](https://vcc.tech/research/2020/DRT)] [[Code](https://github.com/lvjiahui/DRT)]
+- **NFL**: Normal Field Learning for 6-DoF Grasping of Transparent Objects, *R-AL 2024*. [[Paper](https://3d.snu.ac.kr/assets/NFL/NFL_RAL_final.pdf)] [[Website](https://3d.snu.ac.kr/publications/NFL)] [[Code](https://github.com/twjhlee/Normal-Field-Learning)]
+- **FDCT**: Fast Depth Completion for Transparent Objects, *R-AL 2023*. [[Paper](https://arxiv.org/abs/2307.12274)] [[Code](https://github.com/Nonmy/FDCT)]
+- **TRansPose**: Large-Scale Multispectral Dataset for Transparent Object, *IJRR 2023*. [[Paper](https://arxiv.org/abs/2307.05016)] [[Website](https://sites.google.com/view/transpose-dataset)]
+- **TransCG**: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and A Grasping Baseline, *RAL 2022 & ICRA 2023*. [[Paper](https://arxiv.org/abs/2202.08471)] [[Website](https://graspnet.net/transcg)] [[Code](https://github.com/galaxies99/transcg)] [[Cewu Lu](https://www.mvig.org/)]
+- **MVTrans**: Multi-view Perception to See Transparent Objects, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2302.11683)] [[Website](https://ac-rad.github.io/MVTrans/)] [[Code](https://github.com/ac-rad/MVTrans)]
+- 
+
 ## Scene Representation
 
 ### 3D Gaussian Splatting
 
-- Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
+- **Sparse Voxels Rasterization**: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
+- **3D Gaussian Ray Tracing**: Fast Tracing of Particle Scenes, *SIGGRAPH Asia 2024*. [[Paper](https://arxiv.org/abs/2407.07090v3)] [[Website](https://gaussiantracer.github.io/)] [[Unofficial Code](https://github.com/fudan-zvg/gaussian-raytracing)]
+- **Relightable 3D Gaussians**: Realistic Point Cloud Relighting with BRDF Decomposition and Ray Tracing, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2311.16043)] [[Website](https://nju-3dv.github.io/projects/Relightable3DGaussian/)] [[Code](https://github.com/NJU-3DV/Relightable3DGaussian)]
+- **IRGS**: Inter-Reflective Gaussian Splatting with 2D Gaussian Ray Tracing, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.15867)] [[Code](https://github.com/fudan-zvg/IRGS)] [[Website](https://fudan-zvg.github.io/IRGS/)]
+- **LiDAR-RT**: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.15199)] [[Code](https://github.com/zju3dv/LiDAR-RT)] [[Website](https://zju3dv.github.io/lidar-rt/)]
+- **RayGauss**: Volumetric Gaussian-Based Ray Casting for Photorealistic Novel View Synthesis, *WACV 2025*. [[Paper](https://arxiv.org/abs/2408.03356)] [[Website](https://raygauss.github.io/)] [[Code](https://github.com/hugobl1/ray_gauss)]
+- **Don't Splat your Gaussians**: Volumetric Ray-Traced Primitives for Modeling and Rendering Scattering and Emissive Media, *ToG 2024*. [[Paper](https://arxiv.org/abs/2405.15425)] [[Website](https://arcanous98.github.io/projectPages/gaussianVolumes.html)]
+- Unified Gaussian Primitives for Scene Representation and Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09733v2)]
 
 ----
 ## Data Collection Hardware
@@ -252,6 +286,12 @@ This is an active repository, you can watch for following the latest advances. I
 - **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Website](https://tonyzhaozh.github.io/aloha/)] [[ACT Code](https://github.com/tonyzhaozh/act)] [[ALOHA Code](https://github.com/tonyzhaozh/aloha)] [[Chelsea Finn, Stanford University](https://ai.stanford.edu/~cbfinn/)]
 - **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Website](https://aloha-2.github.io/)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.07788)] [[Website](https://dex-cap.github.io/)] [[Code](https://github.com/j96w/DexCap)] [[Hardware](https://docs.google.com/document/d/1ANxSA_PctkqFf3xqAkyktgBgDWEbrFK7b1OnJe54ltw/edit?tab=t.0#heading=h.yxlxo67jgfyx)] [[Li Fei-Fei, Stanford University](https://profiles.stanford.edu/fei-fei-li)]
+
+## Robotic Dataset
+
+- **DROID**: A Large-Scale In-The-Wild Robot Manipulation Dataset, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.12945)] [[Website](https://droid-dataset.github.io/)] [[Code](https://github.com/droid-dataset/droid_policy_learning)] [[Hardware](https://github.com/droid-dataset/droid)]
+- **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)] [[Code](https://github.com/google-deepmind/open_x_embodiment)] [[Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0)] [[Google]]
+- 
 
 ## Vision Tactile
 
@@ -274,6 +314,8 @@ This is an active repository, you can watch for following the latest advances. I
 - **iFEM2.0**: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors, *TRO 2024*.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10758225)]
 - :fire: **Octopi**: Object Property Reasoning with Large Tactile-Language Models, *RSS 2024*. [[Paper](https://arxiv.org/abs/2405.02794)] [[Code](https://github.com/clear-nus/octopi)]
 - **NeuralFeels with neural fields**: Visuotactile perception for in-hand manipulation, *Science Robotics 2024*. [[Paper](https://arxiv.org/abs/2312.13469)] [[Website](https://suddhu.github.io/neural-feels/)] [[Code](https://github.com/facebookresearch/neuralfeels)] [[CMU](https://www.ri.cmu.edu/)]
+- Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds, *T-RO 2023*. [[Paper](https://arxiv.org/abs/2211.16693)] [[Website](https://sites.google.com/view/visual-tactilefusion)] [[Code](https://github.com/Shoujie1998/Visual-tactile-fusion)]
+- 
 
 ## Robot Grasping
 
