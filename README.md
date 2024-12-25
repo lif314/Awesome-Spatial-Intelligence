@@ -32,7 +32,7 @@ This is an active repository, you can watch for following the latest advances. I
   - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
 - [Point Cloud Completion](#Point-Cloud-Completion)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [Transparent Object Manipulation](./topics/Transparent Object Manipulation.md)
+- [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)
 - [Scene Representation](#Scene-Representation)
 - [Data Collection Hardware](#Data-Collection-Hardware)
 - [Robot Grasping](#Robot-Grasping)
