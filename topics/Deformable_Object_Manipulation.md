@@ -1,11 +1,5 @@
 # Deformable Object Manipulation
 
-
-
-
-
-
-
 - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
 
 
