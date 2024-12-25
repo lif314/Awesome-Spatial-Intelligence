@@ -32,7 +32,7 @@ This is an active repository, you can watch for following the latest advances. I
   - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
 - [Point Cloud Completion](#Point-Cloud-Completion)
 - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [Transparent Grasping](#Transparent-Grasping)
+- [Transparent Object Manipulation](./topics/Transparent Object Manipulation.md)
 - [Scene Representation](#Scene-Representation)
 - [Data Collection Hardware](#Data-Collection-Hardware)
 - [Robot Grasping](#Robot-Grasping)
@@ -251,20 +251,7 @@ This is an active repository, you can watch for following the latest advances. I
 * **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, *CoRL 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18121)] [[Website](https://robot-see-robot-do.github.io/)] [[Code](https://github.com/kerrj/rsrd)]
 * **NeuGraspNet**: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering, *RSS 2024*. [[Paper](https://arxiv.org/abs/2306.07392)] [[Website](https://sites.google.com/view/neugraspnet)] [[Code](https://github.com/pearl-robot-lab/neugraspnet)]
 
----
-
-## Transparent Grasping
-
-- **Dex-NeRF**: Using a Neural Radiance field to Grasp Transparent Objects, *CoRL 2021*. [[Paper](https://arxiv.org/abs/2110.14217)] [[Website](https://sites.google.com/view/dex-nerf)] [[Datasets](https://github.com/BerkeleyAutomation/dex-nerf-datasets)] [[Code](https://github.com/BerkeleyAutomation/dex-nerf-datasets/releases/tag/corl2021)] [[Unofficial Code](https://github.com/salykova/instant-DexNerf)]
-- **GraspNeRF**: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2210.06575)] [[Website](https://pku-epic.github.io/GraspNeRF/)] [[Code](https://github.com/PKU-EPIC/GraspNeRF)]
-- **TDCNet**: Transparent Objects Depth Completion with CNN-Transformer Dual-Branch Parallel Network, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.14961)] [[Code](https://github.com/XianghuiFan/TDCNet)] [[Website](https://graspnet.net/transcg)] [[Cewu Lu](https://graspnet.net/index.html)]
-- **DRT**: Differentiable Refraction-Tracing for Mesh Reconstruction of Transparent Objects, *SIGGRAPH Asia 2020*. [[Paper](https://arxiv.org/abs/2009.09144)] [[Website](https://vcc.tech/research/2020/DRT)] [[Code](https://github.com/lvjiahui/DRT)]
-- **NFL**: Normal Field Learning for 6-DoF Grasping of Transparent Objects, *R-AL 2024*. [[Paper](https://3d.snu.ac.kr/assets/NFL/NFL_RAL_final.pdf)] [[Website](https://3d.snu.ac.kr/publications/NFL)] [[Code](https://github.com/twjhlee/Normal-Field-Learning)]
-- **FDCT**: Fast Depth Completion for Transparent Objects, *R-AL 2023*. [[Paper](https://arxiv.org/abs/2307.12274)] [[Code](https://github.com/Nonmy/FDCT)]
-- **TRansPose**: Large-Scale Multispectral Dataset for Transparent Object, *IJRR 2023*. [[Paper](https://arxiv.org/abs/2307.05016)] [[Website](https://sites.google.com/view/transpose-dataset)]
-- **TransCG**: A Large-Scale Real-World Dataset for Transparent Object Depth Completion and A Grasping Baseline, *RAL 2022 & ICRA 2023*. [[Paper](https://arxiv.org/abs/2202.08471)] [[Website](https://graspnet.net/transcg)] [[Code](https://github.com/galaxies99/transcg)] [[Cewu Lu](https://www.mvig.org/)]
-- **MVTrans**: Multi-view Perception to See Transparent Objects, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2302.11683)] [[Website](https://ac-rad.github.io/MVTrans/)] [[Code](https://github.com/ac-rad/MVTrans)]
-- 
+----
 
 ## Scene Representation
 
