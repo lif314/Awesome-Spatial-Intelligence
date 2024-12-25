@@ -3,16 +3,17 @@
 <details>
   <summary>[Challenges and Applications]</summary>
 
-```
-**Challenges**: 
-
-- Visual Perception and Detection
-- Depth Perception
-- Refraction and Perspective Distortion
-- Grasping and Manipulation
-- Sensor Errors and Uncertainty
-
-**Applications:** Medical Robotics, Robotic Surgery and Medical Assistance, Robotic Cleaning Systems
+```markdown
+- **Challenges**:
+    - Visual Perception and Detection
+    - Depth Perception
+    - Refraction and Perspective Distortion
+    - Grasping and Manipulation
+    - Sensor Errors and Uncertainty
+- **Applications**:
+	- Medical Robotics
+	- Robotic Surgery and Medical Assistance
+	- Robotic Cleaning Systems
 ```
 </details>
 
