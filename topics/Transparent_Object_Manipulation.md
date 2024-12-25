@@ -27,12 +27,12 @@
 - [Datasets](#Datasets)
 
 - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
-- [Visual–Tactile](#Visual–Tactile)
+- [Visual Tactile](#Visual-Tactile)
 - [Pose Estimation](#Pose-Estimation)
 - [Simulation](#Simulation)
 - [Depth Completion](#Depth-Completion)
 - [3D Reconstruction](#3D-Reconstruction)
-- [ Segmentation](# Segmentation)
+- [Segmentation](#Segmentation)
 - [Perception](#Perception)
 
 
@@ -74,7 +74,7 @@
 
 ---
 
-## Visual–Tactile
+## Visual Tactile
 
 - Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds, *T-RO 2023*. [[Paper](https://arxiv.org/abs/2211.16693)] [[Website](https://sites.google.com/view/visual-tactilefusion)] [[Code](https://github.com/Shoujie1998/Visual-tactile-fusion)] [[Linqi Ye, THU-SHU](https://linqi-ye.github.io/)]
 - **TransTouch**: Learning Transparent Objects Depth Sensing Through Sparse Touches, *IROS 2023*. [[Paper](https://arxiv.org/abs/2309.09427)] [[Code](https://github.com/ritsu-a/transtouch)]
@@ -141,7 +141,7 @@
 - Leveraging RGB-D Data with Cross-Modal Context Mining for Glass Surface Detection, *AAAI 2025*. [[Paper](https://arxiv.org/abs/2206.11250)] [[Code](https://jiaying.link/AAAI25-RGBDGlass/code.zip)] [[Website](https://jiaying.link/AAAI25-RGBDGlass/)]
 - Self-supervised Transparent Liquid Segmentation for Robotic Pouring, *ICRA 2022*. [[Paper](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2203.01538&sa=D&sntz=1&usg=AOvVaw3d5pQfrbcL9HH5mwauGDwD)] [[Website](https://sites.google.com/view/transparentliquidpouring)] [[Code](https://github.com/gauthamnarayan/transparent-liquid-segmentation)]
 
-—
+----
 
 ## Perception
 
