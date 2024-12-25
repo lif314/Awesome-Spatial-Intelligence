@@ -223,7 +223,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Point Cloud Completion
 
-- **Implicit Depth**: RGB-D Local Implicit Function for Depth Completion of Transparent Objects, *CVPR 2021*. [[Paper](https://arxiv.org/abs/2104.00622)] [[Website](https://research.nvidia.com/publication/2021-03_rgb-d-local-implicit-function-depth-completion-transparent-objects)] [[Code](https://github.com/NVlabs/implicit_depth)]
+- 
 - **SDS**: Point-Cloud Completion with Pretrained Text-to-image Diffusion Models, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.10533)] [[Website](https://sds-complete.github.io/)] [[Code](https://github.com/NVlabs/sds-complete)]
 - 
 
