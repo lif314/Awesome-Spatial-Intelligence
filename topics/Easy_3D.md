@@ -91,6 +91,7 @@
 - **MVSGaussian**: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2405.12218)] [[Website](https://mvsgaussian.github.io/)] [[Code](https://github.com/TQTQliu/MVSGaussian)]
 - **MVSplat360**: Feed-Forward 360 Scene Synthesis from Sparse Views, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2411.04924)] [[Website](https://donydchen.github.io/mvsplat360/)] [[Code](https://github.com/donydchen/mvsplat360)] ``8 A100``
 - **DepthSplat**: Connecting Gaussian Splatting and Depth, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.13862)] [[Website](https://haofeixu.github.io/depthsplat/)] [[Code](https://github.com/cvg/depthsplat)] ``8 A100``
+- **SplatFormer**: Point Transformer for Robust 3D Gaussian Splatting, *arXiv 2024.11*. [[Paper](https://arxiv.org/abs/2411.06390)] [[Website](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)]
 
 
 

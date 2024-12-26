@@ -22,21 +22,56 @@ This is an active repository, you can watch for following the latest advances. I
 
 - **Large Robot Models**
   - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
+    - [LLM/VLM Guidance](https://github.com/lif314/Awesome-Spatial-Intelligence/blob/main/topics/Large_Manipulation_Model.md#LLM/VLM-Guidance)
+    - [Structured Instructions](#Structured-Instructions)
+    - [Vision-Language-Action](#Vision-Language-Action)
   - [Large Navigation Model](./topics/Large_Navigation_Model.md)
+    - [Vision-Language-Action](#Vision-Language-Action)
 - **Specific Object Manipulation**
   - [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)
+    - [Survey](#Survey)
+    - [Datasets](#Datasets)
+  
+    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
+    - [Visual Tactile](#Visual-Tactile)
+    - [Pose Estimation](#Pose-Estimation)
+    - [Simulation](#Simulation)
+    - [Depth Completion](#Depth-Completion)
+    - [3D Reconstruction](#3D-Reconstruction)
+    - [Segmentation](#Segmentation)
+    - [Perception](#Perception)
   - [Deformable Object Manipulation](./topics/Deformable_Object_Manipulation.md)
+    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
   - [Articulated Object Manipulation](./topics/Articulated_Object_Manipulation.md)
+    - [Pose Estimation](#Pose-Estimation)
 - **Spatial Intelligence**
   - [Scene Representation](./topics/Scene_Representation.md)
+    - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
   - [Easy 3D](./topics/Easy_3D.md)
+    - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
+    - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
+    - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
+  
+    - [Point Cloud Completion](#Point-Cloud-Completion)
   - [Spatial Understanding](./topics/Spatial_Understanding.md)
+    - [3D Imagination](#3D-Imagination)
+    - [3D Understanding](#3D-Understanding)
+    - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
   
 - [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)
+  - [Grasping and Manipulation](#Grasping-and-Manipulation)
+  - [Representation and Perception](#Representation-and-Perception)
+
 - [Mobile Manipulation](./topics/Mobile_Manipulation.md)
+  - [Survey](#Survey)
+  - [Benchmark and Hardware](#Benchmark-and-Hardware)
+
 - [Data Collection Hardware](./topics/Data_Collection_Hardware.md)
 - [Robotic Dataset](./topics/Robotic_Dataset.md)
 - [Classic Manipulation](./topics/Classic_Manipulation.md)
+  - [Point Cloud Grasping](#Point-Cloud-Grasping)
+  - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
+
 
 
 
@@ -46,6 +81,17 @@ This is an active repository, you can watch for following the latest advances. I
 - [Object Reconstruction](#object-reconstruction)
 - [Physics](#physics)
 - [Planning/Navigation](#planningnavigation)
+
+
+
+##  Idea
+
+- 2024/12/24: 在目前透明物体的数据集中加上Tactile，主要是Tactile可以很好的用于滑动检测，很契合的点 :+1:
+- 2024/12/24: 使用Gaussian Ray Tracing进行透明物体重建，主要用于机械臂的透明物体抓取
+  - 2024/12/25：测试Gaussian Ray Tracing, 效果还行
+- 2024/12/24: Single RGB-D的点云补全研究，比如SSD，用于单帧机械臂物体抓取
+
+- 2024/12/25: 利用SplatFormer进行泛化的透明物体重建
 
 ---
 
