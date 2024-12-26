@@ -65,9 +65,8 @@
 - **UniSim**: Learning Interactive Real-World Simulators, *ICLR 2024 (Outstanding Paper Award)*. [[Paper](https://arxiv.org/abs/2310.06114)] [[Website](https://universal-simulator.github.io/unisim/)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Website](https://aloha-2.github.io/)]  [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **Octo**: An Open-Source Generalist Robot Policy, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.12213)] [[Website](https://octo-models.github.io/)] [[Code](https://github.com/octo-models/octo)] [UC Berkeley]
-- **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University] ``64 A100``
 - **HPT**: Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2409.20537)] [[Website](https://liruiw.github.io/hpt/)] [[Code](https://github.com/liruiw/HPT)] [[Kaiming He, MIT ](https://people.csail.mit.edu/kaiming/)]
-- **RDT-1B**: a Diffusion Foundation Model for Bimanual Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.07864)] [[Code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[Website](https://rdt-robotics.github.io/rdt-robotics/)] [[Jun Zhu, THU](https://scholar.google.com/citations?hl=en&user=axsP38wAAAAJ&view_op=list_works&sortby=pubdate)]
+- **RDT-1B**: A Diffusion Foundation Model for Bimanual Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.07864)] [[Code](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[Website](https://rdt-robotics.github.io/rdt-robotics/)] [[Jun Zhu, THU](https://scholar.google.com/citations?hl=en&user=axsP38wAAAAJ&view_op=list_works&sortby=pubdate)]
 - **GR-1**: Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2312.13139)] [[Website](https://gr1-manipulation.github.io/)] [[Code](https://github.com/bytedance/GR-1)] [ByteDance Research]
 - **SimplerEnv**: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.05941)] [[Website](https://simpler-env.github.io/)] [[Code](https://github.com/simpler-env/SimplerEnv)]
 - **π0**: A Vision-Language-Action Flow Model for General Robot Control, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24164)] [[Website](https://www.physicalintelligence.company/blog/pi0)] [[Physical Intelligence](https://www.physicalintelligence.company/)]
@@ -80,4 +79,10 @@
 - **VLMPC**: Vision-Language Model Predictive Control for Robotic Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2407.09829)] [[Code](https://github.com/PPjmchen/VLMPC)] [[Ran Song, Shandong University](https://faculty.sdu.edu.cn/songran/en/index/1023305/list/index.htm)]
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.03954)] [[Website](https://3d-diffusion-policy.github.io/)] [[Code](https://github.com/YanjieZe/3D-Diffusion-Policy)]
 - **iDP3**: Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.10803)] [[Website](https://humanoid-manipulation.github.io/)] [[Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
-- 
+
+
+
+## Benchmark and Dataset
+
+- **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University] ``64 A100``
+- **VLABench**: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.18194)] [[Website](https://vlabench.github.io/)] [[Code](https://github.com/OpenMOSS/VLABench)]
