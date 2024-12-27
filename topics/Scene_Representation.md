@@ -1,14 +1,17 @@
 # Scene Representation
 
 - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
+  - [General](#General)
+  - [Ray Tracing](#Ray-Tracing)
+
 
 
 
 ## 3D Gaussian Splatting
 
+### General
+
 - **Sparse Voxels Rasterization**: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
-
-
 
 ### Ray Tracing
 
