@@ -123,12 +123,15 @@
 - Eikonal Fields for Refractive Novel-View Synthesis, *SIGGRAPH 2022*. [[Paper](https://arxiv.org/abs/2202.00948)] [[Website](https://eikonalfield.mpi-inf.mpg.de/)] [[Code](https://github.com/m-bemana/eikonalfield)]
 - Deep Polarization Cues for Single-shot Shape and Subsurface Scattering Estimation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2407.08149)] [[Code](https://github.com/ligoudaner377/polarized_inverse_scattering)]
 - **NeTO**: Neural Reconstruction of Transparent Objects with Self-Occlusion Aware Refraction-Tracing, *ICCV 2023*. [[Paper](https://www.xxlong.site/NeTO/ARXIV_NeTO.pdf)] [[Website](https://www.xxlong.site/NeTO/)] [[Code](https://github.com/xxlong0/NeTO)]
+- **NEMTO**: Neural Environment Matting for Novel View and Relighting Synthesis of Transparent Objects, *ICCV 2023*. [[Paper](https://arxiv.org/abs/2303.11963)] [[Website](https://ivrl.github.io/NEMTO/)] [[Code](https://github.com/IVRL/NEMTO)]
 - Hybrid Mesh-neural Representation for 3D Transparent Object Reconstruction, *CVMJ 2023*. [[Paper](https://arxiv.org/abs/2203.12613v3)] [[Code](https://github.com/superxjm/HybridTransparentRecon)]
 - **TransPIR**: Polarimetric Inverse Rendering for Transparent Shapes Reconstruction, *TOM 2024*. [[Paper](https://arxiv.org/pdf/2208.11836.pdf)] [[Code](https://github.com/shaomq2187/TransPIR)]
 - **TransSfP**: Transparent Shape from a Single View Polarization Image, *ICCV 2023*. [[Paper](https://arxiv.org/abs/2204.06331)] [[Code](https://github.com/shaomq2187/TransSfP)]
 - **Touch-GS**: Visual-Tactile Supervised 3D Gaussian Splatting, *IROS 2024*. [[Paper](https://arxiv.org/abs/2403.09875)] [[Website](https://arm.stanford.edu/touch-gs)] [[Code](https://github.com/armlabstanford/Touch-GS)]
 - **FusionSense**: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.08282)] [[Website](https://ai4ce.github.io/FusionSense/)] [[Code](https://github.com/ai4ce/FusionSense)]
 - **Snap-it, Tap-it, Splat-it**: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.20275)]
+- Transparent Object Reconstruction in 3D Gaussian Splatting with RGB-to-TIR Translation, *MLVU Projects (Spring 2024)*. [[Paper](http://viplab.snu.ac.kr/viplab/courses/mlvu_2024_1/projects/07.pdf)] [[Talk](https://www.youtube.com/watch?v=mqFSw7z5JPk)]
+- **NU-NeRF**: Neural Reconstruction of Nested Transparent Objects with Uncontrolled Capture Environment, *SIGGRAPH Asia 2024*.  [[Paper](https://drive.google.com/drive/folders/1DP_aQ5GRow-Se4LpImYLjX3mah2__PSh?usp=sharing)] [[Website](http://geometrylearning.com/NU-NeRF/)] [[Code](https://github.com/78ij/NU-NeRF)]
 
 ---
 

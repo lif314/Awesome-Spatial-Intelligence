@@ -22,4 +22,4 @@
 - **EnvGS**: Modeling View-Dependent Appearance with Environment Gaussian, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.15215)] [[Website](https://zju3dv.github.io/envgs/)] [[Code](https://github.com/zju3dv/EnvGS)] [[ZJU3DV](https://github.com/zju3dv)]
 - **3DGUT**: Enabling Distorted Cameras and Secondary Rays in Gaussian Splatting, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.12507)] [[Website](https://research.nvidia.com/labs/toronto-ai/3DGUT/)]
 - **DirectL**: Efficient Radiance Fields Rendering for 3D Light Field Displays, *TOG 2024*. [[Paper](https://arxiv.org/abs/2407.14053)] [[Website](https://direct-l.github.io/)]
-- 
+- **SSS-GS**: Subsurface Scattering for 3D Gaussian Splatting, *arXiv 2024.10*. [[Paper](https://arxiv.org/abs/2408.12282)] [[Website](https://sss.jdihlmann.com/)] [[Code](https://github.com/cgtuebingen/SSS-GS)]
