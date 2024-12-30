@@ -16,4 +16,5 @@
 
 ## Video Generation
 
-- **NaVid**: Video-based VLM Plans the Next Step for Vision-and-Language Navigation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid/)] [[Video](https://www.youtube.com/watch?v=IHkDuJZV0I8)]
+- **NaVid**: Video-based VLM Plans the Next Step for Vision-and-Language Navigation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2402.15852)] [[Website](https://pku-epic.github.io/NaVid/)] [[Video](https://www.youtube.com/watch?v=IHkDuJZV0I8)] [[Code](https://github.com/jzhzhang/NaVid-VLN-CE)]
+- **Uni-NaVid**: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.06224)] [[Website](https://pku-epic.github.io/Uni-NaVid/)] [[He Wang, PKU](https://hughw19.github.io/)]
