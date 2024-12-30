@@ -72,6 +72,8 @@ This is an active repository, you can watch for following the latest advances. I
   - [Point Cloud Grasping](#Point-Cloud-Grasping)
   - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
 
+- [SLAM](./topics/SLAM.md)
+
 
 
 
