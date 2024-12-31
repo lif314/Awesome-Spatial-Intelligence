@@ -95,7 +95,7 @@
 ## Simulation
 
 - Close the Optical Sensing Domain Gap by Physics-Grounded Active Stereo Sensor Simulation, *T-RO 2023*. [[Paper](https://arxiv.org/abs/2201.11924)] [[Website](https://angli66.github.io/active-sensor-sim/)] [[Code](https://github.com/haosulab/SAPIEN)] [University of California]
-- 
+- **SuperCaustics**: Real-time, open-source simulation of transparent objects for deep learning applications, *arXiv 2021*. [[Paper](https://arxiv.org/abs/2107.11008)] [[Code](https://github.com/MMehdiMousavi/SuperCaustics)]
 
 ---
 

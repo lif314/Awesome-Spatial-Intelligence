@@ -86,3 +86,4 @@
 
 - **OpenVLA**: An Open-Source Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.09246)] [[Code](https://github.com/openvla/openvla)] [[Website](https://openvla.github.io/)] [Stanford University] ``64 A100``
 - **VLABench**: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.18194)] [[Website](https://vlabench.github.io/)] [[Code](https://github.com/OpenMOSS/VLABench)]
+- AgiBot World Colosseum. [[Code](https://github.com/OpenDriveLab/AgiBot-World)] [[Website](https://agibot-world.com/)]
