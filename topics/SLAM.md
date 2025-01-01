@@ -9,7 +9,7 @@
 
 ### Visual SLAM
 
-
+- **HI-SLAM2**: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction, *arXiv 2024.11*. [[Paper](https://arxiv.org/abs/2411.17982)] [[Website](https://hi-slam2.github.io/)] [[Code](https://github.com/Willyzw/HI-SLAM2)]
 
 
 
