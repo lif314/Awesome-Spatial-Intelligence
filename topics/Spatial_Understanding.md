@@ -1,10 +1,20 @@
 # Spatial Understanding
 
+- [Point Cloud](#Point-Cloud)
+
 - [3D Imagination](#3D-Imagination)
 - [3D Understanding](#3D-Understanding)
 - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
 
 ---
+
+
+
+## Point Cloud
+
+- **PointLLM**: Empowering Large Language Models to Understand Point Clouds, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2308.16911)] [[Website](https://runsenxu.com/projects/PointLLM/)] [[Code](https://github.com/OpenRobotLab/PointLLM)]
+
+
 
 ## 3D Imagination
 
@@ -26,6 +36,7 @@
 - :fire: Gradient-Weighted Feature Back-Projection: A Fast Alternative to Feature Distillation in 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15193)] [[Website](https://jojijoseph.github.io/3dgs-backprojection/)] [[Code](https://github.com/JojiJoseph/3dgs-gradient-backprojection)]
 - :fire:**OOAL**: One-Shot Open Affordance Learning with Foundation Models, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2311.17776)] [[Website](https://reagan1311.github.io/ooal/)] [[Code](https://github.com/Reagan1311/OOAL)]
 - **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2404.04242)] [[Website](https://ajzhai.github.io/NeRF2Physics/)] [[Code](https://github.com/ajzhai/NeRF2Physics)]
+- **InstanceGaussian**: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.19235)] [[Website](https://lhj-git.github.io/InstanceGaussian/)]
 - 
 
 ## Task-Adaptive 3D Part Segmentation

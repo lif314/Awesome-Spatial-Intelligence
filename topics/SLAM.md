@@ -17,8 +17,6 @@
 
 
 
-
-
 ## Active SLAM
 
 - **ActiveGS**: Active Scene Reconstruction using Gaussian Splatting, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.17769)] [[Code](https://github.com/dmar-bonn/active-gs)]

@@ -58,7 +58,6 @@
 - **PaLM-E**: An Embodied Multimodal Language Model, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2303.03378)] [[Website](https://palm-e.github.io/)] [[Robotics at Google](https://deepmind.google/discover/blog/)]
 - **VQ-BeT**: Behavior Generation with Latent Actions, *ICML 2024 Spotlight*. [[Paper](https://arxiv.org/abs/2403.03181)] [[Website](https://sjlee.cc/vq-bet/)] [[Code](https://github.com/jayLEE0301/vq_bet_official)]
 - **RT-2**: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2307.15818)] [[Website](https://robotics-transformer2.github.io/)] [[Unofficial Code](https://github.com/kyegomez/RT-2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
-- **Diffusion Policy**: Visuomotor Policy Learning via Action Diffusion, *RSS 2023*. [[Paper](https://arxiv.org/abs/2303.04137)] [[Website](https://diffusion-policy.cs.columbia.edu/)] [[Code](https://github.com/real-stanford/diffusion_policy)] [[REAL-Stanford](https://github.com/real-stanford)]
 - **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Code](https://github.com/tonyzhaozh/aloha)] [[Website](https://tonyzhaozh.github.io/aloha/)]
 - **ACT**: Action Chunking with Transformers, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Code](https://github.com/tonyzhaozh/aloha)] [[Website](https://tonyzhaozh.github.io/aloha/)]
 - **LIBERO**: Benchmarking Knowledge Transfer for Lifelong Robot Learning, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.03310)] [[Website](https://libero-project.github.io/main.html)] [[Code](https://github.com/Lifelong-Robot-Learning/LIBERO)]
@@ -77,8 +76,17 @@
 - **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.19650)] [[Website](https://cogact.github.io/)] [[Code](https://github.com/microsoft/CogACT)]
 - **BYOVLA**: Bring Your Own Vision-Language-Action Model, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.01971)] [[Website](https://aasherh.github.io/byovla/)] [[Code](https://github.com/irom-princeton/byovla)]
 - **VLMPC**: Vision-Language Model Predictive Control for Robotic Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2407.09829)] [[Code](https://github.com/PPjmchen/VLMPC)] [[Ran Song, Shandong University](https://faculty.sdu.edu.cn/songran/en/index/1023305/list/index.htm)]
+- 
+
+
+
+##  Diffusion Policy
+
+- **Diffusion Policy**: Visuomotor Policy Learning via Action Diffusion, *RSS 2023*. [[Paper](https://arxiv.org/abs/2303.04137)] [[Website](https://diffusion-policy.cs.columbia.edu/)] [[Code](https://github.com/real-stanford/diffusion_policy)] [[REAL-Stanford](https://github.com/real-stanford)]
 - **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.03954)] [[Website](https://3d-diffusion-policy.github.io/)] [[Code](https://github.com/YanjieZe/3D-Diffusion-Policy)]
 - **iDP3**: Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.10803)] [[Website](https://humanoid-manipulation.github.io/)] [[Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- **PointFlowMatch**: Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2409.07343)] [[Website](https://pointflowmatch.cs.uni-freiburg.de/)] [[Code](https://github.com/robot-learning-freiburg/PointFlowMatch)]
+- **Lift3D Foundation Policy**: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.18623)] [[Website](https://lift3d-web.github.io/)] [[Code](https://github.com/PKU-HMI-Lab/LIFT3D)]
 
 
 
