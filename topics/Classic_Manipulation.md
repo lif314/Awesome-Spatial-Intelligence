@@ -30,7 +30,8 @@
 - **F3RM**: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation, *[CoRL 2023 (Best Paper)](https://www.corl2023.org/)*. [[Paper](https://arxiv.org/abs/2308.07931)] [[Website](https://f3rm.github.io/)] [[Code](https://github.com/f3rm/f3rm)]
 - **SparseDFF**: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, *ICLR 2024*. [[Paper](https://arxiv.org/abs/2310.16838)] [[Website](https://helloqxwang.github.io/SparseDFF/)] [[Code](https://github.com/helloqxwang/SparseDFF)]
 - Learning Generalizable Feature Fields for Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.07563)] [[Website](https://geff-b1.github.io/)]
-- **D3Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement, *CoRL 2024 (Oral)*. [[Paper](https://openreview.net/forum?id=Uaaj4MaVIQ)] [[Website](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)]
+- **D$^3$Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement, *CoRL 2024 (Oral)*. [[Paper](https://openreview.net/forum?id=Uaaj4MaVIQ)] [[Website](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)]
+- **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2410.17488)] [[Website](https://robopil.github.io/GenDP/)] [[Code](https://github.com/WangYixuan12/gendp)]
 
 * **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
 * **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]

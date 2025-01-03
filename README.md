@@ -57,21 +57,16 @@ This is an active repository, you can watch for following the latest advances. I
     - [3D Imagination](#3D-Imagination)
     - [3D Understanding](#3D-Understanding)
     - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
-  
 - [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)
   - [Grasping and Manipulation](#Grasping-and-Manipulation)
   - [Representation and Perception](#Representation-and-Perception)
-
 - [Mobile Manipulation](./topics/Mobile_Manipulation.md)
   - [Survey](#Survey)
   - [Benchmark and Hardware](#Benchmark-and-Hardware)
-
-- [Data Collection Hardware](./topics/Data_Collection_Hardware.md)
-- [Robotic Dataset](./topics/Robotic_Dataset.md)
+- [Dataset and Hardware](./topics/Dataset_and_Hardware.md)
 - [Classic Manipulation](./topics/Classic_Manipulation.md)
   - [Point Cloud Grasping](#Point-Cloud-Grasping)
   - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-
 - [SLAM](./topics/SLAM.md)
 
 

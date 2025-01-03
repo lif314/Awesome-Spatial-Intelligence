@@ -132,6 +132,7 @@
 - **Snap-it, Tap-it, Splat-it**: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.20275)]
 - Transparent Object Reconstruction in 3D Gaussian Splatting with RGB-to-TIR Translation, *MLVU Projects (Spring 2024)*. [[Paper](http://viplab.snu.ac.kr/viplab/courses/mlvu_2024_1/projects/07.pdf)] [[Talk](https://www.youtube.com/watch?v=mqFSw7z5JPk)]
 - **NU-NeRF**: Neural Reconstruction of Nested Transparent Objects with Uncontrolled Capture Environment, *SIGGRAPH Asia 2024*.  [[Paper](https://drive.google.com/drive/folders/1DP_aQ5GRow-Se4LpImYLjX3mah2__PSh?usp=sharing)] [[Website](http://geometrylearning.com/NU-NeRF/)] [[Code](https://github.com/78ij/NU-NeRF)]
+- **NeRRF**: 3D Reconstruction and View Synthesis for Transparent and Specular Objects with Neural Refractive-Reflective Fields, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2309.13039)] [[Code](https://github.com/JunchenLiu77/NeRRF)]
 
 ---
 
