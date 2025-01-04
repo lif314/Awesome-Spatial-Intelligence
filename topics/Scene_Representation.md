@@ -19,6 +19,8 @@
 
 - **Sparse Voxels Rasterization**: Real-time High-fidelity Radiance Field Rendering, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.04459)] [[Author](https://sunset1995.github.io/)]
 
+- **3DGS-MCMC**: 3D Gaussian Splatting as Markov Chain Monte Carlo, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2404.09591)] [[Website](https://ubc-vision.github.io/3dgs-mcmc/)] [[Code](https://github.com/ubc-vision/3dgs-mcmc)]
+
 
 
 ### Acceleration
@@ -51,3 +53,18 @@
 ### Omnidirectional GS
 
 - **ODGS**: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splatting, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.20686)] [[Code](https://github.com/esw0116/ODGS)]
+
+
+
+### Event GS
+
+- **Event3DGS**: Event-Based 3D Gaussian Splatting for High-Speed Robot Egomotion, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.02972)] [[Code](https://github.com/jayhsu0627/Event3DGS)]
+- 
+
+
+
+
+
+### Forward Feed
+
+- **SplatFields**: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.11211)] [[Website](https://markomih.github.io/SplatFields/)] [[Code](https://github.com/markomih/SplatFields)]

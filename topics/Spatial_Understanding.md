@@ -37,7 +37,7 @@
 - :fire:**OOAL**: One-Shot Open Affordance Learning with Foundation Models, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2311.17776)] [[Website](https://reagan1311.github.io/ooal/)] [[Code](https://github.com/Reagan1311/OOAL)]
 - **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2404.04242)] [[Website](https://ajzhai.github.io/NeRF2Physics/)] [[Code](https://github.com/ajzhai/NeRF2Physics)]
 - **InstanceGaussian**: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.19235)] [[Website](https://lhj-git.github.io/InstanceGaussian/)]
-- 
+- **Click-Gaussian**: Interactive Segmentation to Any 3D Gaussians, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2407.11793)] [[Website](https://seokhunchoi.github.io/Click-Gaussian/)] [[Code]()]
 
 ## Task-Adaptive 3D Part Segmentation
 

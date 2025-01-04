@@ -1,12 +1,14 @@
 # Classic Manipulation
 
-- [Point Cloud Grasping](#Point-Cloud-Grasping)
+- [Point Cloud Manipulation](#Point-Cloud-Manipulation)
 
-- [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
+- [NeRF Manipulation](#NeRF-Manipulation)
+
+- [3DGS Manipulation](#3DGS-Manipulation)
 
 
 
-## Point Cloud Grasping
+## Point Cloud Manipulation
 
 - **GPD**: Grasp Pose Detection in Point Clouds, *IJRR 2017*. [[Paper](https://arxiv.org/abs/1706.09911)] [[Code (C++)](https://github.com/atenpas/gpd)]
 
@@ -22,9 +24,10 @@
 
 - **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)]
 
-  
 
-## 3DGS/NeRF Manipulation
+
+
+## NeRF Manipulation
 
 - **LERF-TOGO**: Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping, *CoRL 2023 (Best Paper Finalist)*. [[Paper](https://arxiv.org/abs/2309.07970)] [[Website](https://lerftogo.github.io/desktop.html)] [[Code](https://github.com/lerftogo/lerftogo)]
 - **F3RM**: Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation, *[CoRL 2023 (Best Paper)](https://www.corl2023.org/)*. [[Paper](https://arxiv.org/abs/2308.07931)] [[Website](https://f3rm.github.io/)] [[Code](https://github.com/f3rm/f3rm)]
@@ -32,6 +35,11 @@
 - Learning Generalizable Feature Fields for Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.07563)] [[Website](https://geff-b1.github.io/)]
 - **D$^3$Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Rearrangement, *CoRL 2024 (Oral)*. [[Paper](https://openreview.net/forum?id=Uaaj4MaVIQ)] [[Website](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)]
 - **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2410.17488)] [[Website](https://robopil.github.io/GenDP/)] [[Code](https://github.com/WangYixuan12/gendp)]
+- **NeuGraspNet**: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering, *RSS 2024*. [[Paper](https://arxiv.org/abs/2306.07392)] [[Website](https://sites.google.com/view/neugraspnet)] [[Code](https://github.com/pearl-robot-lab/neugraspnet)]
+
+---
+
+## 3DGS Manipulation
 
 * **GraspSplats**: Efficient Manipulation with 3D Feature Splatting, *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Website](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
 * **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.08321)] [[Website](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
@@ -46,4 +54,7 @@
 * **ShapeGrasp**: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.18062)] [[Website](https://shapegrasp.github.io/)]
 * **Robo-ABC**: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2401.07487)] [[Website](https://tea-lab.github.io/Robo-ABC/)] [[Code](https://github.com/TEA-Lab/Robo-ABC)]
 * **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, *CoRL 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18121)] [[Website](https://robot-see-robot-do.github.io/)] [[Code](https://github.com/kerrj/rsrd)]
-* **NeuGraspNet**: Learning Any-View 6DoF Robotic Grasping in Cluttered Scenes via Neural Surface Rendering, *RSS 2024*. [[Paper](https://arxiv.org/abs/2306.07392)] [[Website](https://sites.google.com/view/neugraspnet)] [[Code](https://github.com/pearl-robot-lab/neugraspnet)]
+* **SplatSim**: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2409.10161)] [[Website](https://splatsim.github.io/)] [[Code](https://github.com/qureshinomaan/SplatSim)]
+* 
+
+ 

@@ -4,6 +4,8 @@
 - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
 - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
 
+- [Binocular Vision](#Binocular-Vision)
+
 - [Point Cloud Completion](#Point-Cloud-Completion)
 
 
@@ -92,7 +94,15 @@
 - **MVSplat360**: Feed-Forward 360 Scene Synthesis from Sparse Views, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2411.04924)] [[Website](https://donydchen.github.io/mvsplat360/)] [[Code](https://github.com/donydchen/mvsplat360)] ``8 A100``
 - **DepthSplat**: Connecting Gaussian Splatting and Depth, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.13862)] [[Website](https://haofeixu.github.io/depthsplat/)] [[Code](https://github.com/cvg/depthsplat)] ``8 A100``
 - **SplatFormer**: Point Transformer for Robust 3D Gaussian Splatting, *arXiv 2024.11*. [[Paper](https://arxiv.org/abs/2411.06390)] [[Website](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)]
+
+
+
+---
+
+## Binocular Vision
+
 - :fire:**Binocular3DGS**: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18822)] [[Website](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)]
+- **ZoomGS**: Dual-Camera Smooth Zoom on Mobile Phones, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2404.04908)] [[Website](https://dualcamerasmoothzoom.github.io/)] [[Code](https://github.com/ZcsrenlongZ/ZoomGS)]
 
 
 
