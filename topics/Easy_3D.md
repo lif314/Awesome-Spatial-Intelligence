@@ -20,7 +20,7 @@
 - **No Pose, No Problem**: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.24207)] [[Website](https://noposplat.github.io/)] [[Code](https://github.com/cvg/NoPoSplat)]
 - **ZeroGS**: Training 3D Gaussian Splatting from Unposed Images, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.15779)] [[Website](https://aibluefisher.github.io/ZeroGS/)] [[Code](https://github.com/aibluefisher/ZeroGS)]
 - **SelfSplat**: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.17190)] [[Website](https://gynjn.github.io/selfsplat/)] [[Code](https://github.com/Gynjn/selfsplat)]
-- **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)]
+- :fire: **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)] [[Code](https://github.com/NVlabs/LSM)]
 - **DiffusionGS**: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.14384v2)] [[Website](https://caiyuanhao1998.github.io/project/DiffusionGS/)] [[Code](https://github.com/caiyuanhao1998/Open-DiffusionGS)]
 
 ---
@@ -92,6 +92,7 @@
 - **MVSplat360**: Feed-Forward 360 Scene Synthesis from Sparse Views, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2411.04924)] [[Website](https://donydchen.github.io/mvsplat360/)] [[Code](https://github.com/donydchen/mvsplat360)] ``8 A100``
 - **DepthSplat**: Connecting Gaussian Splatting and Depth, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.13862)] [[Website](https://haofeixu.github.io/depthsplat/)] [[Code](https://github.com/cvg/depthsplat)] ``8 A100``
 - **SplatFormer**: Point Transformer for Robust 3D Gaussian Splatting, *arXiv 2024.11*. [[Paper](https://arxiv.org/abs/2411.06390)] [[Website](https://sergeyprokudin.github.io/splatformer/)] [[Code](https://github.com/ChenYutongTHU/SplatFormer)]
+- :fire:**Binocular3DGS**: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18822)] [[Website](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)]
 
 
 
