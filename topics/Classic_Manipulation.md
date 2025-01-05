@@ -1,9 +1,7 @@
 # Classic Manipulation
 
 - [Point Cloud Manipulation](#Point-Cloud-Manipulation)
-
 - [NeRF Manipulation](#NeRF-Manipulation)
-
 - [3DGS Manipulation](#3DGS-Manipulation)
 
 
@@ -55,6 +53,7 @@
 * **Robo-ABC**: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2401.07487)] [[Website](https://tea-lab.github.io/Robo-ABC/)] [[Code](https://github.com/TEA-Lab/Robo-ABC)]
 * **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, *CoRL 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2409.18121)] [[Website](https://robot-see-robot-do.github.io/)] [[Code](https://github.com/kerrj/rsrd)]
 * **SplatSim**: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2409.10161)] [[Website](https://splatsim.github.io/)] [[Code](https://github.com/qureshinomaan/SplatSim)]
-* 
+
+
 
  

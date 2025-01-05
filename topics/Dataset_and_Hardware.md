@@ -2,6 +2,12 @@
 
 ## Hardware
 
+### Low-Cost Robot
+
+- **Low-Cost Robot Arm**: [[Code](https://github.com/AlexanderKoch-Koch/low_cost_robot)] [[Company](https://tau-robotics.com/robots)] [[Video](https://youtu.be/RckrXOEoWrk)]
+
+### Data Collection
+
 - **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, *RSS 2024*. [[Paper](https://arxiv.org/abs/2402.10329)] [[Website](https://umi-gripper.github.io/)] [[Code](https://github.com/real-stanford/universal_manipulation_interface)] [[Hardware](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg)] [[real-stanford](https://github.com/real-stanford)]
 - **Fast-UMI**: A Scalable and Hardware-Independent Universal Manipulation Interface, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.19499)] [[Website](https://fastumi.com/)] [[Data Code](https://github.com/YdingTeam/FastUMI_Data)] [[Yan Ding, Shanghai AI Laboratory](https://yding25.com/)]
 - **ALOHA**: Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, *RSS 2023*. [[Paper](https://arxiv.org/abs/2304.13705)] [[Website](https://tonyzhaozh.github.io/aloha/)] [[ACT Code](https://github.com/tonyzhaozh/act)] [[ALOHA Code](https://github.com/tonyzhaozh/aloha)] [[Chelsea Finn, Stanford University](https://ai.stanford.edu/~cbfinn/)]
