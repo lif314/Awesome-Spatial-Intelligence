@@ -8,19 +8,20 @@
 
 ## Point Cloud Manipulation
 
+- **MVP-Grasp**: Multi-Viewpoint Picking, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.08564)] [[Code](https://github.com/dougsm/mvp_grasp)] [[Panda Camera Mount.stl](https://github.com/dougsm/mvp_grasp/tree/master/cad)]
+
 - **GPD**: Grasp Pose Detection in Point Clouds, *IJRR 2017*. [[Paper](https://arxiv.org/abs/1706.09911)] [[Code (C++)](https://github.com/atenpas/gpd)]
-
 - **PointNetGPD**: Detecting Grasp Configurations from Point Sets, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.06267)] [[Website](https://lianghongzhuo.github.io/PointNetGPD/)] [[Code](https://github.com/lianghongzhuo/PointNetGPD)]
-
 - **6-DOF GraspNet**: Variational Grasp Generation for Object Manipulation, *ICCV 2019*. [[Paper](https://arxiv.org/abs/1905.10520)] [[Code (tf)](https://github.com/NVlabs/6dof-graspnet)] [[Code (pytorch)](https://github.com/jsll/pytorch_6dof-graspnet)]
-
-- **VGN**: Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter, *CoRL 2020*. [[Paper](https://arxiv.org/abs/2101.01132)] [[Code](https://github.com/ethz-asl/vgn)]
-
 - **GraspNet-1Billion**: A Large-Scale Benchmark for General Object Grasping, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)] [[Website](https://graspnet.net/)] [[Code](https://github.com/graspnet/graspnet-baseline)]
-
 - **Contact-GraspNet**: Efficient 6-DoF Grasp Generation in Cluttered Scenes, *ICRA 2021*. [[Paper](https://arxiv.org/abs/2103.14127)] [[Website](https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes)] [[Code](https://github.com/NVlabs/contact_graspnet)] [[Code (pytorch)](https://github.com/elchun/contact_graspnet_pytorch)]
-
 - **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)]
+
+
+
+## TSDF
+
+- :fire: **VGN**: Volumetric Grasping Network: Real-time 6 DOF Grasp Detection in Clutter, *CoRL 2020*. [[Paper](https://arxiv.org/abs/2101.01132)] [[Code](https://github.com/ethz-asl/vgn)]
 
 
 

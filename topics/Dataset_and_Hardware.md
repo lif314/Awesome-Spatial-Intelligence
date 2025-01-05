@@ -14,13 +14,14 @@
 - **ALOHA 2**: An Enhanced Low-Cost Hardware for Bimanual Teleoperation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2405.02292)] [[Website](https://aloha-2.github.io/)] [[Code](https://github.com/tonyzhaozh/aloha/tree/main/aloha2)] [[Google DeepMind](https://deepmind.google/discover/blog/)]
 - **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.07788)] [[Website](https://dex-cap.github.io/)] [[Code](https://github.com/j96w/DexCap)] [[Hardware](https://docs.google.com/document/d/1ANxSA_PctkqFf3xqAkyktgBgDWEbrFK7b1OnJe54ltw/edit?tab=t.0#heading=h.yxlxo67jgfyx)] [[Li Fei-Fei, Stanford University](https://profiles.stanford.edu/fei-fei-li)]
 
-
-
 ## Dataset
 
 - [[awesome-robotics-datasets](https://github.com/mint-lab/awesome-robotics-datasets)], 2020.
+
+- **FurnitureBench**: Reproducible Real-World Benchmark for Long-Horizon Complex Manipulation, *RSS 2023*. [[Paper](https://arxiv.org/abs/2305.12821)] [[Website](https://clvrai.github.io/furniture-bench/)] [[Code](https://github.com/clvrai/furniture-bench)] [[Docs](https://clvrai.github.io/furniture-bench/docs/index.html)]
 
 - **FMB**: a Functional Manipulation Benchmark for Generalizable Robotic Learning, *IJRR 2024*. [[Paper](https://arxiv.org/abs/2401.08553)] [[Website](https://functional-manipulation-benchmark.github.io/)] [[Code](https://github.com/rail-berkeley/fmb)]
 
 - **DROID**: A Large-Scale In-The-Wild Robot Manipulation Dataset, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2403.12945)] [[Website](https://droid-dataset.github.io/)] [[Code](https://github.com/droid-dataset/droid_policy_learning)] [[Hardware](https://github.com/droid-dataset/droid)]
 - **Open X-Embodiment**: Robotic Learning Datasets and RT-X Models, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2310.08864)] [[Website](https://robotics-transformer-x.github.io/)] [[Code](https://github.com/google-deepmind/open_x_embodiment)] [[Dataset](https://docs.google.com/spreadsheets/d/1rPBD77tk60AEIGZrGSODwyyzs5FgCU9Uz3h-3_t2A9g/edit#gid=0)] [[Google]]
+- 
