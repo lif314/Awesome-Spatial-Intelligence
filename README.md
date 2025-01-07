@@ -31,6 +31,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Overview
 
+- Scene Understanding
+  - Scene Representation: Points, NeRF, 3DGS
+  - Segmentation
+  - Multimodal Grouding
+
+- Data Introduction
+  - Video Learning
+  - 
+
+
+
 - **Large Robot Models**
   - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
     - [LLM/VLM Guidance](https://github.com/lif314/Awesome-Spatial-Intelligence/blob/main/topics/Large_Manipulation_Model.md#LLM/VLM-Guidance)

@@ -31,3 +31,22 @@
 
 - [fairo-FR3](https://github.com/clvrai/fairo-FR3): unified robotics platform developed by researchers at [Meta AI](https://ai.facebook.com/).
 - [Oculus Reader](https://github.com/rail-berkeley/oculus_reader): Robotic Teleoperation Interface.
+
+
+
+## Teleoperation
+
+- [FrankaTeleop](https://github.com/gjcliff/FrankaTeleop):  A ROS2 Iron package implementing teleoperation on the Emika Franka Panda 7 DOF robot.
+- 
+
+
+
+## Simulation
+
+
+
+
+
+## Mobile Manipulation
+
+- [moma](https://github.com/ethz-asl/moma): Mobile manipulation, Franka arm and ridgeback base launch files and descriptions.

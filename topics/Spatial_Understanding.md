@@ -45,6 +45,7 @@
 - **SAMPart3D**: Segment Any Part in 3D Objects, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.07184v2)] [[Website](https://yhyang-myron.github.io/SAMPart3D-website/)] [[Code](https://github.com/Pointcept/SAMPart3D)]
 - :fire: **GARField**: Group Anything with Radiance Fields, *CVPR 2024*.  [[Paper](https://arxiv.org/abs/2401.09419)] [[Website](https://www.garfield.studio/)] [[Code](https://github.com/chungmin99/garfield)]
 - Open-Vocabulary Part-Based Grasping, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.05951)]
+- **PartCLIPSeg**: Understanding Multi-Granularity for Open-Vocabulary Part Segmentation, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.11384)] [[Code](https://github.com/kaist-cvml/part-clipseg)]
 
 
 
