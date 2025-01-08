@@ -1,10 +1,12 @@
-# Spatial Understanding
+# Spatial Perception
 
 - [Point Cloud](#Point-Cloud)
 
 - [3D Imagination](#3D-Imagination)
 - [3D Understanding](#3D-Understanding)
 - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
+- [Perception](#Perception)
+
 
 ---
 
@@ -13,8 +15,6 @@
 ## Point Cloud
 
 - **PointLLM**: Empowering Large Language Models to Understand Point Clouds, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2308.16911)] [[Website](https://runsenxu.com/projects/PointLLM/)] [[Code](https://github.com/OpenRobotLab/PointLLM)]
-
-
 
 ## 3D Imagination
 
@@ -47,11 +47,10 @@
 - Open-Vocabulary Part-Based Grasping, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2406.05951)]
 - **PartCLIPSeg**: Understanding Multi-Granularity for Open-Vocabulary Part Segmentation, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.11384)] [[Code](https://github.com/kaist-cvml/part-clipseg)]
 
-
-
 ## Perception
 
 * **iSDF**: "Real-Time Neural Signed Distance Fields for Robot Perception", *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
 
 * **ConceptFusion**: Open-set Multimodal 3D Mapping, *RSS 2023*. [[Paper](https://arxiv.org/abs/2302.07241)] [[Website](https://concept-fusion.github.io/)] [[Code](https://github.com/concept-fusion/concept-fusion)]
+
 

@@ -14,6 +14,11 @@
 
 ## Benchmark and Hardware
 
+- Frankie Mobile Manipulator. [[Code](https://github.com/qcr/frankie_docs)]
+
+- A Holistic Approach to Reactive Mobile Manipulation, *RA-L 2022*. [[Paper](https://arxiv.org/abs/2109.04749)] [[Website](https://jhavl.github.io/holistic/)] [[Code](https://github.com/petercorke/robotics-toolbox-python)] [[Peter Corke](https://petercorke.com/)]
+- An Architecture for Reactive Mobile Manipulation On-The-Move, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2212.06991)] [[Website](https://benburgesslimerick.github.io/ManipulationOnTheMove/)] [[Code](https://github.com/petercorke/robotics-toolbox-python)]
+
 - **TidyBot**: Personalized Robot Assistance with Large Language Models, *IROS 2023*. [[Paper](https://arxiv.org/abs/2305.05658)] [[Website](https://tidybot.cs.princeton.edu/)] [[Code](https://github.com/jimmyyhwu/tidybot)]
 
 - **HomeRobot**: Open-Vocabulary Mobile Manipulation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2306.11565)] [[Website](https://ovmm.github.io/)] [[Code](https://github.com/facebookresearch/home-robot)]
