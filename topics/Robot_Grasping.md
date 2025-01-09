@@ -2,21 +2,36 @@
 
 > **Grasping** focuses on the "stable holding" of an object, ensuring that the robot can securely grasp it without slipping or damaging it.
 
+**Plane Grasping**
+
+- [Plane Grasping](#Plane-Grasping)
+
+**6DoF Grasping**
+
 - [Point Cloud](#Point-Cloud)
 - [TSDF](#TSDF)
 - [NeRF](#NeRF)
 - [3DGS](#3DGS)
 
+## Plane Grasping
+
+- [``CNN``] **GG-CNN**: Closing the Loop for Robotic Grasping: A Real-time, Generative Grasp Synthesis Approach, *RSS 2018*.  [[Paper](https://arxiv.org/abs/1804.05172)] [[Code](https://github.com/dougsm/ggcnn)] [[ROS_Franka Code](https://github.com/dougsm/mvp_grasp)] [[ Kinva Mico Arm Code](https://github.com/dougsm/ggcnn_kinova_grasping)] ![Stars](https://img.shields.io/github/stars/dougsm/ggcnn?style=social)
+- [``CNN``] **GR-CNN**: Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network, *IROS 2020*. [[Paper](https://arxiv.org/abs/1909.04810)] [[Code](https://github.com/skumra/robotic-grasping)] ![Stars](https://img.shields.io/github/stars/skumra/robotic-grasping?style=social)
+- [Benchmark: Robotic Grasping on Cornell Grasp Dataset](https://paperswithcode.com/sota/robotic-grasping-on-cornell-grasp-dataset-1)
+- [Benchmark: Robotic Grasping on Jacquard dataset](https://paperswithcode.com/sota/robotic-grasping-on-jacquard-dataset)
+- [``Diffusion Dataset``] **LGD**: Language-driven Grasp Detection, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2406.09489)] [[Website](https://airvlab.github.io/grasp-anything/)] [[Code](https://github.com/Fsoft-AIC/LGD)] ![Stars](https://img.shields.io/github/stars/Fsoft-AIC/LGD?style=social)
+- [Benchmark: Grasp-Anything Dataset](https://paperswithcode.com/dataset/grasp-anything)
+
 ## Point Cloud
 
-- **GPD**: Grasp Pose Detection in Point Clouds, *IJRR 2017*. [[Paper](https://arxiv.org/abs/1706.09911)] [[Code (C++)](https://github.com/atenpas/gpd)]
+- **GPD**: Grasp Pose Detection in Point Clouds, *IJRR 2017*. [[Paper](https://arxiv.org/abs/1706.09911)] [[Code (C++)](https://github.com/atenpas/gpd)]  ![Stars](https://img.shields.io/github/stars/atenpas/gpd?style=social)
 
-- **MVP-Grasp**: Multi-Viewpoint Picking, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.08564)] [[Code](https://github.com/dougsm/mvp_grasp)] [[Panda Camera Mount.stl](https://github.com/dougsm/mvp_grasp/tree/master/cad)]
-- **PointNetGPD**: Detecting Grasp Configurations from Point Sets, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.06267)] [[Website](https://lianghongzhuo.github.io/PointNetGPD/)] [[Code](https://github.com/lianghongzhuo/PointNetGPD)]
-- **6-DOF GraspNet**: Variational Grasp Generation for Object Manipulation, *ICCV 2019*. [[Paper](https://arxiv.org/abs/1905.10520)] [[Code (tf)](https://github.com/NVlabs/6dof-graspnet)] [[Code (pytorch)](https://github.com/jsll/pytorch_6dof-graspnet)]
-- **GraspNet-1Billion**: A Large-Scale Benchmark for General Object Grasping, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)] [[Website](https://graspnet.net/)] [[Code](https://github.com/graspnet/graspnet-baseline)]
-- **Contact-GraspNet**: Efficient 6-DoF Grasp Generation in Cluttered Scenes, *ICRA 2021*. [[Paper](https://arxiv.org/abs/2103.14127)] [[Website](https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes)] [[Code](https://github.com/NVlabs/contact_graspnet)] [[Code (pytorch)](https://github.com/elchun/contact_graspnet_pytorch)]
-- **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)]
+- **MVP-Grasp**: Multi-Viewpoint Picking, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.08564)] [[Code](https://github.com/dougsm/mvp_grasp)] [[Panda Camera Mount.stl](https://github.com/dougsm/mvp_grasp/tree/master/cad)]  ![Stars](https://img.shields.io/github/stars/dougsm/mvp_grasp?style=social)
+- **PointNetGPD**: Detecting Grasp Configurations from Point Sets, *ICRA 2019*. [[Paper](https://arxiv.org/abs/1809.06267)] [[Website](https://lianghongzhuo.github.io/PointNetGPD/)] [[Code](https://github.com/lianghongzhuo/PointNetGPD)]  ![Stars](https://img.shields.io/github/stars/lianghongzhuo/PointNetGPD?style=social)
+- **6-DOF GraspNet**: Variational Grasp Generation for Object Manipulation, *ICCV 2019*. [[Paper](https://arxiv.org/abs/1905.10520)] [[Code (tf)](https://github.com/NVlabs/6dof-graspnet)] [[Code (pytorch)](https://github.com/jsll/pytorch_6dof-graspnet)] ![Stars](https://img.shields.io/github/stars/NVlabs/6dof-graspnet?style=social)
+- **GraspNet-1Billion**: A Large-Scale Benchmark for General Object Grasping, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)] [[Website](https://graspnet.net/)] [[Code](https://github.com/graspnet/graspnet-baseline)] ![Stars](https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=social)
+- **Contact-GraspNet**: Efficient 6-DoF Grasp Generation in Cluttered Scenes, *ICRA 2021*. [[Paper](https://arxiv.org/abs/2103.14127)] [[Website](https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes)] [[Code](https://github.com/NVlabs/contact_graspnet)] [[Code (pytorch)](https://github.com/elchun/contact_graspnet_pytorch)] ![Stars](https://img.shields.io/github/stars/NVlabs/contact_graspnet?style=social)
+- **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)] ![Stars](https://img.shields.io/github/stars/rhett-chen/graspness_implementation?style=social)
 
 ## TSDF
 

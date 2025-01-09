@@ -31,16 +31,27 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Overview
 
+- Robot
+  - Mobile Robot
+  - Humanoid Robot
+  - Manipulation Robot
+  - Locomotion Robot
+- Perception
+  - Spatial Perception
+    - Scene Representation
+    - SLAM
+    - Scene Segmentation
+  - Tactile Perception
+  - Auditory Perception
+
+---
+
 - Scene Understanding
   - Scene Representation: Points, NeRF, 3DGS
   - Segmentation
   - Multimodal Grouding
-
 - Data Introduction
   - Video Learning
-  - 
-
-
 
 - **Large Robot Models**
   - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
