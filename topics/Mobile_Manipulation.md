@@ -30,3 +30,9 @@
 - **Dobb-E**: On Bringing Robots Home, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2311.16098)] [[Website](https://dobb-e.com/)] [[Code](https://github.com/notmahi/dobb-e)]
 - **SPOC**: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.02976)] [[Website](https://spoc-robot.github.io/)] [[Code](https://github.com/allenai/spoc-robot-training)]
 - :fire: TidyBot++: An Open-Source Holonomic Mobile Manipulator for Robot Learning, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2412.10447)] [[Website](https://tidybot2.github.io/)] [[Code](https://github.com/jimmyyhwu/tidybot2)]
+
+
+
+## Simulation
+
+- **robosuite**: A Modular Simulation Framework and Benchmark for Robot Learning, *arXiv 2022.11*. [[Paper](https://arxiv.org/abs/2009.12293)] [[Website](https://robosuite.ai/)] [[Code](https://github.com/ARISE-Initiative/robosuite)] [[Stanford Vision and Learning Lab](http://svl.stanford.edu/)]

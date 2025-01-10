@@ -24,6 +24,7 @@
 - **SelfSplat**: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.17190)] [[Website](https://gynjn.github.io/selfsplat/)] [[Code](https://github.com/Gynjn/selfsplat)]
 - :fire: **Large Spatial Model**: End-to-end Unposed Images to Semantic 3D, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.18956)] [[Website](https://largespatialmodel.github.io/)] [[Code](https://github.com/NVlabs/LSM)]
 - **DiffusionGS**: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2411.14384v2)] [[Website](https://caiyuanhao1998.github.io/project/DiffusionGS/)] [[Code](https://github.com/caiyuanhao1998/Open-DiffusionGS)]
+- **MV-DUSt3R+**: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds, *arXiv 2024.12*. [[Paper](https://arxiv.org/abs/2412.06974)] [[Website](https://mv-dust3rp.github.io/)] [[Code](https://github.com/facebookresearch/mvdust3r)]
 
 ---
 
@@ -79,6 +80,8 @@
 - **DeepPriorAssembly**: Zero-Shot Scene Reconstruction from Single Images with Deep Prior Assembly, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2410.15971)] [[Website](https://junshengzhou.github.io/DeepPriorAssembly/)] [[Code](https://github.com/junshengzhou/DeepPriorAssembly)]
 
 - **DreamUp3D**: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer, *R-AL 2024*. [[Paper](https://arxiv.org/abs/2402.16308)]
+
+- **SPAR3D**: Stable Point-Aware Reconstruction of 3D Objects from Single Images, *arXiv 2025.01*. [[Paper](https://arxiv.org/abs/2501.04689)] [[Website](https://spar3d.github.io/)] [[Code](https://github.com/Stability-AI/stable-point-aware-3d)] [[Demo](https://huggingface.co/spaces/stabilityai/stable-point-aware-3d)]
 
 ---
 

@@ -29,6 +29,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - 2025/01/05：将[Semantic Diffusion Policy](https://github.com/WangYixuan12/gendp)与[3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)进行结合，实现3D语义diffusion policy的泛化
 
+- 2025/1/10: 使用[Gaussian-Property](https://github.com/xxlbigbrother/Gaussian-Property)结合Gelsight触觉进行机器人操作，比如滑动检测
+
+- 2025/1/10: 将Gaussian Splatting应用在[HOV-SG](https://github.com/hovsg/HOV-SG)上，基于GS的3D场景图构建，应用于导航等任务
+
 ## Overview
 
 - Robot
@@ -104,3 +108,4 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 - [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
+- Physics and Simulation
