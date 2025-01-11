@@ -1,6 +1,9 @@
 # Physics and Simulation
 
-
+- [Physics](#Physics)
+  - [NeRF](#NeRF)
+  - [Gaussian Splatting](#Gaussian-Splatting)
+- [Simulation](#Simulation)
 
 ## Physics
 
