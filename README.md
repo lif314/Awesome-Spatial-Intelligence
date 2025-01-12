@@ -15,7 +15,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [[Awesome Video4Robot](https://github.com/jmwang0117/Video4Robot)] [[Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers)] [[awesome-dust3r](https://github.com/ruili3/awesome-dust3r)]
 - [[Awesome_Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)] [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)]
 - [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
-- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] [[Awesome-embodied-world-model-papers](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)] [[awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc)]
+- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] [[Awesome-embodied-world-model-papers](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)] [[awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc)] [[Awesome6DPoseEstimation](https://github.com/Jianqiuer/Awesome6DPoseEstimation)]
 
 ---
 # Idea
