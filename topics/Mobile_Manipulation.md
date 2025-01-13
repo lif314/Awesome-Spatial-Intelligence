@@ -36,3 +36,10 @@
 ## Simulation
 
 - **robosuite**: A Modular Simulation Framework and Benchmark for Robot Learning, *arXiv 2022.11*. [[Paper](https://arxiv.org/abs/2009.12293)] [[Website](https://robosuite.ai/)] [[Code](https://github.com/ARISE-Initiative/robosuite)] [[Stanford Vision and Learning Lab](http://svl.stanford.edu/)]
+
+
+
+## Planning
+
+- **Points2Plans**: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2408.14769)] [[Website](https://sites.google.com/stanford.edu/points2plans)] [[Code](https://github.com/yixuanhuang98/Points2Plans)]
+- 
