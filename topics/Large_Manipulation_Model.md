@@ -41,12 +41,14 @@
 
 
 
+
+
 ## LLM/VLM Guidance
 
 - **SpatialVLM**: Endowing Vision-Language Models with Spatial Reasoning Capabilities, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.12168)] [[Website](https://spatial-vlm.github.io/#community-implementation)] [[Unofficial Code](https://github.com/remyxai/VQASynth)]
 
 - **PIVOT**: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs, *arXiv 2024.02*. [[Paper](https://arxiv.org/abs/2402.07872)] [[Website](https://pivot-prompt.github.io/)] [[Demo](https://pivot-prompt.github.io/#demo)]
-- 
+- **OmniManip**: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints, *arXiv 2025.01*. [[Paper](https://arxiv.org/abs/2501.03841)] [[Website](https://omnimanip.github.io/)] [[Code](https://github.com/pmj110119/OmniManip)]
 
 ## Structured Instructions
 
