@@ -6,99 +6,6 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**, ins
 
 This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider STARing ⭐ this list. Feel free to share this list with others!
 
----
-# Idea
-
-- 2024/12/24: 在目前透明物体的数据集中加上Tactile，主要是Tactile可以很好的用于滑动检测，很契合的点 :+1:
-- 2024/12/24: 使用Gaussian Ray Tracing进行透明物体重建，主要用于机械臂的透明物体抓取
-  - 2024/12/25：测试Gaussian Ray Tracing, 效果还行
-- 2024/12/24: Single RGB-D的点云补全研究，比如SSD，用于单帧机械臂物体抓取
-
-- 2024/12/25: 利用SplatFormer进行泛化的透明物体重建
-
-- 2025/01/05：将[Semantic Diffusion Policy](https://github.com/WangYixuan12/gendp)与[3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)进行结合，实现3D语义diffusion policy的泛化
-
-- 2025/1/10: 使用[Gaussian-Property](https://github.com/xxlbigbrother/Gaussian-Property)结合Gelsight触觉进行机器人操作，比如滑动检测
-
-- 2025/1/10: 将Gaussian Splatting应用在[HOV-SG](https://github.com/hovsg/HOV-SG)上，基于GS的3D场景图构建，应用于导航等任务
-
-## Overview
-
-- Robot
-  - Mobile Robot
-  - Humanoid Robot
-  - Manipulation Robot
-  - Locomotion Robot
-- Perception
-  - Spatial Perception
-    - Scene Representation
-    - SLAM
-    - Scene Segmentation
-  - Tactile Perception
-  - Auditory Perception
-
----
-
-- Scene Understanding
-  - Scene Representation: Points, NeRF, 3DGS
-  - Segmentation
-  - Multimodal Grouding
-- Data Introduction
-  - Video Learning
-
-- **Large Robot Models**
-  - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
-    - [LLM/VLM Guidance](https://github.com/lif314/Awesome-Spatial-Intelligence/blob/main/topics/Large_Manipulation_Model.md#LLM/VLM-Guidance)
-    - [Structured Instructions](#Structured-Instructions)
-    - [Vision-Language-Action](#Vision-Language-Action)
-  - [Large Navigation Model](./topics/Large_Navigation_Model.md)
-    - [Vision-Language-Action](#Vision-Language-Action)
-- **Specific Object Manipulation**
-  - [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)
-    - [Survey](#Survey)
-    - [Datasets](#Datasets)
-  
-    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
-    - [Visual Tactile](#Visual-Tactile)
-    - [Pose Estimation](#Pose-Estimation)
-    - [Simulation](#Simulation)
-    - [Depth Completion](#Depth-Completion)
-    - [3D Reconstruction](#3D-Reconstruction)
-    - [Segmentation](#Segmentation)
-    - [Perception](#Perception)
-  - [Deformable Object Manipulation](./topics/Deformable_Object_Manipulation.md)
-    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
-  - [Articulated Object Manipulation](./topics/Articulated_Object_Manipulation.md)
-    - [Pose Estimation](#Pose-Estimation)
-- **Spatial Intelligence**
-  - [Scene Representation](./topics/Scene_Representation.md)
-    - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
-  - [Easy 3D](./topics/Easy_3D.md)
-    - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
-    - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
-    - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
-  
-    - [Point Cloud Completion](#Point-Cloud-Completion)
-  - [Spatial Understanding](./topics/Spatial_Understanding.md)
-    - [3D Imagination](#3D-Imagination)
-    - [3D Understanding](#3D-Understanding)
-    - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
-- [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)
-  - [Grasping and Manipulation](#Grasping-and-Manipulation)
-  - [Representation and Perception](#Representation-and-Perception)
-- [Mobile Manipulation](./topics/Mobile_Manipulation.md)
-  - [Survey](#Survey)
-  - [Benchmark and Hardware](#Benchmark-and-Hardware)
-- [Dataset and Hardware](./topics/Dataset_and_Hardware.md)
-- [Classic Manipulation](./topics/Classic_Manipulation.md)
-  - [Point Cloud Grasping](#Point-Cloud-Grasping)
-  - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [SLAM](./topics/SLAM.md)
-
-
-- [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
-- Physics and Simulation
-
 ## Awesome Robot Repository
 
 ### Scene Representation
@@ -165,3 +72,85 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)] ![Stars](https://img.shields.io/github/stars/mcicolella/awesome-emulators-simulators?style=social) ![Github Last Commit](https://img.shields.io/github/last-commit/mcicolella/awesome-emulators-simulators)
 
+---
+
+## Overview  (Personal use)  ![Stars](https://img.shields.io/github/stars/lif314/Awesome-Spatial-Intelligence?style=social) ![Github Last Commit](https://img.shields.io/github/last-commit/lif314/Awesome-Spatial-Intelligence)
+
+- Scene Understanding
+
+- Scene Representation: Points, NeRF, 3DGS
+- Segmentation
+- Multimodal Grouding
+
+- Data Introduction
+  - Video Learning
+
+- **Large Robot Models**
+  - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
+    - [LLM/VLM Guidance](https://github.com/lif314/Awesome-Spatial-Intelligence/blob/main/topics/Large_Manipulation_Model.md#LLM/VLM-Guidance)
+    - [Structured Instructions](#Structured-Instructions)
+    - [Vision-Language-Action](#Vision-Language-Action)
+  - [Large Navigation Model](./topics/Large_Navigation_Model.md)
+    - [Vision-Language-Action](#Vision-Language-Action)
+- **Specific Object Manipulation**
+  - [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)
+    - [Survey](#Survey)
+    - [Datasets](#Datasets)
+
+    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
+    - [Visual Tactile](#Visual-Tactile)
+    - [Pose Estimation](#Pose-Estimation)
+    - [Simulation](#Simulation)
+    - [Depth Completion](#Depth-Completion)
+    - [3D Reconstruction](#3D-Reconstruction)
+    - [Segmentation](#Segmentation)
+    - [Perception](#Perception)
+  - [Deformable Object Manipulation](./topics/Deformable_Object_Manipulation.md)
+    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
+  - [Articulated Object Manipulation](./topics/Articulated_Object_Manipulation.md)
+    - [Pose Estimation](#Pose-Estimation)
+- **Spatial Intelligence**
+  - [Scene Representation](./topics/Scene_Representation.md)
+    - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
+  - [Easy 3D](./topics/Easy_3D.md)
+    - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
+    - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
+    - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
+
+    - [Point Cloud Completion](#Point-Cloud-Completion)
+  - [Spatial Understanding](./topics/Spatial_Understanding.md)
+    - [3D Imagination](#3D-Imagination)
+    - [3D Understanding](#3D-Understanding)
+    - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
+- [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)
+  - [Grasping and Manipulation](#Grasping-and-Manipulation)
+  - [Representation and Perception](#Representation-and-Perception)
+- [Mobile Manipulation](./topics/Mobile_Manipulation.md)
+  - [Survey](#Survey)
+  - [Benchmark and Hardware](#Benchmark-and-Hardware)
+- [Dataset and Hardware](./topics/Dataset_and_Hardware.md)
+- [Classic Manipulation](./topics/Classic_Manipulation.md)
+  - [Point Cloud Grasping](#Point-Cloud-Grasping)
+  - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
+- [SLAM](./topics/SLAM.md)
+
+
+- [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
+- Physics and Simulation
+
+---
+
+## Ideas are cheap, Execution is expensive
+
+- 2024/12/24: 在目前透明物体的数据集中加上Tactile，主要是Tactile可以很好的用于滑动检测，很契合的点 :+1:
+- 2024/12/24: 使用Gaussian Ray Tracing进行透明物体重建，主要用于机械臂的透明物体抓取
+  - 2024/12/25：测试Gaussian Ray Tracing, 效果还行
+- 2024/12/24: Single RGB-D的点云补全研究，比如SSD，用于单帧机械臂物体抓取
+
+- 2024/12/25: 利用SplatFormer进行泛化的透明物体重建
+
+- 2025/01/05：将[Semantic Diffusion Policy](https://github.com/WangYixuan12/gendp)与[3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)进行结合，实现3D语义diffusion policy的泛化
+
+- 2025/1/10: 使用[Gaussian-Property](https://github.com/xxlbigbrother/Gaussian-Property)结合Gelsight触觉进行机器人操作，比如滑动检测
+
+- 2025/1/10: 将Gaussian Splatting应用在[HOV-SG](https://github.com/hovsg/HOV-SG)上，基于GS的3D场景图构建，应用于导航等任务
