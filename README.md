@@ -6,17 +6,6 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**, ins
 
 This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider STARing ⭐ this list. Feel free to share this list with others!
 
-- [[awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)] [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)] [[awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM)]
-
-- [[awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)] [[Awesome 3D Gaussian Splatting for Robotics](https://github.com/dtc111111/awesome-3dgs-for-robotics)] [[Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D)]
-- [[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)] [[Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)]  [[Awesome-vision-language-action-models](https://github.com/DelinQu/awesome-vision-language-action-model)]
--  [[Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]  [[Awesome-Generalist-Robots-via-Foundation-Models](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)]
-
-- [[Awesome Video4Robot](https://github.com/jmwang0117/Video4Robot)] [[Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers)] [[awesome-dust3r](https://github.com/ruili3/awesome-dust3r)] [[mobile_manipulation_papers](https://github.com/hang0610/mobile_manipulation_papers)]
-- [[Awesome_Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)] [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)]
-- [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)]
-- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] [[Awesome-embodied-world-model-papers](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)] [[awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc)] [[Awesome6DPoseEstimation](https://github.com/Jianqiuer/Awesome6DPoseEstimation)]
-
 ---
 # Idea
 
@@ -109,3 +98,70 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
 - Physics and Simulation
+
+## Awesome Robot Repository
+
+### Scene Representation
+
+- [[awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)]  ![Stars](https://img.shields.io/github/stars/yenchenlin/awesome-NeRF?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yenchenlin/awesome-NeRF)  
+- [[awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)]  ![Stars](https://img.shields.io/github/stars/MrNeRF/awesome-3D-gaussian-splatting?style=social) ![Last Commit](https://img.shields.io/github/last-commit/MrNeRF/awesome-3D-gaussian-splatting)  
+- [[awesome-dust3r](https://github.com/ruili3/awesome-dust3r)]  ![Stars](https://img.shields.io/github/stars/ruili3/awesome-dust3r?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ruili3/awesome-dust3r)  
+
+### General Robotics
+
+- [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)] ![Stars](https://img.shields.io/github/stars/zubair-irshad/Awesome-Implicit-NeRF-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  
+- [[awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM)] ![Stars](https://img.shields.io/github/stars/DoongLi/awesome-NeRF-and-3DGS-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/DoongLi/awesome-NeRF-and-3DGS-SLAM)  
+- [[awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)] ![Stars](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jslee02/awesome-robotics-libraries)  
+- [[awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl)] ![Stars](https://img.shields.io/github/stars/ugurkanates/awesome-real-world-rl?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ugurkanates/awesome-real-world-rl)  
+- [[Awesome 3D Gaussian Splatting for Robotics](https://github.com/dtc111111/awesome-3dgs-for-robotics)] ![Stars](https://img.shields.io/github/stars/dtc111111/awesome-3dgs-for-robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/dtc111111/awesome-3dgs-for-robotics)  
+- [[Awesome-Robotics-3D](https://github.com/zubair-irshad/Awesome-Robotics-3D)] ![Stars](https://img.shields.io/github/stars/zubair-irshad/Awesome-Robotics-3D?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zubair-irshad/Awesome-Robotics-3D)  
+
+- [[Awesome_Manipulation](https://github.com/curieuxjy/Awesome_Manipulation)] ![Stars](https://img.shields.io/github/stars/curieuxjy/Awesome_Manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/curieuxjy/Awesome_Manipulation)  
+- [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] ![Stars](https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/BaiShuanghao/Awesome-Robotics-Manipulation)  
+- [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)] ![Stars](https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=social) ![Last Commit](https://img.shields.io/github/last-commit/robot-descriptions/awesome-robot-descriptions)  
+- [[Awesome6DPoseEstimation](https://github.com/Jianqiuer/Awesome6DPoseEstimation)] ![Stars](https://img.shields.io/github/stars/Jianqiuer/Awesome6DPoseEstimation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Jianqiuer/Awesome6DPoseEstimation)  
+
+### LLM Robotics
+
+- [[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)]  ![Stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/GT-RIPL/Awesome-LLM-Robotics)  
+- [[Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)]  ![Stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zchoi/Awesome-Embodied-Agent-with-LLMs)  
+- [[Awesome-vision-language-action-models](https://github.com/DelinQu/awesome-vision-language-action-model)]  ![Stars](https://img.shields.io/github/stars/DelinQu/awesome-vision-language-action-model?style=social) ![Last Commit](https://img.shields.io/github/last-commit/DelinQu/awesome-vision-language-action-model)  
+- [[Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models)]  ![Stars](https://img.shields.io/github/stars/robotics-survey/Awesome-Robotics-Foundation-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/robotics-survey/Awesome-Robotics-Foundation-Models)  
+- [[Awesome-Generalist-Robots-via-Foundation-Models](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)]  ![Stars](https://img.shields.io/github/stars/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)  
+- [[Awesome-embodied-world-model-papers](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)]  ![Stars](https://img.shields.io/github/stars/QinengWang-Aiden/Awesome-embodied-world-model-papers?style=social) ![Last Commit](https://img.shields.io/github/last-commit/QinengWang-Aiden/Awesome-embodied-world-model-papers)  
+- [[awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc)]  ![Stars](https://img.shields.io/github/stars/coderonion/awesome-llm-and-aigc?style=social) ![Last Commit](https://img.shields.io/github/last-commit/coderonion/awesome-llm-and-aigc)  
+
+### Video for Robotics
+
+- [[awesome-robot-visual-imitation-learning](https://github.com/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)] ![Stars](https://img.shields.io/github/stars/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)  
+
+- [[Awesome Video4Robot](https://github.com/jmwang0117/Video4Robot)] ![Stars](https://img.shields.io/github/stars/jmwang0117/Video4Robot?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jmwang0117/Video4Robot)  
+- [[Awesome-Video-Robotic-Papers](https://github.com/H-Freax/Awesome-Video-Robotic-Papers)] ![Stars](https://img.shields.io/github/stars/H-Freax/Awesome-Video-Robotic-Papers?style=social) ![Last Commit](https://img.shields.io/github/last-commit/H-Freax/Awesome-Video-Robotic-Papers)  
+
+### Whole-Body Robotics
+
+- [[mobile_manipulation_papers](https://github.com/hang0610/mobile_manipulation_papers)] ![Stars](https://img.shields.io/github/stars/hang0610/mobile_manipulation_papers?style=social) ![Last Commit](https://img.shields.io/github/last-commit/hang0610/mobile_manipulation_papers)  
+- [[awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics)] ![Stars](https://img.shields.io/github/stars/mathiasmantelli/awesome-mobile-robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/mathiasmantelli/awesome-mobile-robotics)  
+- [[awesome-ros-mobile-robot](https://github.com/shannon112/awesome-ros-mobile-robot)] ![Stars](https://img.shields.io/github/stars/shannon112/awesome-ros-mobile-robot?style=social) ![Last Commit](https://img.shields.io/github/last-commit/shannon112/awesome-ros-mobile-robot)  
+- [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] ![Stars](https://img.shields.io/github/stars/curieuxjy/Awesome_Quadrupedal_Robots?style=social) ![Last Commit](https://img.shields.io/github/last-commit/curieuxjy/Awesome_Quadrupedal_Robots)  
+- [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] ![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-humanoid-learning)  
+- [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)] ![Stars](https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/YanjieZe/awesome-humanoid-robot-learning)  
+- [[awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation)] ![Stars](https://img.shields.io/github/stars/Tsunami-kun/awesome-humanoid-manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Tsunami-kun/awesome-humanoid-manipulation)  
+
+### Tactile Robotics
+
+- [[Awesome Touch](https://github.com/linchangyi1/Awesome-Touch)] ![Stars](https://img.shields.io/github/stars/linchangyi1/Awesome-Touch?style=social) ![Last Commit](https://img.shields.io/github/last-commit/linchangyi1/Awesome-Touch)  
+- [[awesome-tactile-sensing](https://github.com/vocdex/awesome-tactile-sensing)] ![Stars](https://img.shields.io/github/stars/vocdex/awesome-tactile-sensing?style=social) ![Last Commit](https://img.shields.io/github/last-commit/vocdex/awesome-tactile-sensing)  
+- [[Awesome-Tactile-Perception](https://github.com/xiaoen0/Awesome-Tactile-Perception)] ![Stars](https://img.shields.io/github/stars/xiaoen0/Awesome-Tactile-Perception?style=social) ![Last Commit](https://img.shields.io/github/last-commit/xiaoen0/Awesome-Tactile-Perception)  
+- [[AwesomeTactile](https://github.com/Tom-Ren/AwesomeTactile)] ![Stars](https://img.shields.io/github/stars/Tom-Ren/AwesomeTactile?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Tom-Ren/AwesomeTactile)  
+- [[Awesome-Tactile-Sensing](https://github.com/TX-Leo/Awesome-Tactile-Sensing)] ![Stars](https://img.shields.io/github/stars/TX-Leo/Awesome-Tactile-Sensing?style=social) ![Last Commit](https://img.shields.io/github/last-commit/TX-Leo/Awesome-Tactile-Sensing)  
+
+### Simulation
+
+- [[Awesome-Physics-Inspired-3D-Reconstruction-and-Simulation](https://github.com/HaoqinHong/Awesome-Physics-Inspired-3D-Reconstruction-and-Simulation)] ![Stars](https://img.shields.io/github/stars/HaoqinHong/Awesome-Physics-Inspired-3D-Reconstruction-and-Simulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/HaoqinHong/Awesome-Physics-Inspired-3D-Reconstruction-and-Simulation)  
+- [[awesome-simulation](https://github.com/Housz/awesome-simulation)] ![Stars](https://img.shields.io/github/stars/Housz/awesome-simulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Housz/awesome-simulation)  
+- [[Awesome-Differentiable-Simulation-Robotics](https://github.com/sihengz02/Awesome-Differentiable-Simulation-Robotics)] ![Stars](https://img.shields.io/github/stars/sihengz02/Awesome-Differentiable-Simulation-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/sihengz02/Awesome-Differentiable-Simulation-Robotics)  
+- [[awesome-isaac-sim](https://github.com/shaoxiang/awesome-isaac-sim)] ![Stars](https://img.shields.io/github/stars/shaoxiang/awesome-isaac-sim?style=social) ![Last Commit](https://img.shields.io/github/last-commit/shaoxiang/awesome-isaac-sim)  
+
+- [[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)] ![Stars](https://img.shields.io/github/stars/mcicolella/awesome-emulators-simulators?style=social) ![Github Last Commit](https://img.shields.io/github/last-commit/mcicolella/awesome-emulators-simulators)
+
