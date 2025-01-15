@@ -8,7 +8,7 @@
 
 - [Point Cloud Completion](#Point-Cloud-Completion)
 
-
+- [Metric Depth](#Metric-Depth)
 
 ---
 
@@ -115,7 +115,14 @@
 
 - **SDS**: Point-Cloud Completion with Pretrained Text-to-image Diffusion Models, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2306.10533)] [[Website](https://sds-complete.github.io/)] [[Code](https://github.com/NVlabs/sds-complete)]
 
+## Metric Depth
 
+- **ZoeDepth**: Zero-shot Transfer by Combining Relative and Metric Depth, *arXiv 2023*. [[Paper](https://arxiv.org/abs/2302.12288)] [[Code](https://github.com/isl-org/ZoeDepth)]
+- **Metric3D**: Towards Zero-shot Metric 3D Prediction from A Single Image, *ICCV 2023*. [[Paper](https://arxiv.org/abs/2307.10984)] [[Code](https://github.com/YvanYin/Metric3D)] [[Website](https://jugghm.github.io/Metric3Dv2/)]
 
+- **UniDepth**: Universal Monocular Metric Depth Estimation, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2403.18913)] [[Code](https://github.com/lpiccinelli-eth/UniDepth)] [[Website](https://lpiccinelli-eth.github.io/pub/unidepth/)]
+- **PatchFusion**: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2312.02284)] [[Website](https://zhyever.github.io/patchfusion/)] [[Code](https://github.com/zhyever/PatchFusion)]
 
-
+- **Depth Pro**: Sharp Monocular Metric Depth in Less Than a Second, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.02073)] [[Code](https://github.com/apple/ml-depth-pro)]
+- **Depth Anything V2**: A More Capable Foundation Model for Monocular Depth Estimation, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2406.09414)] [[Website](https://depth-anything-v2.github.io/)] [[Code](https://github.com/DepthAnything/Depth-Anything-V2)]
+- Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2412.14015)] [[Website](https://promptda.github.io/)] [[Code](https://github.com/DepthAnything/PromptDA)]
