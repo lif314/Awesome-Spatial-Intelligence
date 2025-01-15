@@ -72,9 +72,26 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)] ![Stars](https://img.shields.io/github/stars/mcicolella/awesome-emulators-simulators?style=social) ![Github Last Commit](https://img.shields.io/github/last-commit/mcicolella/awesome-emulators-simulators)
 
+### Navigation
+
+- [[Awesome-Vision-and-Language-Navigation](https://github.com/iminolee/Awesome-Vision-and-Language-Navigation)] ![Stars](https://img.shields.io/github/stars/iminolee/Awesome-Vision-and-Language-Navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/iminolee/Awesome-Vision-and-Language-Navigation)  
+- [[awesome-vision-language-navigation](https://github.com/eric-ai-lab/awesome-vision-language-navigation)] ![Stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/eric-ai-lab/awesome-vision-language-navigation)  
+- [[awesome-vln](https://github.com/daqingliu/awesome-vln)] ![Stars](https://img.shields.io/github/stars/daqingliu/awesome-vln?style=social) ![Last Commit](https://img.shields.io/github/last-commit/daqingliu/awesome-vln)  
+- [[awesome-robot-social-navigation](https://github.com/Shuijing725/awesome-robot-social-navigation)] ![Stars](https://img.shields.io/github/stars/Shuijing725/awesome-robot-social-navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Shuijing725/awesome-robot-social-navigation)  
+- [[vision-and-language-navigation](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs?tab=readme-ov-file#vision-and-language-navigation)  ] ![Stars](https://img.shields.io/github/stars/zchoi/Awesome-Embodied-Agent-with-LLMs?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zchoi/Awesome-Embodied-Agent-with-LLMs)  
+- [[awesome-target-driven-navigation](https://github.com/Skylark0924/awesome-target-driven-navigation)] ![Stars](https://img.shields.io/github/stars/Skylark0924/awesome-target-driven-navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Skylark0924/awesome-target-driven-navigation)  
+- [[Awesome-Embodied-Navigation](https://github.com/Franky-X/Awesome-Embodied-Navigation)] ![Stars](https://img.shields.io/github/stars/Franky-X/Awesome-Embodied-Navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Franky-X/Awesome-Embodied-Navigation)  
+- [[awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision)] ![Stars](https://img.shields.io/github/stars/ChanganVR/awesome-embodied-vision?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ChanganVR/awesome-embodied-vision)  
+- [[Awesome-ObjectGoal-Navigation](https://github.com/EAI-MCC/Awesome-ObjectGoal-Navigation)] ![Stars](https://img.shields.io/github/stars/EAI-MCC/Awesome-ObjectGoal-Navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/EAI-MCC/Awesome-ObjectGoal-Navigation)  
+- [[awesome-3d-multimodal-maps](https://github.com/yuddim/awesome-3d-multimodal-maps)] ![Stars](https://img.shields.io/github/stars/yuddim/awesome-3d-multimodal-maps?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yuddim/awesome-3d-multimodal-maps)  
+- [[awesome_navigation](https://github.com/ruohaoguo/awesome_navigation)] ![Stars](https://img.shields.io/github/stars/ruohaoguo/awesome_navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ruohaoguo/awesome_navigation)  
+- [[awesome-visual-navigation](https://github.com/happywangmakeit/awesome-visual-navigation)] ![Stars](https://img.shields.io/github/stars/happywangmakeit/awesome-visual-navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/happywangmakeit/awesome-visual-navigation)  
+- [[awesome-robot-navigation](https://github.com/Hardy-Uint/awesome-robot-navigation)] ![Stars](https://img.shields.io/github/stars/Hardy-Uint/awesome-robot-navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Hardy-Uint/awesome-robot-navigation)  
+- [[awesome-multi-robot-system](https://github.com/Grandzxw/awesome-multi-robot-system)] ![Stars](https://img.shields.io/github/stars/Grandzxw/awesome-multi-robot-system?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Grandzxw/awesome-multi-robot-system)  
+
 ---
 
-## Overview  (Personal use) 
+## Overview  (Personal use)
 
 - Scene Understanding
 
