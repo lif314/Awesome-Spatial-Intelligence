@@ -6,7 +6,14 @@
 
 - **Low-Cost Robot Arm**: [[Code](https://github.com/AlexanderKoch-Koch/low_cost_robot)] [[Company](https://tau-robotics.com/robots)] [[Video](https://youtu.be/RckrXOEoWrk)]
 
-### Data Collection
+### Open-source Tactile Sensor
+
+- **9DTact**: A Compact Vision-Based Tactile Sensor for Accurate 3D Shape Reconstruction and Generalizable 6D Force Estimation, *RA-L 2023*. [[Paper](https://arxiv.org/abs/2308.14277)] [[Website](https://linchangyi1.github.io/9DTact/)] [[Code](https://github.com/linchangyi1/9DTact)] [[Hardware](https://github.com/linchangyi1/9DTact)] [[Tutorial](https://www.bilibili.com/video/BV1sj42197HJ/?share_source=copy_web)] [[Changyi Lin, CMU](https://linchangyi1.github.io/)]
+
+- **3D-ViTac**: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2410.24091)] [[Website](https://binghao-huang.github.io/3D-ViTac/)] [[Code comming soon]()] [[Hardware Tutorial](https://docs.google.com/document/d/1XGyn-iV_wzRmcMIsyS3kwcrjxbnvblZAyigwbzDsX-E/edit?tab=t.0#heading=h.ny8zu0pq9mxy)] [[Hardware Code](https://github.com/binghao-huang/3D-ViTac_Tactile_Hardware)]  [[Binghao Huang, Columbia University](https://binghao-huang.github.io/)]
+- **GelSlim 4.0**: Focusing on Touch and Reproducibility, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.19770)] [[Website](https://www.mmintlab.com/research/gelslim-4-0/)] [[Hardware](https://github.com/MMintLab/gelslim_hardware)] [[Code: gelslim_depth](https://github.com/MMintLab/gelslim_depth)] [[Code: gelslim_shear](https://github.com/MMintLab/gelslim_shear)]
+
+###  Data Collection
 
 - **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, *RSS 2024*. [[Paper](https://arxiv.org/abs/2402.10329)] [[Website](https://umi-gripper.github.io/)] [[Code](https://github.com/real-stanford/universal_manipulation_interface)] [[Hardware](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg)] [[real-stanford](https://github.com/real-stanford)]
 - **Fast-UMI**: A Scalable and Hardware-Independent Universal Manipulation Interface, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2409.19499)] [[Website](https://fastumi.com/)] [[Data Code](https://github.com/YdingTeam/FastUMI_Data)] [[Yan Ding, Shanghai AI Laboratory](https://yding25.com/)]

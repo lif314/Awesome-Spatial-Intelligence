@@ -48,6 +48,7 @@ This is an active repository, you can watch for following the latest advances. I
 ### Whole-Body Robotics
 
 - [[mobile_manipulation_papers](https://github.com/hang0610/mobile_manipulation_papers)] ![Stars](https://img.shields.io/github/stars/hang0610/mobile_manipulation_papers?style=social) ![Last Commit](https://img.shields.io/github/last-commit/hang0610/mobile_manipulation_papers)  
+- [[bipedal-robot-learning-collection](https://github.com/zita-ch/bipedal-robot-learning-collection)]  ![Stars](https://img.shields.io/github/stars/zita-ch/bipedal-robot-learning-collection?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zita-ch/bipedal-robot-learning-collection)  
 - [[awesome-mobile-robotics](https://github.com/mathiasmantelli/awesome-mobile-robotics)] ![Stars](https://img.shields.io/github/stars/mathiasmantelli/awesome-mobile-robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/mathiasmantelli/awesome-mobile-robotics)  
 - [[awesome-ros-mobile-robot](https://github.com/shannon112/awesome-ros-mobile-robot)] ![Stars](https://img.shields.io/github/stars/shannon112/awesome-ros-mobile-robot?style=social) ![Last Commit](https://img.shields.io/github/last-commit/shannon112/awesome-ros-mobile-robot)  
 - [[Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots)] ![Stars](https://img.shields.io/github/stars/curieuxjy/Awesome_Quadrupedal_Robots?style=social) ![Last Commit](https://img.shields.io/github/last-commit/curieuxjy/Awesome_Quadrupedal_Robots)  
@@ -163,11 +164,11 @@ This is an active repository, you can watch for following the latest advances. I
 - 2024/12/24: 使用Gaussian Ray Tracing进行透明物体重建，主要用于机械臂的透明物体抓取
   - 2024/12/25：测试Gaussian Ray Tracing, 效果还行
 - 2024/12/24: Single RGB-D的点云补全研究，比如SSD，用于单帧机械臂物体抓取
-
 - 2024/12/25: 利用SplatFormer进行泛化的透明物体重建
-
 - 2025/01/05：将[Semantic Diffusion Policy](https://github.com/WangYixuan12/gendp)与[3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)进行结合，实现3D语义diffusion policy的泛化
-
 - 2025/1/10: 使用[Gaussian-Property](https://github.com/xxlbigbrother/Gaussian-Property)结合Gelsight触觉进行机器人操作，比如滑动检测
-
 - 2025/1/10: 将Gaussian Splatting应用在[HOV-SG](https://github.com/hovsg/HOV-SG)上，基于GS的3D场景图构建，应用于导航等任务
+- 2025/1/15: 使用**双目**feed-forward用于机器臂的操作，比如pixelsplat, LatentSplat, HiSplat
+  - 双目机械臂操作的数据集
+  - 双目机械臂的benchmark
+- 2025/1/16: 复现视触觉传感器, [9DTact](https://linchangyi1.github.io/9DTact/) 和 [3D-ViTac](https://binghao-huang.github.io/3D-ViTac/)
