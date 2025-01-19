@@ -27,6 +27,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [[Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation)] ![Stars](https://img.shields.io/github/stars/BaiShuanghao/Awesome-Robotics-Manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/BaiShuanghao/Awesome-Robotics-Manipulation)  
 - [[awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions)] ![Stars](https://img.shields.io/github/stars/robot-descriptions/awesome-robot-descriptions?style=social) ![Last Commit](https://img.shields.io/github/last-commit/robot-descriptions/awesome-robot-descriptions)  
 - [[Awesome6DPoseEstimation](https://github.com/Jianqiuer/Awesome6DPoseEstimation)] ![Stars](https://img.shields.io/github/stars/Jianqiuer/Awesome6DPoseEstimation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Jianqiuer/Awesome6DPoseEstimation)  
+- [[My-Robotic-Grasping](https://github.com/kidpaul94/My-Robotic-Grasping)] ![Stars](https://img.shields.io/github/stars/kidpaul94/My-Robotic-Grasping?style=social) ![Last Commit](https://img.shields.io/github/last-commit/kidpaul94/My-Robotic-Grasping)  
 
 ### LLM Robotics
 
