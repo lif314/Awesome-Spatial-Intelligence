@@ -1,8 +1,6 @@
 # Object Pose Estimation
 
-- [NeRF-Based](#NeRF-Based)
-
-## NeRF-Based
+## NeRF
 
 * **BundleSDF**: "Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.14158.pdf)] [[Webpage](https://bundlesdf.github.io/)] 
 
@@ -49,3 +47,6 @@
 * **NeRF-Det**: "Learning Geometry-Aware Volumetric Representation for Multi-View 3D Object Detection", *arXiv*. [[Paper](https://arxiv.org/abs/2307.14620)] [[Page] https://chenfengxu714.github.io/nerfdet/] [[Code] https://github.com/facebookresearch/NeRF-Det]
 
 * **One-step NeRF**: "Marrying NeRF with Feature Matching for One-step Pose Estimation", *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.00891)] [[Short Video](https://www.youtube.com/watch?v=70fgUobOFWo)] [[Website&Code] Coming]
+
+## Gaussian Splatting
+

@@ -37,12 +37,16 @@
 - **GraspNet-1Billion**: A Large-Scale Benchmark for General Object Grasping, *CVPR 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf)] [[Website](https://graspnet.net/)] [[Code](https://github.com/graspnet/graspnet-baseline)] ![Stars](https://img.shields.io/github/stars/graspnet/graspnet-baseline?style=social)
 - **Contact-GraspNet**: Efficient 6-DoF Grasp Generation in Cluttered Scenes, *ICRA 2021*. [[Paper](https://arxiv.org/abs/2103.14127)] [[Website](https://research.nvidia.com/publication/2021-03_contact-graspnet-efficient-6-dof-grasp-generation-cluttered-scenes)] [[Code](https://github.com/NVlabs/contact_graspnet)] [[Code (pytorch)](https://github.com/elchun/contact_graspnet_pytorch)] ![Stars](https://img.shields.io/github/stars/NVlabs/contact_graspnet?style=social)
 - **Graspness**: Graspness Discovery in Clutters for Fast and Accurate Grasp Detection, *ICCV 2021*. [[Paper](https://arxiv.org/abs/2406.11142)] [[Code](https://github.com/graspnet/anygrasp_sdk)] [[Code (unofficial)](https://github.com/rhett-chen/graspness_implementation)] ![Stars](https://img.shields.io/github/stars/rhett-chen/graspness_implementation?style=social)
+- **EconomicGrasp**: An Economic Framework for 6-DoF Grasp Detection, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2407.08366)] [[Code](https://github.com/iSEE-Laboratory/EconomicGrasp)]
 
 ### VLM
+
+- [Language-Grasp-Anything](https://github.com/JackeyLa5/Language-Grasp-Anything):  An open source project that combines speech recognition, target detection and robotic 6-dof grasping to generate feasible grasping poses of specific objects from cluttered scenes.
 
 - **VL-Grasp**: a 6-Dof Interactive Grasp Policy for Language-Oriented Objects in Cluttered Indoor Scenes, *IROS 2023*. [[Paper](https://arxiv.org/abs/2308.00640)] [[Code](https://github.com/luyh20/VL-Grasp)]
 - **Vision-Language-Grasping**: A Joint Modeling of Vision-Language-Action for Target-oriented Grasping in Clutter, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2302.12610)] [[Code](https://github.com/xukechun/Vision-Language-Grasping)]
 - **ThinkGrasp**: A Vision-Language System for Strategic Part Grasping in Clutter, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2407.11298)] [[Website](https://h-freax.github.io/thinkgrasp_page/)] [[Code](https://github.com/H-Freax/ThinkGrasp)]
+- **Grasp as You Say**: Language-guided Dexterous Grasp Generation, *NeurIPS2024*. [[Paper](https://arxiv.org/abs/2405.19291)] [[Website](https://isee-laboratory.github.io/DexGYS/)] [[Code](https://github.com/iSEE-Laboratory/Grasp-as-You-Say)]
 
 ## TSDF
 

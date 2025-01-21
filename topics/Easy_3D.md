@@ -65,6 +65,9 @@
 
 - **latentSplat**: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction, *ECCV 2024*. [[Paper](https://geometric-rl.mpi-inf.mpg.de/latentsplat/static/assets/latentSplat.pdf)] [[Website](https://geometric-rl.mpi-inf.mpg.de/latentsplat/)] [[Code](https://github.com/Chrixtar/latentsplat)]
 - **HiSplat**: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.06245)] [[Website](https://open3dvlab.github.io/HiSplat/)] [[Code](https://github.com/Open3DVLab/HiSplat)]
+- **FoundationStereo**: Zero-Shot Stereo Matching, *arXiv 2025.01*. [[Paper](https://arxiv.org/abs/2501.09898)] [[Website](https://nvlabs.github.io/FoundationStereo/)] [[Code](https://github.com/NVlabs/FoundationStereo)]
+- **GS2Mesh**: Surface Reconstruction from Gaussian Splatting via Novel Stereo Views, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2404.01810)] [[Website](https://gs2mesh.github.io/)] [[Code](https://github.com/yanivw12/gs2mesh)]
+- 
 
 ---
 

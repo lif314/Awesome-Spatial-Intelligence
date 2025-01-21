@@ -56,6 +56,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [[awesome-humanoid-learning](https://github.com/jonyzhang2023/awesome-humanoid-learning)] ![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-humanoid-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-humanoid-learning)  
 - [[awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)] ![Stars](https://img.shields.io/github/stars/YanjieZe/awesome-humanoid-robot-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/YanjieZe/awesome-humanoid-robot-learning)  
 - [[awesome-humanoid-manipulation](https://github.com/Tsunami-kun/awesome-humanoid-manipulation)] ![Stars](https://img.shields.io/github/stars/Tsunami-kun/awesome-humanoid-manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Tsunami-kun/awesome-humanoid-manipulation)  
+- [[awesome-loco-manipulation](https://github.com/aCodeDog/awesome-loco-manipulation)] ![Stars](https://img.shields.io/github/stars/aCodeDog/awesome-loco-manipulation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/aCodeDog/awesome-loco-manipulation)  
 
 ### Tactile Robotics
 
