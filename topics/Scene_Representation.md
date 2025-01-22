@@ -68,3 +68,10 @@
 ### Forward Feed
 
 - **SplatFields**: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2409.11211)] [[Website](https://markomih.github.io/SplatFields/)] [[Code](https://github.com/markomih/SplatFields)]
+
+
+
+### Compression
+
+- **HAC**: Hash-grid Assisted Context for 3D Gaussian Splatting Compression, *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2403.14530)] [[Website](https://yihangchen-ee.github.io/project_hac/)] [[Code](https://github.com/YihangChen-ee/HAC)]
+- **HAC++**: Towards 100X Compression of 3D Gaussian Splatting, *arXiv 2025*. [[Paper](https://github.com/YihangChen-ee/HAC-plus/blob/main/HAC%2B%2B_Towards_100X_Compression_of_3D_Gaussian_Splatting.pdf)] [[Code](https://github.com/YihangChen-ee/HAC-plus)] [[Website](https://yihangchen-ee.github.io/project_hac++/)]

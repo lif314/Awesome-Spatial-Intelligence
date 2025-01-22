@@ -1,5 +1,11 @@
 # Dexterous Manipulation
 
+
+
+## Talks
+
+- 香港大学在读博士罗谦：模仿学习中的数据采集系统, [[bilibili](https://www.bilibili.com/video/BV1VGwneVEzj/?spm_id_from=333.337.search-card.all.click&vd_source=02d17afa86e1a24aea6ec3147fc08936)] [[Qian Luo](https://qianqianlo.github.io/)]
+
 ## Grasping
 
 - **DexGraspNet**: A Large-Scale Robotic Dexterous Grasp Dataset for General Objects Based on Simulation, *ICRA 2023*. [[Paper](https://arxiv.org/abs/2210.02697)] [[Website](https://pku-epic.github.io/DexGraspNet/)] [[Code](https://github.com/PKU-EPIC/DexGraspNet)]
@@ -44,24 +50,29 @@
 
 
 
----
+## Data Collection
 
-## Teleoperation
+### Vision Teleporation
 
+- **DexPilot**: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System, *ICRA 2020*. [[Paper](https://arxiv.org/abs/1910.03135)] [[Website](https://sites.google.com/view/dex-pilot)]
+- **From One Hand to Multiple Hands**: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation, *IROS 2022*. [[Paper](https://arxiv.org/abs/2204.12490)] [[Website](https://yzqin.github.io/dex-teleop-imitation/)] [[Code](https://github.com/yzqin/dex-hand-teleop)]
 - **Dexterous Imitation Made Easy**: A Learning-Based Framework for Efficient Dexterous Manipulation, *arXiv 2022*. [[Paper](https://arxiv.org/abs/2203.13251)] [[Website](https://nyu-robot-learning.github.io/dime/)] [[Code](https://github.com/NYU-robot-learning/DIME-Models)] [[NYU-robot-learning](https://github.com/NYU-robot-learning)]
+- :fire: **AnyTeleop**: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System, *RSS 2023*. [[Paper](https://arxiv.org/abs/2307.04577)] [[Website](https://yzqin.github.io/anyteleop/)] [[Code](https://github.com/dexsuite/dex-retargeting)] [UCSD]
+
+### VR-Controlled Teleporation
+
+- **HATO**: Learning Visuotactile Skills with Two Multifingered Hands, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2404.16823)] [[Website](https://toruowo.github.io/hato/)] [Code](https://github.com/toruowo/hato) [UC Berkeley]
 
 - **Bunny-VisionPro**: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2407.03162)] [[Website](https://dingry.github.io/projects/bunny_visionpro.html)] [[Code](https://github.com/Dingry/BunnyVisionPro)]
-- :fire: **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.07788)] [[Website](https://dex-cap.github.io/)] [[Code](https://github.com/j96w/DexCap)]
-
-- :fire: **ACE**: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2408.11805)] [[Website](https://ace-teleop.github.io/)] [[Code](https://github.com/ACETeleop/ACETeleop)] [[Hardware](https://github.com/ACETeleop/ACE_hardware)]
-
 - **H2O**: Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, *IROS 2024*. [[Paper](https://arxiv.org/abs/2403.04436)] [[Website](https://human2humanoid.com/)] [[Code](https://github.com/LeCAR-Lab/human2humanoid)] [[LeCAR-Lab, CMU](https://github.com/LeCAR-Lab)]
-
 - **OmniH2O**: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.08858)] [[Website](https://omni.human2humanoid.com/)] [[Code](https://github.com/LeCAR-Lab/human2humanoid)] [[LeCAR-Lab, CMU](https://github.com/LeCAR-Lab)]
 
-- **From One Hand to Multiple Hands**: Imitation Learning for Dexterous Manipulation from Single-Camera Teleoperation, *IROS 2022*. [[Paper](https://arxiv.org/abs/2204.12490)] [[Website](https://yzqin.github.io/dex-teleop-imitation/)] [[Code](https://github.com/yzqin/dex-hand-teleop)]
+### Motion Capture System
 
-—
+- :fire: **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, *RSS 2024*. [[Paper](https://arxiv.org/abs/2403.07788)] [[Website](https://dex-cap.github.io/)] [[Code](https://github.com/j96w/DexCap)]
+- :fire: **ACE**: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2408.11805)] [[Website](https://ace-teleop.github.io/)] [[Code](https://github.com/ACETeleop/ACETeleop)] [[Hardware](https://github.com/ACETeleop/ACE_hardware)]
+
+-----
 
 ## Simulation
 
