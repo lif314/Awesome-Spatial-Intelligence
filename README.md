@@ -175,3 +175,4 @@ This is an active repository, you can watch for following the latest advances. I
   - 双目机械臂操作的数据集
   - 双目机械臂的benchmark
 - 2025/1/16: 复现视触觉传感器, [9DTact](https://linchangyi1.github.io/9DTact/) 和 [3D-ViTac](https://binghao-huang.github.io/3D-ViTac/)
+- 2025/1/22: 将[Diff3F](https://github.com/niladridutt/Diffusion-3D-Features)的Part Segmentatioin应用于机械臂的操作，比如[GAPartNet](https://pku-epic.github.io/GAPartNet/)

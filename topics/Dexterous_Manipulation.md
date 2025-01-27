@@ -1,7 +1,5 @@
 # Dexterous Manipulation
 
-
-
 ## Talks
 
 - 香港大学在读博士罗谦：模仿学习中的数据采集系统, [[bilibili](https://www.bilibili.com/video/BV1VGwneVEzj/?spm_id_from=333.337.search-card.all.click&vd_source=02d17afa86e1a24aea6ec3147fc08936)] [[Qian Luo](https://qianqianlo.github.io/)]
@@ -48,7 +46,7 @@
 
 - **H-InDex**: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation, *NeurIPS 2023*. [[Paper](https://arxiv.org/abs/2310.01404)] [[Website](https://yanjieze.com/H-InDex/)] [[Code](https://github.com/YanjieZe/H-InDex)]
 
-
+-----
 
 ## Data Collection
 
@@ -77,6 +75,4 @@
 ## Simulation
 
 - **Bi-DexHands**: Bimanual Dexterous Manipulation via Reinforcement Learning, *arXiv 2022*. [[Paper](https://arxiv.org/abs/2206.08686)] [[Code](https://github.com/PKU-MARL/DexterousHands)] [[Docs](https://pku-marl.github.io/DexterousHands/)] [[PKU-MARL](https://github.com/PKU-MARL)]
-
 - **QuasiSim**: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2404.07988)] [[Website](https://meowuu7.github.io/QuasiSim/)] [[Code](https://github.com/Meowuu7/QuasiSim)]
-- 

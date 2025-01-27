@@ -70,7 +70,7 @@
 - **ASGrasp**: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera, *ICRA 2024*. [[Paper](https://arxiv.org/abs/2405.05648)] [[Website](https://pku-epic.github.io/ASGrasp/)] [[Code](https://github.com/jun7-shi/ASGrasp)]
 - **TransNet**: Transparent Object Manipulation Through Category-Level Pose Estimation, *ECCVW 2022*. [[Paper](https://arxiv.org/abs/2208.10002)] [[Website](https://progress.eecs.umich.edu/projects/transnet/)]
 - D^3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2409.14365)] [[Website](https://pku-epic.github.io/D3RoMa/)] [[Code](https://github.com/songlin/d3roma)]
-- 
+- :fire: Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects, *ECCV 2024*. [[Paper](https://arxiv.org/abs/2208.03792)] [[Website](https://pku-epic.github.io/DREDS/)] [[Code](https://github.com/PKU-EPIC/DREDS)] [[Dataset](https://github.com/PKU-EPIC/DREDS#dataset)]
 
 ---
 
