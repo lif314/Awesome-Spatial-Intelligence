@@ -76,6 +76,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)] ![Stars](https://img.shields.io/github/stars/mcicolella/awesome-emulators-simulators?style=social) ![Github Last Commit](https://img.shields.io/github/last-commit/mcicolella/awesome-emulators-simulators)
 
+- [[Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics)] ![Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium-Robotics?style=social)![Github Last Commit](https://img.shields.io/github/last-commit/Farama-Foundation/Gymnasium-Robotics)
+
 ### Navigation
 
 - [[Awesome-Vision-and-Language-Navigation](https://github.com/iminolee/Awesome-Vision-and-Language-Navigation)] ![Stars](https://img.shields.io/github/stars/iminolee/Awesome-Vision-and-Language-Navigation?style=social) ![Last Commit](https://img.shields.io/github/last-commit/iminolee/Awesome-Vision-and-Language-Navigation)  
@@ -158,21 +160,3 @@ This is an active repository, you can watch for following the latest advances. I
 
 - [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
 - Physics and Simulation
-
----
-
-## Ideas are cheap, Execution is expensive
-
-- 2024/12/24: 在目前透明物体的数据集中加上Tactile，主要是Tactile可以很好的用于滑动检测，很契合的点 :+1:
-- 2024/12/24: 使用Gaussian Ray Tracing进行透明物体重建，主要用于机械臂的透明物体抓取
-  - 2024/12/25：测试Gaussian Ray Tracing, 效果还行
-- 2024/12/24: Single RGB-D的点云补全研究，比如SSD，用于单帧机械臂物体抓取
-- 2024/12/25: 利用SplatFormer进行泛化的透明物体重建
-- 2025/01/05：将[Semantic Diffusion Policy](https://github.com/WangYixuan12/gendp)与[3D Diffusion Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)进行结合，实现3D语义diffusion policy的泛化
-- 2025/1/10: 使用[Gaussian-Property](https://github.com/xxlbigbrother/Gaussian-Property)结合Gelsight触觉进行机器人操作，比如滑动检测
-- 2025/1/10: 将Gaussian Splatting应用在[HOV-SG](https://github.com/hovsg/HOV-SG)上，基于GS的3D场景图构建，应用于导航等任务
-- 2025/1/15: 使用**双目**feed-forward用于机器臂的操作，比如pixelsplat, LatentSplat, HiSplat
-  - 双目机械臂操作的数据集
-  - 双目机械臂的benchmark
-- 2025/1/16: 复现视触觉传感器, [9DTact](https://linchangyi1.github.io/9DTact/) 和 [3D-ViTac](https://binghao-huang.github.io/3D-ViTac/)
-- 2025/1/22: 将[Diff3F](https://github.com/niladridutt/Diffusion-3D-Features)的Part Segmentatioin应用于机械臂的操作，比如[GAPartNet](https://pku-epic.github.io/GAPartNet/)
