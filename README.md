@@ -2,9 +2,7 @@
 
 
 ## 🏠 About
-This repo contains a curative list of **Spatial Intelligence for Robotics**, inspired by [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  and [awesome-Implicit-NeRF-SLAM](https://github.com/DoongLi/awesome-Implicit-NeRF-SLAM).
-
-This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider STARing ⭐ this list. Feel free to share this list with others!
+This repo contains a curative list of **Spatial Intelligence for Robotics**. This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider STARing ⭐ this list. Feel free to share this list with others!
 
 ## Awesome Robot Repository
 
@@ -16,6 +14,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### General Robotics
 
+- [[awesome-generalist-agents](https://github.com/cheryyunl/awesome-generalist-agents)] ![Stars](https://img.shields.io/github/stars/cheryyunl/awesome-generalist-agents?style=social) ![Last Commit](https://img.shields.io/github/last-commit/cheryyunl/awesome-generalist-agents) 
 - [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)] ![Stars](https://img.shields.io/github/stars/zubair-irshad/Awesome-Implicit-NeRF-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  
 - [[awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM)] ![Stars](https://img.shields.io/github/stars/DoongLi/awesome-NeRF-and-3DGS-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/DoongLi/awesome-NeRF-and-3DGS-SLAM)  
 - [[awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)] ![Stars](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jslee02/awesome-robotics-libraries)  

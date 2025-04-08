@@ -27,7 +27,7 @@
 
 - **Tactile DreamFusion**: Exploiting Tactile Sensing for 3D Generation, *NeurIPS 2024*. [[Paper](https://arxiv.org/abs/2412.06785)] [[Website](https://ruihangao.github.io/TactileDreamFusion/)] [[Code](https://github.com/RuihanGao/TactileDreamFusion)]
 - **Binding Touch to Everything**: Learning Unified Multimodal Tactile Representations, *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.18084)] [[Website](https://cfeng16.github.io/UniTouch/)] [[Code](https://github.com/cfeng16/UniTouch)]
-- **TVL**: Rethinking Patch Dependence for Masked Autoencoders, *ICML 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2401.14391)] [[Website](https://tactile-vlm.github.io/)] [[Code](https://github.com/Max-Fu/tvl)]
+- **TVL**: A Touch, Vision, and Language Dataset for Multimodal Alignment, *ICML 2024 (Oral)*. [[Paper](https://arxiv.org/abs/2401.14391)] [[Website](https://tactile-vlm.github.io/)] [[Code](https://github.com/Max-Fu/tvl)]
 - **CTTP**: Contrastive Touch-to-Touch Pretraining, *arXiv 2024*. [[Paper](https://arxiv.org/abs/2410.11834)] [[Website](https://www.mmintlab.com/research/cttp/)] [[Code](https://github.com/MMintLab/CTTP)]
 
 - **T3**: Transferable Tactile Transformers for Representation Learning Across Diverse Sensors and Tasks, *CoRL 2024*. [[Paper](https://arxiv.org/abs/2406.13640)] [[Website](https://t3.alanz.info/)] [[Code](https://github.com/alanzjl/t3)]
@@ -39,3 +39,6 @@
 - **iFEM2.0**: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-Based Tactile Sensors, *TRO 2024*.  [[Paper](https://ieeexplore.ieee.org/abstract/document/10758225)]
 - :fire: **Octopi**: Object Property Reasoning with Large Tactile-Language Models, *RSS 2024*. [[Paper](https://arxiv.org/abs/2405.02794)] [[Code](https://github.com/clear-nus/octopi)]
 - **NeuralFeels with neural fields**: Visuotactile perception for in-hand manipulation, *Science Robotics 2024*. [[Paper](https://arxiv.org/abs/2312.13469)] [[Website](https://suddhu.github.io/neural-feels/)] [[Code](https://github.com/facebookresearch/neuralfeels)] [[CMU](https://www.ri.cmu.edu/)]
+- **SITR**: Sensor-Invariant Tactile Representation, *ICLR 2025*. [[Paper](https://arxiv.org/abs/2502.19638)] [[Website](https://hgupt3.github.io/sitr/)] [[Code](https://github.com/hgupt3/gsrl)] [[Dataset](https://huggingface.co/datasets/hgupt3/sitr_dataset)]
+- **AnyTouch**: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors, *ICLR 2025*. [[Paper](https://arxiv.org/abs/2502.12191)] [[Website](https://gewu-lab.github.io/AnyTouch/)] [[Code](https://github.com/GeWu-Lab/AnyTouch)] [[Dataset](https://huggingface.co/datasets/xxuan01/TacQuad)]
+- **Touch100k**: A Large-Scale Touch-Language-Vision Dataset for Touch-Centric Multimodal Representation, *arXiv 2025*. [[Paper](https://arxiv.org/abs/2406.03813)] [[Website](https://cocacola-lab.github.io/Touch100k/)] [[Code](https://github.com/cocacola-lab/TLV-Link)]
