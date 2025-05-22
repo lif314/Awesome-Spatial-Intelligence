@@ -6,6 +6,10 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 
 ## Awesome Robot Repository
 
+## Top Conferences Papers
+
+- [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)  ![Stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Songwxuan/Embodied-AI-Paper-TopConf)  
+
 ### Scene Representation
 
 - [[awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)]  ![Stars](https://img.shields.io/github/stars/yenchenlin/awesome-NeRF?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yenchenlin/awesome-NeRF)  
@@ -96,66 +100,44 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 
 ---
 
-## Overview  (Personal use)
+## Topics (Personal use)
+### Perception & Scene Understanding
+- [3D Scene Graph](./topics/3D_Scene_Graph.md)  
+- [Object Pose Estimation](./topics/Object_Pose_Estimation.md)  
+- [Scene Representation](./topics/Scene_Representation.md)  
+- [Spatial Perception](./topics/Spatial_Perception.md)  
+- [SLAM](./topics/SLAM.md)  
+- [Easy 3D](./topics/Easy_3D.md)  
 
-- Scene Understanding
-
-- Scene Representation: Points, NeRF, 3DGS
-- Segmentation
-- Multimodal Grouding
-
-- Data Introduction
-  - Video Learning
-
-- **Large Robot Models**
-  - [Large Manipulation Model](./topics/Large_Manipulation_Model.md)
-    - [LLM/VLM Guidance](https://github.com/lif314/Awesome-Spatial-Intelligence/blob/main/topics/Large_Manipulation_Model.md#LLM/VLM-Guidance)
-    - [Structured Instructions](#Structured-Instructions)
-    - [Vision-Language-Action](#Vision-Language-Action)
-  - [Large Navigation Model](./topics/Large_Navigation_Model.md)
-    - [Vision-Language-Action](#Vision-Language-Action)
-- **Specific Object Manipulation**
-  - [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)
-    - [Survey](#Survey)
-    - [Datasets](#Datasets)
-
-    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
-    - [Visual Tactile](#Visual-Tactile)
-    - [Pose Estimation](#Pose-Estimation)
-    - [Simulation](#Simulation)
-    - [Depth Completion](#Depth-Completion)
-    - [3D Reconstruction](#3D-Reconstruction)
-    - [Segmentation](#Segmentation)
-    - [Perception](#Perception)
-  - [Deformable Object Manipulation](./topics/Deformable_Object_Manipulation.md)
-    - [Robotic Grasping-Manipulation](#Robotic-Grasping-Manipulation)
-  - [Articulated Object Manipulation](./topics/Articulated_Object_Manipulation.md)
-    - [Pose Estimation](#Pose-Estimation)
-- **Spatial Intelligence**
-  - [Scene Representation](./topics/Scene_Representation.md)
-    - [3D Gaussian Splatting](#3D-Gaussian-Splatting)
-  - [Easy 3D](./topics/Easy_3D.md)
-    - [Zero Shot 3D Reconstruction](#Zero-Shot-3D-Reconstruction)
-    - [Single View 3D Reconstruction](#Single-View-3D-Reconstruction)
-    - [Sparse View Reconstruction](#Sparse-View-Reconstruction)
-
-    - [Point Cloud Completion](#Point-Cloud-Completion)
-  - [Spatial Understanding](./topics/Spatial_Understanding.md)
-    - [3D Imagination](#3D-Imagination)
-    - [3D Understanding](#3D-Understanding)
-    - [Task-Adaptive 3D Part Segmentation](#Task-Adaptive-3D-Part-Segmentation)
-- [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)
-  - [Grasping and Manipulation](#Grasping-and-Manipulation)
-  - [Representation and Perception](#Representation-and-Perception)
-- [Mobile Manipulation](./topics/Mobile_Manipulation.md)
-  - [Survey](#Survey)
-  - [Benchmark and Hardware](#Benchmark-and-Hardware)
-- [Dataset and Hardware](./topics/Dataset_and_Hardware.md)
-- [Classic Manipulation](./topics/Classic_Manipulation.md)
-  - [Point Cloud Grasping](#Point-Cloud-Grasping)
-  - [3DGS/NeRF Manipulation](#3DGS/NeRF-Manipulation)
-- [SLAM](./topics/SLAM.md)
+### Manipulation & Grasping
+- [Robot Manipulation](./topics/Robot_Manipulation.md)  
+- [Robot Grasping](./topics/Robot_Grasping.md)  
+- [Dexterous Manipulation](./topics/Dexterous_Manipulation.md)  
+- [Affordance Manipulation](./topics/Affordance_Manipulation.md)  
+- [Articulated Object Manipulation](./topics/Articulated_Object_Manipulation.md)  
+- [Deformable Object Manipulation](./topics/Deformable_Object_Manipulation.md)  
+- [Transparent Object Manipulation](./topics/Transparent_Object_Manipulation.md)  
+- [Vision Tactile Manipulation](./topics/Vision_Tactile_Manipulation.md)  
 
 
-- [Object Pose Estimation](./topics/Object_Pose_Estimation.md)
-- Physics and Simulation
+### Navigation & Mobility
+- [Classic Navigation](./topics/Classic_Navigation.md)  
+- [Large Navigation Model](./topics/Large_Navigation_Model.md)  
+- [Mobile Manipulation](./topics/Mobile_Manipulation.md)  
+
+### Models & Learning
+- [Large Manipulation Model](./topics/Large_Manipulation_Model.md)  
+- [Reinforcement Learning](./topics/Reinforcement_Learning.md)  
+
+### Simulation & Digital Twin
+- [Physics and Simulation](./topics/Physics_and_Simulation.md)  
+- [Digital Twin](./topics/Digital_Twin.md)  
+
+### Hardware & Datasets
+- [Dataset and Hardware](./topics/Dataset_and_Hardware.md)  
+- [Franka Tools](./topics/Franka_Tools.md)  
+
+### Resources & Labs
+- [Awesome Robot Lab](./topics/Awesome_Robot_Lab.md)  
+- [Learning Materials](./topics/Learning_Materials.md)  
+
