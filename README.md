@@ -6,10 +6,14 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 
 ## Awesome Robot Repository
 
-## Top Papers
+## Top Papers and Survey
 
 - [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf)  ![Stars](https://img.shields.io/github/stars/Songwxuan/Embodied-AI-Paper-TopConf?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Songwxuan/Embodied-AI-Paper-TopConf)  
 - [Newest-Robotics-Papers-From-ArXiv](https://github.com/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv) ![Stars](https://img.shields.io/github/stars/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv?style=social) ![Last Commit](https://img.shields.io/github/last-commit/luohongk/Awesome-Localization-And-3D-Reconstruction-From-Arxiv)  
+- [Diffusion Models in Robotics: A survey](https://github.com/showlab/Awesome-Robotics-Diffusion) ![Stars](https://img.shields.io/github/stars/showlab/Awesome-Robotics-Diffusion?style=social) ![Last Commit](https://img.shields.io/github/last-commit/showlab/Awesome-Robotics-Diffusion)  
+- [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) ![Stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List?style=social) ![Last Commit](https://img.shields.io/github/last-commit/HCPLab-SYSU/Embodied_AI_Paper_List)  
+- [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) ![Stars](https://img.shields.io/github/stars/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)  
+- [Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models](https://github.com/LongchaoDa/AwesomeSim2Real)![Stars](https://img.shields.io/github/stars/LongchaoDa/AwesomeSim2Real?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LongchaoDa/AwesomeSim2Real)  
 
 ### Scene Representation
 
