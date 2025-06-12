@@ -46,6 +46,7 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - [Orlando-CS/Awesome-VLA](https://github.com/Orlando-CS/Awesome-VLA)![Stars](https://img.shields.io/github/stars/Orlando-CS/Awesome-VLA?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Orlando-CS/Awesome-VLA)  
 - [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) ![Stars](https://img.shields.io/github/stars/Jiaaqiliu/Awesome-VLA-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Jiaaqiliu/Awesome-VLA-Robotics)  
 - [awesome-dual-system-vla](https://github.com/OpenHelix-robot/awesome-dual-system-vla)  ![Stars](https://img.shields.io/github/stars/OpenHelix-robot/awesome-dual-system-vla?style=social) ![Last Commit](https://img.shields.io/github/last-commit/OpenHelix-robot/awesome-dual-system-vla) 
+- :fire:[Awesome-VLA-RL](https://github.com/XiaoWei-i/Awesome-VLA-RL)  ![Stars](https://img.shields.io/github/stars/XiaoWei-i/Awesome-VLA-RL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/XiaoWei-i/Awesome-VLA-RL) 
 
 ### Video for Robotics
 
