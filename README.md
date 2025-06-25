@@ -15,17 +15,18 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) ![Stars](https://img.shields.io/github/stars/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)  
 - [Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models](https://github.com/LongchaoDa/AwesomeSim2Real)![Stars](https://img.shields.io/github/stars/LongchaoDa/AwesomeSim2Real?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LongchaoDa/AwesomeSim2Real)  
 
-### Scene Representation
+### Scene Representation / SLAM
 
 - [[awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)]  ![Stars](https://img.shields.io/github/stars/yenchenlin/awesome-NeRF?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yenchenlin/awesome-NeRF)  
 - [[awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)]  ![Stars](https://img.shields.io/github/stars/MrNeRF/awesome-3D-gaussian-splatting?style=social) ![Last Commit](https://img.shields.io/github/last-commit/MrNeRF/awesome-3D-gaussian-splatting)  
 - [[awesome-dust3r](https://github.com/ruili3/awesome-dust3r)]  ![Stars](https://img.shields.io/github/stars/ruili3/awesome-dust3r?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ruili3/awesome-dust3r)  
+- [[awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)] ![Stars](https://img.shields.io/github/stars/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)  
+- [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) ![Stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/KwanWaiPang/Awesome-Transformer-based-SLAM)  
 
 ### General Robotics
 
 - [[awesome-generalist-agents](https://github.com/cheryyunl/awesome-generalist-agents)] ![Stars](https://img.shields.io/github/stars/cheryyunl/awesome-generalist-agents?style=social) ![Last Commit](https://img.shields.io/github/last-commit/cheryyunl/awesome-generalist-agents) 
 - [[Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)] ![Stars](https://img.shields.io/github/stars/zubair-irshad/Awesome-Implicit-NeRF-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/zubair-irshad/Awesome-Implicit-NeRF-Robotics)  
-- [[awesome-NeRF-and-3DGS-SLAM](https://github.com/DoongLi/awesome-NeRF-and-3DGS-SLAM)] ![Stars](https://img.shields.io/github/stars/DoongLi/awesome-NeRF-and-3DGS-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/DoongLi/awesome-NeRF-and-3DGS-SLAM)  
 - [[awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)] ![Stars](https://img.shields.io/github/stars/jslee02/awesome-robotics-libraries?style=social) ![Last Commit](https://img.shields.io/github/last-commit/jslee02/awesome-robotics-libraries)  
 - [[awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl)] ![Stars](https://img.shields.io/github/stars/ugurkanates/awesome-real-world-rl?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ugurkanates/awesome-real-world-rl)  
 - [[Awesome 3D Gaussian Splatting for Robotics](https://github.com/dtc111111/awesome-3dgs-for-robotics)] ![Stars](https://img.shields.io/github/stars/dtc111111/awesome-3dgs-for-robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/dtc111111/awesome-3dgs-for-robotics)  
