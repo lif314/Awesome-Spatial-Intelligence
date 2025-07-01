@@ -53,7 +53,7 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) ![Stars](https://img.shields.io/github/stars/Jiaaqiliu/Awesome-VLA-Robotics?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Jiaaqiliu/Awesome-VLA-Robotics)  
 - [awesome-dual-system-vla](https://github.com/OpenHelix-robot/awesome-dual-system-vla)  ![Stars](https://img.shields.io/github/stars/OpenHelix-robot/awesome-dual-system-vla?style=social) ![Last Commit](https://img.shields.io/github/last-commit/OpenHelix-robot/awesome-dual-system-vla) 
 - :fire:[Awesome-VLA-RL](https://github.com/XiaoWei-i/Awesome-VLA-RL)  ![Stars](https://img.shields.io/github/stars/XiaoWei-i/Awesome-VLA-RL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/XiaoWei-i/Awesome-VLA-RL) 
-
+- [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) ![Stars](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LMD0311/Awesome-World-Model) 
 ### Video for Robotics
 
 - [[awesome-robot-visual-imitation-learning](https://github.com/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)] ![Stars](https://img.shields.io/github/stars/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)  
