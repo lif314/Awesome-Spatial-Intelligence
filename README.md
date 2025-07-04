@@ -15,6 +15,7 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models) ![Stars](https://img.shields.io/github/stars/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)  
 - [Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models](https://github.com/LongchaoDa/AwesomeSim2Real) ![Stars](https://img.shields.io/github/stars/LongchaoDa/AwesomeSim2Real?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LongchaoDa/AwesomeSim2Real)  
 - [Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends](https://github.com/AoqunJin/Awesome-VLA-Post-Training)  ![Stars](https://img.shields.io/github/stars/AoqunJin/Awesome-VLA-Post-Training?style=social) ![Last Commit](https://img.shields.io/github/last-commit/AoqunJin/Awesome-VLA-Post-Training) 
+- [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) ![Stars](https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey?style=social) ![Last Commit](https://img.shields.io/github/last-commit/NJU3DV-LoongGroup/Embodied-World-Models-Survey) 
 
 ### Scene Representation / SLAM
 
