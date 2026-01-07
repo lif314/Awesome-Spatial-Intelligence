@@ -25,7 +25,7 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - [awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)![Stars](https://img.shields.io/github/stars/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)  
 - [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) ![Stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM?style=social) ![Last Commit](https://img.shields.io/github/last-commit/KwanWaiPang/Awesome-Transformer-based-SLAM)  
 - [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D)  ![Stars](https://img.shields.io/github/stars/ActiveVisionLab/Awesome-LLM-3D?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ActiveVisionLab/Awesome-LLM-3D)  
-
+- [Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)  ![Stars](https://img.shields.io/github/stars/fabiotosi92/Awesome-Deep-Stereo-Matching?style=social) ![Last Commit](https://img.shields.io/github/last-commit/fabiotosi92/Awesome-Deep-Stereo-Matching)
 ### General Robotics
 
 - [awesome-generalist-agents](https://github.com/cheryyunl/awesome-generalist-agents)![Stars](https://img.shields.io/github/stars/cheryyunl/awesome-generalist-agents?style=social) ![Last Commit](https://img.shields.io/github/last-commit/cheryyunl/awesome-generalist-agents) 
@@ -57,6 +57,7 @@ This repo contains a curative list of **Spatial Intelligence for Robotics**. Thi
 - :fire:[Awesome-VLA-RL](https://github.com/XiaoWei-i/Awesome-VLA-RL)  ![Stars](https://img.shields.io/github/stars/XiaoWei-i/Awesome-VLA-RL?style=social) ![Last Commit](https://img.shields.io/github/last-commit/XiaoWei-i/Awesome-VLA-RL) 
 - [Awesome-World-Model](https://github.com/LMD0311/Awesome-World-Model) ![Stars](https://img.shields.io/github/stars/LMD0311/Awesome-World-Model?style=social) ![Last Commit](https://img.shields.io/github/last-commit/LMD0311/Awesome-World-Model) 
 - [Awesome-Unified-Multimodal-Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models)  ![Stars](https://img.shields.io/github/stars/AIDC-AI/Awesome-Unified-Multimodal-Models?style=social) ![Last Commit](https://img.shields.io/github/last-commit/AIDC-AI/Awesome-Unified-Multimodal-Models) 
+
 ### Video for Robotics
 
 - [awesome-robot-visual-imitation-learning](https://github.com/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)![Stars](https://img.shields.io/github/stars/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ZhihaoAIRobotic/awesome-robot-visual-imitation-learning)  
